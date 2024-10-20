@@ -1,0 +1,381 @@
+
+barring:
+    display_name: "David A. Mix Barrington"
+    role: faculty
+    webpage: "https://people.cs.umass.edu/~barring/"
+    image: "https://people.cs.umass.edu/~barring/david_3.jpg"
+    bio: "computational complexity, particularly boolean circuits, automata, logic"
+
+beyhaghi:
+    display_name: "Hedyeh Beyhaghi"
+    role: faculty
+    webpage: "https://hedyehbeyhaghi.github.io"
+    image: "https://hedyehbeyhaghi.github.io/IMG_2857.jpeg"
+    bio: "algorithmic game theory, mechanism design, machine learning theory, algorithms under uncertainty"
+
+golin:
+    display_name: "Mordecai J. Golin"
+    role: faculty
+    webpage: "https://home.cse.ust.hk/~golin/"
+    image: "https://home.cse.ust.hk/~golin/golin_06.jpg"
+    bio: "algorithms, information theory, probabilistic and computational geometry"
+
+hajiesmaili:
+    display_name: "Mohammad Hajiesmaili"
+    role: faculty
+    webpage: "https://groups.cs.umass.edu/hajiesmaili/"
+    image: "https://groups.cs.umass.edu/hajiesmaili/wp-content/uploads/sites/24/2019/12/DSC08489-cropped2.jpg"
+    bio: "online algorithms, online learning, sustainable computing"
+
+immerman:
+    display_name: "Neil Immerman"
+    role: faculty
+    webpage: "http://www.cs.umass.edu/~immerman"
+    image: "https://people.cs.umass.edu/~immerman/neil2014.jpg"
+    bio: "descriptive complexity, logic, static analysis, database theory"
+
+hungle:
+    display_name: "Hung Le"
+    role: faculty
+    webpage: "https://hunglvosu.github.io"
+    image: "https://hunglvosu.github.io/images/profile.png"
+    bio: "graph algorithms, combinatorial optimization, computational geometry, metric embedding"
+
+mcgregor:
+    display_name: "Andrew McGregor"
+    role: faculty
+    webpage: "https://people.cs.umass.edu/~mcgregor/"
+    image: "https://people.cs.umass.edu/~mcgregor/goodies/photo.jpg"
+    bio: "algorithms, data streams, sketching, communication complexity"
+
+musco:
+    display_name: "Cameron Musco"
+    role: faculty
+    webpage: "https://people.cs.umass.edu/~cmusco/"
+    image: "https://people.cs.umass.edu/~cmusco/personal_site/images/head5.jpg"
+    bio: "algorithms, numerical linear algebra, machine learning"
+
+oneill:
+    display_name: "Adam O'Neill"
+    role: faculty
+    webpage: "https://groups.cs.umass.edu/oneill/"
+    image: "https://groups.cs.umass.edu/oneill/wp-content/uploads/sites/23/2019/07/a.jpg"
+    bio: "theoretical and applied cryptography, provable security"
+
+ramesh:
+    display_name: "Ramesh Sitaraman"
+    role: faculty
+    webpage: "https://groups.cs.umass.edu/ramesh/"
+    image: "https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2021/07/2021_Ramesh_Sitaraman_IMG_2448_John_Solem-1.jpeg"
+    bio: "parallel and distributed systems, communication networks"
+
+wilson:
+    display_name: "Mark C. Wilson"
+    role: faculty
+    webpage: "https://markcwilson.site"
+    image: "https://markcwilson.site/wp-content/uploads/2023/06/headshot2023-768x512.jpg"
+    bio: "combinatorics, analysis of algorithms, computational social science"
+
+zick:
+    display_name: "Yair Zick"
+    role: faculty
+    webpage: "https://people.cs.umass.edu/~yzick/"
+    image: "https://www.cics.umass.edu/sites/g/files/ijdqth246/files/styles/1_1_2xl/public/2022-10/yair_zick_square.jpg?h=8a0e61cf&itok=535B_tLy"
+    bio: "game theory, fair division and algorithmic transparency"
+
+mazumdar:
+    display_name: "Arya Mazumdar"
+    webpage: "https://mazumdar.ucsd.edu"
+    role: adjunct
+    bio: UCSD, coding theory, information theory, machine learning
+
+saha:
+    display_name: "Barna Saha"
+    webpage: "https://barnasaha.net"
+    role: adjunct
+    bio: UCSD, algorithms, probabilistic method, combinatorial optimization, data management
+
+istreinu:
+    display_name: "Ileana Streinu"
+    webpage: "http://www.science.smith.edu/~istreinu/"
+    role: adjunct
+    bio: Smith College, computational geometry
+
+cyrus:
+    display_name: "Cyrus Cousins"
+    webpage: "https://cs.brown.edu/~ccousins/"
+    image: "https://people.cs.umass.edu/~yzick/img/lab/cyrus.jpg"
+    role: postdoc
+
+alexandra:
+    display_name: "Alexandra Camero Bejarano"
+    role: grad
+
+rajarshi:
+    display_name: "Rajarshi Bhattacharjee"
+    webpage: "https://rbhattacharj.github.io/"
+    image: "https://rbhattacharj.github.io/images/headshot.jpeg"
+    role: grad
+
+rajarshi:
+    display_name: "Rajarshi Bhattacharjee"
+    webpage: "https://rbhattacharj.github.io/"
+    image: "https://rbhattacharj.github.io/images/headshot.jpeg"
+    role: grad
+
+mohammadreza:
+    display_name: "Mohammadreza Daneshvaramoli"
+    image: "http://solar.cs.umass.edu/img/people/mohammadrezad.jpeg"
+    role: grad
+
+purna:
+    display_name: "Purna Dutta"
+    role: grad
+
+fatemeh:
+    display_name: "Fatemeh Ghaffari"
+    image: "http://solar.cs.umass.edu/img/people/fatemehg.jpeg"
+    role: grad
+
+ativ:
+    display_name: "Ativ Joshi"
+    webpage: "https://ativjoshi.github.io/"
+    image: "http://solar.cs.umass.edu/img/people/ativj.jpeg"
+    role: grad
+
+helia:
+    display_name: "Helia Karisani"
+    webpage: "https://helia-karisani.github.io/"
+    image: "http://solar.cs.umass.edu/img/people/heliak.jpeg"
+    role: grad
+
+an:
+    display_name: "An La"
+    webpage: "https://anla-cs.github.io"
+    image: "https://anla-cs.github.io/authors/admin/avatar_hu86935f05d37289e709e42e05eb9c05cd_57871_270x270_fill_q75_lanczos_center.jpg"
+    role: grad
+
+adaml:
+    display_name: "Adam Lechowicz"
+    webpage: "https://adamlechowicz.github.io/"
+    image: "https://adamlechowicz.github.io/assets/img/bio_photo.jpeg"
+    role: grad
+
+justin:
+    display_name: "Justin Payan"
+    webpage: "https://justinpayan.github.io/"
+    image: "https://justinpayan.github.io/images/jp_profile.png"
+    role: grad
+
+cuong:
+    display_name: "Cuong Than"
+    webpage: "https://thanvietcuong.github.io/"
+    image: "https://thanvietcuong.github.io/images/Anh%20Cuong.png"
+    role: grad
+
+vignesh:
+    display_name: "Vignesh Viswanathan"
+    webpage: "https://people.cs.umass.edu/~vviswanathan/"
+    image: "https://people.cs.umass.edu/~vviswanathan/images/Vignesh.jpeg"
+    role: grad
+
+vinayak:
+    display_name: "Vinayak"
+    role: grad
+
+shuang:
+    display_name: "Shuang Yang"
+    role: grad
+
+rik:
+    display_name: "Rik Sengupta"
+    webpage: "https://people.cs.umass.edu/~rsengupta/"
+    role: alum
+    bio: "Research Scientist, IBM"
+
+archan:
+    display_name: "Archan Ray"
+    webpage: "https://archanray.github.io"
+    role: alum
+    bio: "Research Scientist, JP Morgan"
+
+dan:
+    display_name: "Sudhanshu (Dan) Chanpuriya"
+    role: alum
+    webpage: "https://schariya.github.io"
+    bio: "Research Scientist, Meta"
+
+raghav:
+    display_name: "Raghav Addanki"
+    webpage: "https://people.cs.umass.edu/~raddanki/"
+    role: alum
+    bio: "Research Scientist, Adobe"
+
+alam:
+    display_name: "Md. Ashraful Alam"
+    role: alum
+
+bowers:
+    display_name: "John Bowers"
+    webpage: "https://w3.cs.jmu.edu/bowersjc/"
+    role: alum
+    bio: "Assistant Professor, James Madison University"
+
+crouch:
+    display_name: "Michael Crouch"
+    role: alum
+    bio: "Bell Labs, Ireland"
+
+datta:
+    display_name: "Suprakash Datta"
+    webpage: "http://www.cs.yorku.ca/~datta/"
+    role: alum
+    bio: "Assistant Professor, York University, Canada"
+
+etessami:
+    display_name: "Kousha Etessami"
+    webpage: "http://homepages.inf.ed.ac.uk/kousha/"
+    role: alum
+    bio: "Professor, University of Edinburgh, UK"
+
+flodin:
+    display_name: "Larkin Flodin"
+    role: alum
+    bio: "Amazon"
+
+freire:
+    display_name: "Cibele Freire"
+    webpage: "https://www.bowdoin.edu/profiles/faculty/cfreire/index.html"
+    role: alum
+    bio: "Assistant Professor, Bowdoin College"
+
+galhotra:
+    display_name: "Sainyam Galhotra"
+    webpage: "https://sainyamgalhotra.github.io/"
+    role: alum
+    bio: "CI Fellow, University of Chicago"
+
+gandikota:
+    display_name: "Venkata Gandikota"
+    webpage: "https://sites.google.com/view/gvenkata/home"
+    role: alum
+    bio: "Assistant Professor, Syracuse University"
+
+gao:
+    display_name: "Lixin Gao"
+    webpage: "https://www.umass.edu/engineering/about/directory/lixin-gao"
+    role: alum
+    bio: "Professor, Electrical and Computer Engineering, UMass Amherst"
+
+heeringa:
+    display_name: "Brent Heeringa"
+    webpage: "http://www.cs.williams.edu/~heeringa/"
+    role: alum
+    bio: "Associate Professor, Williams College"
+
+hesse:
+    display_name: "William Hesse"
+    role: alum
+    bio: "Google"
+
+kasera:
+    display_name: "Kamal Kasera"
+    role: alum
+    bio: "Goldman Sachs"
+
+stjohn:
+    display_name: "Audrey St. John"
+    webpage: "http://minerva.cs.mtholyoke.edu/"
+    role: alum
+    bio: "Professor, Computer Science Department, Mt. Holyoke College"
+
+jenlu:
+    display_name: "Chi-Jen Lu"
+    webpage: "http://www.iis.sinica.edu.tw/~cjlu"
+    role: alum
+    bio: "Associate Research Fellow, Institute of Information Science, Taiwan"
+
+maity:
+    display_name: "Raj Kumar Maity"
+    webpage: "https://sites.google.com/view/rajkumarmaity/home"
+    role: alum
+    bio: "Microsoft"
+
+matthew:
+    display_name: "Vimal Matthew"
+    role: alum
+
+mccartinlim:
+    display_name: "Mark McCartin-Lim"
+    role: alum
+    bio: "Assistant Professor, Wabash College"
+
+medina:
+    display_name: "J. Antonio Medina"
+    role: alum
+    bio: "Morgan Stanley"
+
+patnaik:
+    display_name: "Sushant Patnaik"
+    role: alum
+    bio: "Wachovia Securities"
+
+scarano:
+    display_name: "Vittorio Scarano"
+    webpage: "https://docenti.unisa.it/001717/home"
+    role: alum
+    bio: "Associate Professor, Universita di Salerno, Italy"
+
+sindelar:
+    display_name: "Michael Sindelar"
+    role: alum
+    bio: "Google"
+
+shekharsingh:
+    display_name: "Shashi Shekhar Singh"
+    role: alum
+    bio: "Bloomberg"
+
+srivastava:
+    display_name: "Siddharth Srivastava"
+    webpage: "http://siddharthsrivastava.net/"
+    role: alum
+    bio: "Assistant Professor, Arizona State University"
+
+stubbs:
+    display_name: "Daniel Stubbs"
+    role: alum
+    bio: "MIT"
+
+tench:
+    display_name: "David Tench"
+    webpage: "http://www.davidtench.com/"
+    role: alum
+    bio: "CI Fellow, Rutgers University"
+
+theran:
+    display_name: "Louis Theran"
+    webpage: "https://theran.lt/"
+    role: alum
+    bio: "Lecturer, University of St. Andrews"
+
+venkataramani:
+    display_name: "Harish Venkataramani"
+    webpage: "https://www.harishv.com/"
+    role: alum
+    bio: "Google"
+
+vorotnikova:
+    display_name: "Sofya Vorotnikova"
+    role: alum
+
+hoavu:
+    display_name: "Hoa Vu"
+    webpage: "https://www.hoavu.org/"
+    role: alum
+    bio: "Assistant Professor, San Diego State University"
+
+weis:
+    display_name: "Philipp Weis"
+    role: alum
+    bio: "Google"

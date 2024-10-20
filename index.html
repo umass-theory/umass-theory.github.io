@@ -1,0 +1,75 @@
+---
+layout: default
+title: Home
+notitle: true
+
+# groups of columns of {roles: list, width: num, image: bool}
+role-tables:
+- - roles: [faculty]
+    width: 12
+    image: true
+  - roles: [adjunct]
+    width: 12
+    image: false
+  - roles: [postdoc, staff, grad]
+    width: 12
+    image: true
+  - roles: [alum]
+    width: 12
+    image: false
+---
+
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="100%" src="https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-scaled.jpg" alt="" class="wp-image-1032" srcset="https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-scaled.jpg 2560w, https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-300x90.jpg 300w, https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-1024x306.jpg 1024w, https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-768x230.jpg 768w, https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-1536x460.jpg 1536w, https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-2048x613.jpg 2048w, https://groups.cs.umass.edu/theory/wp-content/uploads/sites/25/2024/09/E0C40680-0958-4B21-9597-F6EAF37CEE62-1200x359.jpg 1200w" sizes="(max-width: 2560px) 100vw, 2560px"><figcaption class="wp-element-caption" style="text-align: center;">Fall 2024 Theory Group outing at Tree House in Deerfield, Mass.</figcaption></figure>
+
+<div class="jumbotron">
+    <h2>About Us</h2>
+    <p>The theory group consists of twelve faculty members (plus three adjuncts) who use mathematical techniques to study problems throughout computer science. We work on network algorithms, coding theory, combinatorial optimization, computational geometry, data streams, dynamic algorithms and complexity, model checking and static analysis, database theory, descriptive complexity, parallel algorithms and architectures, online algorithms, algorithmic game theory, machine learning theory, and computational complexity theory. Members of the theory group wear other hats as well and collaborate throughout the department and the world beyond. For more details of the myriad work going on, please visit our webpages.</p>
+</div>
+
+<!-- 
+<section>
+    <h2>News</h2>
+    <ul class="news list-unstyled">
+        {% for post in site.posts limit: site.front_page_news %}
+            {% include news-item.html item=post %}
+        {% endfor %}
+    </ul>
+    {% assign numposts = site.posts | size %}
+    {% if numposts >= 1 %}
+        <p>
+            <span class="fa fa-fw fa-history"></span>
+            <a href="{{ site.base }}/blog.html">Older posts&hellip;</a>
+        </p>
+    {% endif %}
+</section> -->
+
+<!-- <section>
+    <h2>Research</h2>
+    <div class="card-columns">
+        {% comment %}
+        Sort the projects by date, putting those without dates last
+        {% endcomment %}
+        {% assign projects_by_date = site.projects | sort: 'last-updated', 'first' %}
+        {% assign projects_by_date = projects_by_date | reverse %}
+        {% for p in projects_by_date %}
+            {% if p.status != "inactive" %}
+                {% include project-card.html project=p %}
+            {% endif %}
+        {% endfor %}
+    </div>
+</section> -->
+
+<div id="people">
+    <h2>People</h2>
+    {% for role-table in page.role-tables %}
+        <section class="people row justify-content-between">
+            {% for role-column in role-table %}
+                <div class="col-md-{{ role-column.width }}">
+                    {% for role in role-column.roles %}
+                        {% include role-people.html role=role image=role-column.image %}
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </section>
+    {% endfor %}
+</div>
