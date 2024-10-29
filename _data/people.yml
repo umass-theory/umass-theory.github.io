@@ -117,10 +117,10 @@ rajarshi:
     image: "https://rbhattacharj.github.io/images/headshot.jpeg"
     role: grad
 
-rajarshi:
-    display_name: "Rajarshi Bhattacharjee"
-    webpage: "https://rbhattacharj.github.io/"
-    image: "https://rbhattacharj.github.io/images/headshot.jpeg"
+amirmahdi:
+    display_name: "Amirmahdi Mirfakhar"
+    webpage: "https://www.linkedin.com/in/amirmahdi-mirfakhar-474a43137/en"
+    image: "http://solar.cs.umass.edu/img/people/amirmahdim.jpeg"
     role: grad
 
 mohammadreza:
