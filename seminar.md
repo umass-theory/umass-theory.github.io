@@ -163,19 +163,19 @@ Kate Donahue is a MIT METEOR postdoc at MIT (mentored by Manish Raghavan) and st
 
 <hr>
 
-##### TBD
+##### Learning from Strategic Data Sources
 
-[Han Shao](https://sites.google.com/view/hanshao) (TTIC) --  *Thursday, October 31 @ 4 pm*
+[Han Shao](https://sites.google.com/view/hanshao) (Harvard) --  *Thursday, October 31 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+In contrast with standard classification tasks, strategic classification involves agents strategically modifying their features in an effort to receive favorable predictions. For instance, given a classifier determining loan approval based on credit scores, applicants may open or close their credit cards and bank accounts to fool the classifier. The learning goal is to find a classifier robust against strategic manipulations. Various settings, based on what and when information is known, have been explored in strategic classification. In this talk, I will focus on addressing a fundamental question: the learnability gaps between strategic classification and standard learning. This talk is based on joint work with Avrim Blum, Omar Montasser, Lee Cohen, Yishay Mansour, and Shay Moran ([arxiv.org/abs/2305.16501](arxiv.org/abs/2305.16501), [arxiv.org/abs/2402.19303](arxiv.org/abs/2402.19303)).
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-Bio TBA
+Han Shao is a CMSA postdoc at Harvard, working with Cynthia Dwork and Ariel Procaccia. She will join the Department of Computer Science at the University of Maryland in Fall 2025 as an Assistant Professor. She completed her Ph.D. at TTIC, where she was advised by Avrim Blum. Her research focuses on the theoretical foundations of machine learning, particularly on fundamental questions arising from human social and adversarial behaviors in the learning process. She is interested in understanding how these behaviors affect machine learning systems and developing methods to enhance accuracy and robustness. Additionally, she is interested in gaining a theoretical understanding of empirical observations concerning adversarial robustness. Her work has been published in machine learning venues including NeurIPS, ICML, and COLT. In 2023, she was awarded EECS Rising Star by Georgia Tech and Rising Star in Machine Learning by the University of Maryland.
 
 </details>
 
