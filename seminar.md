@@ -181,6 +181,30 @@ Han Shao is a CMSA postdoc at Harvard, working with Cynthia Dwork and Ariel Proc
 
 <hr>
 
+##### Collusion in the Age of Algorithmic Agents
+
+[Sampath Kannan](https://www.cis.upenn.edu/~kannan/) (UPenn) --  *Monday, November 4 @ 4 pm (SPECIAL TIME)*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Fair competition demands that sellers do not collude with each other in setting prices. But what does this mean? Prior work has shown that two sellers  can set supra-competitive prices and gain supra-competitive revenue by either encoding threats in their behavior, or by not optimizing their own payoffs. Moreover, reinforcement learning algorithms can learn such threat strategies on their own.
+
+Here we show that supra-competitive prices can arise in seemingly innocuous settings, when no threats are being encoded, and each agent is playing optimally. In our model each of the two agents sets a price for a good at each point in time, and the agent setting the lower price sells the good. We show that if one of the agents uses a no-regret algorithm to set prices, and the other aproximately best responds, then both agents can get close to monopolistic profits, rather than the near-zero profit they should get under perfect competition. This suggests that it is non-trivial to define collusion in the age of algorithmic agents.
+
+This talk will be self-contained and introduce the bits of game theory, online learning, and economics needed for understanding it.
+
+The work is joint with Natalie Collina, Eshwar Arunachaleswaran, Aaron Roth, and Juba Ziani.
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Sampath Kannan is the associate director of the Simons Institute for the Theory of Computing and the Henry Salvatori Professor in the Department of Computer and Information Science at the University of Pennsylvania. His research interests are in the areas of Algorithmic Fairness, Combinatorial Algorithms, Program Reliability, Streaming Computation, and Computational Biology. Sampath served as Associate Dean for Academics in the School of Engineering and Applied Science at Penn between 2006 and 2008 and as Division Director for the Computing and Communication Foundations Division at the National Science Foundation from 2008 to 2010. He served as Associate Director for Theoretical Computer Science at the Simons Foundation from 2010 to 2013. He was the Chair of the Computer and Information Science Department at Penn between 2013 and 2018. He is a Fellow of the ACM, and the recipient of the ACM SIGACT Distinguished Service Award. He is also a Fellow of the American Association for the Advancement of Science.
+
+</details>
+
+<hr>
+
 ##### TBD
 
 [Nikhil Vyas](https://nikhilvyas.github.io) (Harvard) --  *Thursday, November 7 @ 4 pm*
