@@ -225,7 +225,7 @@ Bio TBA
 
 ##### TBD
 
-[Andreas Maggiori](https://andreasr27.github.io/) (Columbia) --  *Thursday, November 14 @ 4 pm*
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Thursday, November 14 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -243,7 +243,7 @@ Bio TBA
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Thursday, November 21 @ 4 pm*
+[Andreas Maggiori](https://andreasr27.github.io/) (Columbia) --  *Thursday, November 21 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
