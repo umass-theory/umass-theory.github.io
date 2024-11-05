@@ -205,19 +205,20 @@ Sampath Kannan is the associate director of the Simons Institute for the Theory 
 
 <hr>
 
-##### TBD
+##### How Shampoo Optimizer Works and Ways to Improve It
 
-[Nikhil Vyas](https://nikhilvyas.github.io) (Harvard) --  *Thursday, November 7 @ 4 pm*
-<details markdown="1">
+[Nikhil Vyas](https://nikhilvyas.github.io) (Harvard) --  *Thursday, November 7 @ 4 pm (virtual)*
+<details open="open" markdown="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+Shampoo, a second-order optimization algorithm which uses a Kronecker product preconditioner, has recently garnered increasing attention from the machine learning community. We provide a theoretical understanding by giving an explicit connection between the optimal Kronecker product approximation of Newton's method and the preconditioner used by Shampoo. Starting from this new perspective we describe an approach (SOAP optimizer) to improve Shampoo's performance and reduce its hyperparameters. 
+
 
 </details>
-<details markdown="1">
+<details open="open" markdown="1">
 <summary>Bio</summary>
 
-Bio TBA
+Nikhil Vyas is a postdoctoral fellow at Harvard University, hosted by Prof. Sham Kakade. He completed his PhD in 2022 at the Theory of computing group at MIT, advised by Prof. Ryan Williams. His current research focus is on understanding and improving deep learning, most recently on optimization of neural networks.
 
 </details>
 
