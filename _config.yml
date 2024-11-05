@@ -1,5 +1,5 @@
 name: Theory Group
-url: http://awesome.example.edu
+url: http://theory.cs.umass.edu
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
