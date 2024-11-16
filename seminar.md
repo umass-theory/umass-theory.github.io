@@ -242,19 +242,22 @@ Bio TBA
 
 <hr>
 
-##### TBD
+##### Fair Secretaries with Unfair Predictions
 
 [Andreas Maggiori](https://andreasr27.github.io/) (Columbia) --  *Thursday, November 21 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+Algorithms with predictions is a recent framework for decision-making under uncertainty that leverages the power of machine-learned predictions without making any assumption about their quality. The goal in this framework is for algorithms to achieve an improved performance when the predictions are accurate while maintaining acceptable guarantees when the predictions are erroneous. A serious concern with algorithms that use predictions is that  these predictions can be biased and, as a result, cause the algorithm to make decisions that are deemed unfair. We show that this concern manifests itself in the classical secretary problem in the learning-augmented setting---the state-of-the-art algorithm can have zero probability of accepting the best candidate, which we deem unfair, despite promising to accept a candidate whose expected value is at least $\max\{\Omega(1) ,1 - O(\epsilon)\}$ times the optimal value, where $\epsilon$ is the prediction error.
+We show how to preserve this promise while also guaranteeing to accept the best candidate with probability $\Omega(1)$. Our algorithm and analysis are based on a new ``pegging'' idea that diverges from existing works and simplifies/unifies some of their results. Finally, we extend to the $k$-secretary problem and complement our theoretical analysis with experiments.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-Bio TBA
+I am a Postdoctoral Researcher at the Data Science Institute (DSI) at Columbia University, where I am working with Eric Balkanski and Will Ma. 
+I am interested in data-driven decision-making under uncertainty and its societal implications. My work combines techniques from combinatorial optimization and machine learning with the ultimate goal of designing algorithms that outperform classical algorithms when accurate predictions about the future are available while maintaining robustness against adversarial and/or biased predictions.
+Prior to that, I earned my PhD at EPFL, advised by Rudiger Urbanke and Ola Svensson. During my PhD, I visited the Simons Institute, UC Berkeley for the Data-Driven Decision Processes program. I also interned twice at Google Research, hosted by Nikos Parotsidis and Ehsan Kazemi accordingly.  Before joining EPFL, I did my undergrad in Greece, in the Electrical and Computer Engineering department of National Technical University of Athens.
 
 </details>
 
