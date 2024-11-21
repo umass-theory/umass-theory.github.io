@@ -208,14 +208,14 @@ Sampath Kannan is the associate director of the Simons Institute for the Theory 
 ##### How Shampoo Optimizer Works and Ways to Improve It
 
 [Nikhil Vyas](https://nikhilvyas.github.io) (Harvard) --  *Thursday, November 7 @ 4 pm (virtual)*
-<details open="open" markdown="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Shampoo, a second-order optimization algorithm which uses a Kronecker product preconditioner, has recently garnered increasing attention from the machine learning community. We provide a theoretical understanding by giving an explicit connection between the optimal Kronecker product approximation of Newton's method and the preconditioner used by Shampoo. Starting from this new perspective we describe an approach (SOAP optimizer) to improve Shampoo's performance and reduce its hyperparameters. 
 
 
 </details>
-<details open="open" markdown="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Nikhil Vyas is a postdoctoral fellow at Harvard University, hosted by Prof. Sham Kakade. He completed his PhD in 2022 at the Theory of computing group at MIT, advised by Prof. Ryan Williams. His current research focus is on understanding and improving deep learning, most recently on optimization of neural networks.
@@ -224,35 +224,23 @@ Nikhil Vyas is a postdoctoral fellow at Harvard University, hosted by Prof. Sham
 
 <hr>
 
-##### TBD
+##### *No seminar*
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Thursday, November 14 @ 4 pm*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
-
-</details>
+*Thursday, November 14 @ 4 pm*
 
 <hr>
 
 ##### Fair Secretaries with Unfair Predictions
 
 [Andreas Maggiori](https://andreasr27.github.io/) (Columbia) --  *Thursday, November 21 @ 4 pm*
-<details markdown="1">
+<details open="open" markdown="1">
 <summary>Abstract</summary>
   
 Algorithms with predictions is a recent framework for decision-making under uncertainty that leverages the power of machine-learned predictions without making any assumption about their quality. The goal in this framework is for algorithms to achieve an improved performance when the predictions are accurate while maintaining acceptable guarantees when the predictions are erroneous. A serious concern with algorithms that use predictions is that  these predictions can be biased and, as a result, cause the algorithm to make decisions that are deemed unfair. We show that this concern manifests itself in the classical secretary problem in the learning-augmented setting---the state-of-the-art algorithm can have zero probability of accepting the best candidate, which we deem unfair, despite promising to accept a candidate whose expected value is at least $\max\{\Omega(1) ,1 - O(\epsilon)\}$ times the optimal value, where $\epsilon$ is the prediction error.
 We show how to preserve this promise while also guaranteeing to accept the best candidate with probability $\Omega(1)$. Our algorithm and analysis are based on a new ``pegging'' idea that diverges from existing works and simplifies/unifies some of their results. Finally, we extend to the $k$-secretary problem and complement our theoretical analysis with experiments.
 
 </details>
-<details markdown="1">
+<details open="open" markdown="1">
 <summary>Bio</summary>
 
 I am a Postdoctoral Researcher at the Data Science Institute (DSI) at Columbia University, where I am working with Eric Balkanski and Will Ma. 
