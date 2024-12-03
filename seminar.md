@@ -257,24 +257,6 @@ Prior to that, I earned my PhD at EPFL, advised by Rudiger Urbanke and Ola Svens
 
 <hr>
 
-##### TBD
-
-[Omer Wasim](https://www.khoury.northeastern.edu/people/omer-wasim/) (Northeastern) --  *Thursday, December 5 @ 4 pm*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
-
-</details>
-
-<hr>
-
 
 <!-- ##### TBD
 
