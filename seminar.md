@@ -282,7 +282,7 @@ Bio TBA
 
 <hr>
 
-##### Past Seminars Archive
+#### Past Seminars Archive
 
 [Fall 2024](https://theory.cs.umass.edu/seminar-f24)
 
