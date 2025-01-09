@@ -1,10 +1,8 @@
 ---
 layout: seminar
-title: Theory Seminar
+title: Fall 2024 Theory Seminar (archive)
 ---
 This is an archive of the Fall 2024 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar was **4-5 pm on Thursdays** in **CS 140**, in the Computer Science Building at UMass Amherst, and is free and open to the public. The faculty host was [Hung Le](https://hunglvosu.github.io/). 
-
-<hr>
 
 <hr>
 
