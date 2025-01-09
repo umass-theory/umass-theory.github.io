@@ -2,9 +2,9 @@
 layout: seminar
 title: Theory Seminar
 ---
-Welcome to the Spring 2025 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **4-5 pm on Thursdays** in **CS 140**, in the Computer Science Building at UMass Amherst, and is free and open to the public. The faculty host is [Yair Zick](https://people.cs.umass.edu/~yzick/). If you are interested in giving a talk, please email Professor Zick or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
+Welcome to the Spring 2025 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **4-5 pm on Tuesdays** in **CS 140**, in the Computer Science Building at UMass Amherst, and is free and open to the public. The faculty host is [Yair Zick](https://people.cs.umass.edu/~yzick/). If you are interested in giving a talk, please email Professor Zick or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
 
-All Thursday talks are in **CS 140**, unless otherwise stated.
+All Tuesday talks are in **CS 140**, unless otherwise stated.
 
 <hr>
 
@@ -18,13 +18,14 @@ All Thursday talks are in **CS 140**, unless otherwise stated.
 
 ##### Organizational Meeting
 
-*Thursday, January 30 @ 4 pm*
+*Tuesday, February 4 @ 4 pm*
 
 <hr>
 
+
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, February 6 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, February 11 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -42,7 +43,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, February 13 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, February 18 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -60,7 +61,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, February 20 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, February 25 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -78,7 +79,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, February 27 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, March 4 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -96,7 +97,31 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, March 6 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, March 11 @ 4 pm*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Abstract TBA
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Bio TBA
+
+</details>
+
+<hr>
+
+##### *No seminar (spring break)*
+
+*Tuesday, March 18 @ 4 pm*
+
+<hr>
+
+##### TBA
+
+[TBA](TBA) (TBA) --  *Tuesday, March 25 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -114,31 +139,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, March 13 @ 4 pm*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
-
-</details>
-
-<hr>
-
-##### *No seminar*
-
-*Thursday, March 20 @ 4 pm*
-
-<hr>
-
-##### TBA
-
-[TBA](TBA) (TBA) --  *Thursday, March 27 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 1 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -156,7 +157,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, April 3 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 8 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -174,7 +175,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, April 10 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 15 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -192,7 +193,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, April 17 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 22 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -210,7 +211,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, April 24 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 29 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -228,25 +229,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Thursday, May 1 @ 4 pm*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
-
-</details>
-
-<hr>
-
-##### TBA
-
-[TBA](TBA) (TBA) --  *Thursday, May 8 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, May 6 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -264,7 +247,7 @@ Bio TBA
 
 <!-- ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Thursday, October 24 @ 4 pm*
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Tuesday, October 24 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
