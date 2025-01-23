@@ -43,7 +43,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, February 18 @ 4 pm*
+[Miranda Christ](https://www.cs.columbia.edu/~mchrist/) (Columbia) --  *Tuesday, February 18 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -61,7 +61,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, February 25 @ 4 pm*
+[Deeparnab Chakrabarty](https://www.cs.dartmouth.edu/~deepc/) (Dartmouth) --  *Tuesday, February 25 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -79,7 +79,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, March 4 @ 4 pm*
+[Manolis Zampetakis](https://mzampet.com/) (Yale) --  *Tuesday, March 4 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -97,7 +97,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, March 11 @ 4 pm*
+[Soumyajit Pyne](https://sites.google.com/view/soumyajitpyne) (TIFR) --  *Tuesday, March 11 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -121,7 +121,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, March 25 @ 4 pm*
+[Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/) (Northeastern) --  *Tuesday, March 25 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -157,7 +157,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, April 8 @ 4 pm*
+[Hengjie Zhang](https://www.cs.columbia.edu/~zhj/) (Columbia) --  *Tuesday, April 8 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -175,7 +175,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, April 15 @ 4 pm*
+[Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/) (Microsoft Research) --  *Tuesday, April 15 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -193,7 +193,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, April 22 @ 4 pm*
+[Ariel Procaccia](http://procaccia.info/) (Harvard) --  *Tuesday, April 22 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -211,7 +211,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, April 29 @ 4 pm*
+[Emmanuele Viola](https://www.khoury.northeastern.edu/home/viola/) (Northeastern) --  *Tuesday, April 29 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
