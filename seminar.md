@@ -160,9 +160,9 @@ Bio TBA
 <details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-We study graph spanners for point-set in the high-dimensional Euclidean space. On the one hand, we prove that spanners with stretch $$<\sqrt{2}$$ and subquadratic size are not possible, even if we add Steiner points. On the other hand, if we add extra nodes to the graph (non-metric Steiner points), then we can obtain $$(1+\epsilon)$$-approximate spanners of subquadratic size. We show how to construct a spanner of size $$n^{2-\Omega(\eps^3)}$$, as well as a directed version of the spanner of size $$n^{2-\Omega(\eps^2)}$$.
+We study graph spanners for point-set in the high-dimensional Euclidean space. On the one hand, we prove that spanners with stretch $$<\sqrt{2}$$ and subquadratic size are not possible, even if we add Steiner points. On the other hand, if we add extra nodes to the graph (non-metric Steiner points), then we can obtain $$(1+\epsilon)$$-approximate spanners of subquadratic size. We show how to construct a spanner of size $$n^{2-\Omega(\epsilon^3)}$$, as well as a directed version of the spanner of size $$n^{2-\Omega(\epsilon^2)}$$.
 
-We use our directed spanner to obtain an algorithm for computing $$(1+\epsilon)$$-approximation to Earth-Mover Distance (optimal transport) between two sets of size $$n$$ in time $$n^{2-\Omega(\eps^2)}$$.
+We use our directed spanner to obtain an algorithm for computing $$(1+\epsilon)$$-approximation to Earth-Mover Distance (optimal transport) between two sets of size $$n$$ in time $$n^{2-\Omega(\epsilon^2)}$$.
 
 </details>
 
