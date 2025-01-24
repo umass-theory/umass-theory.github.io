@@ -25,7 +25,7 @@ All Tuesday talks are in **CS 140**, unless otherwise stated.
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, February 11 @ 4 pm*
+[Mengfan Xu](https://mengfanxu1997.github.io/) (UMass M&I Eng.) --  *Tuesday, February 11 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -95,19 +95,18 @@ Bio TBA
 
 <hr>
 
-##### TBA
+##### Equilibrium Computation in the Hotelling-Downs Model of Spatial Competition
 
 [Soumyajit Pyne](https://sites.google.com/view/soumyajitpyne) (TIFR) --  *Tuesday, March 11 @ 4 pm*
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-Abstract TBA
+The Hotelling-Downs model is a natural and appealing model for understanding strategic positioning by candidates in elections. In this model, voters are distributed on a line, representing their ideological position on an issue. Each candidate then chooses as a strategy a position on the line to maximize her vote share. Each voter votes for the nearest candidate, closest to their ideological position. This sets up a game between the candidates, and we study pure Nash equilibria in this game. The model and its variants are an important tool in political economics, and are studied widely in computational social choice as well.
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
+Despite the interest and practical relevance, most prior work focuses on the existence and properties of pure Nash equilibria in this model, ignoring computational issues. Our work gives algorithms for computing pure Nash equilibria in the basic model. We give three algorithms, depending on whether the distribution of voters is continuous or discrete, and similarly, whether the possible candidate positions are continuous or discrete. In each case, our algorithms return either an exact equilibrium or one arbitrarily close to exact, assuming existence. We believe our work will be useful, and may prompt interest, in computing equilibria in the wide variety of extensions of the basic model as well.
 
-Bio TBA
+Arxiv link: [https://arxiv.org/abs/2412.12523](https://arxiv.org/abs/2412.12523)
+
 
 </details>
 
@@ -155,19 +154,15 @@ Bio TBA
 
 <hr>
 
-##### TBA
+##### Sub-quadratic $(1+\eps)$-approximate Euclidean Spanners, with Applications
 
 [Hengjie Zhang](https://www.cs.columbia.edu/~zhj/) (Columbia) --  *Tuesday, April 8 @ 4 pm*
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-Abstract TBA
+We study graph spanners for point-set in the high-dimensional Euclidean space. On the one hand, we prove that spanners with stretch $<\sqrt{2}$ and subquadratic size are not possible, even if we add Steiner points. On the other hand, if we add extra nodes to the graph (non-metric Steiner points), then we can obtain $(1+\eps)$-approximate spanners of subquadratic size. We show how to construct a spanner of size $n^{2-\Omega(\eps^3)}$, as well as a directed version of the spanner of size $n^{2-\Omega(\eps^2)}$.
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
+We use our directed spanner to obtain an algorithm for computing $(1+\eps)$-approximation to Earth-Mover Distance (optimal transport) between two sets of size $n$ in time $n^{2-\Omega(\eps^2)}$.
 
 </details>
 
