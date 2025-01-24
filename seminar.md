@@ -154,7 +154,7 @@ Bio TBA
 
 <hr>
 
-##### Sub-quadratic $(1+\eps)$-approximate Euclidean Spanners, with Applications
+##### Sub-quadratic $$(1+\epsilon)$$-approximate Euclidean Spanners, with Applications
 
 [Hengjie Zhang](https://www.cs.columbia.edu/~zhj/) (Columbia) --  *Tuesday, April 8 @ 4 pm*
 <details markdown="1" open='1'>
