@@ -44,7 +44,7 @@ Bio TBA
 ##### Pseudorandom Error-Correcting Codes with Applications to Watermarking Generative AI
 
 [Miranda Christ](https://www.cs.columbia.edu/~mchrist/) (Columbia) --  *Tuesday, February 18 @ 4 pm*
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
 The rise of increasingly realistic generative models has necessitated tools for distinguishing between human-generated and AI-generated content. A promising approach is watermarking, where a hidden pattern is embedded in this AI-generated content. We introduce a powerful new framework for watermarking, which can be instantiated with a cryptographic primitive that we define, called a pseudorandom error-correcting code (PRC). While motivated by watermarking, a PRC is a natural cryptographic object of independent interest.
@@ -54,7 +54,7 @@ A PRC is an error-correcting code with the property that any polynomial number o
 This is based on works with Sam Gunn, Omar Alrabiah, Prabhanjan Ananth, and Yevgeniy Dodis: [https://eprint.iacr.org/2024/235.pdf](https://eprint.iacr.org/2024/235.pdf), [https://eprint.iacr.org/2024/1840](https://eprint.iacr.org/2024/1840)
 
 </details>
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Bio</summary>
 
 Miranda Christ is a computer science PhD student at Columbia University, advised by Tal Malkin and Mihalis Yannakakis. She is a member of the Theory Group and the Crypto Lab. Her research is generally on theoretical cryptography, and recently has focused on the intersection of cryptography and machine learning.
