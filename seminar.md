@@ -143,19 +143,18 @@ Bio TBA
 
 <hr>
 
-##### TBA
+##### Representation Theory of Graph Isomorphism
 
-[TBA](TBA) (TBA) --  *Tuesday, April 1 @ 4 pm*
-<details markdown="1">
+[Jacob Urisman](https://www.linkedin.com/in/jurisman) (UMass) --  *Tuesday, April 1 @ 4 pm*
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-Abstract TBA
+The problem of Graph Isomorphism exists in a very strange place in the landscape of complexity theory under our current understanding. It is one of a very small number of problems that is known to be in NP but has not been proven to be either in P or NP-complete.
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
+A promising, relatively new approach for problems in complexity theory has been using the algebraic tools commonly used in algebraic geometry and representation theory to see if they may shed new light on open problems. This led us to a natural motivating question: Can we use these tools to tackle Graph Isomorphism?
 
-Bio TBA
+The talk will discuss some interesting results that have arisen from an approach to Graph Isomorphism using representation theory. This work is in collaboration with Dr. Joshua Grochow at CU Boulder.
+
 
 </details>
 
