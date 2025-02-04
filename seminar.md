@@ -23,19 +23,19 @@ All Tuesday talks are in **CS 140**, unless otherwise stated.
 <hr>
 
 
-##### TBA
+##### Optimality and Complexity in Decentralized Multi-agent Multi-armed Bandits
 
 [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass M&I Eng.) --  *Tuesday, February 11 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+We study the optimality and complexity of decentralized multi-agent multi-armed bandits (MA-MAB). We first consider MA-MAB in which multiple clients are connected by time dependent random graphs. The reward distributions of each arm vary across agents, including both sub-exponential and sub-Gaussian distributions. Each agent pulls an arm and communicates with neighbors based on the graph. The goal is to minimize the overall regret of the entire system through collaborations. To this end, we introduce a novel algorithmic framework, which first provides robust simulation methods for generating random graphs, and then combines an averaging-based consensus approach with a newly proposed weighting technique and the upper confidence bound to deliver a UCB-type solution. We derive instance-dependent and mean-gap regret upper bounds of order $$\log{T}$$ and $$\sqrt{T}\log T$$, respectively. While efficient algorithms with regret upper bounds have emerged, limited attention has been given to the corresponding regret lower bounds that characterizes the complexity of MA-MAB, except for a recent lower bound for adversarial settings, which, however, has a gap with let known upper bounds. To this end, we provide a study on regret lower bounds in different MA-MAB and establish their tightness. Specifically, for graphs with good connectivity properties and stochastic rewards, we demonstrate tight lower bounds $$O(\log T)$$ and $$\sqrt{T}$$ for instance-dependent and mean-gap bounds, respectively. Assuming adversarial rewards, we establish a lower bound $$O(T^{\frac{2}{3}})$$ for connected graphs, thereby bridging the gap between the lower and upper bound in the prior work. We also show a linear regret lower bound when the graph is disconnected.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-Bio TBA
+Mengfan Xu is an assistant professor in the Department of Mechanical and Industrial Engineering at UMass Amherst. Before joining UMass, she earned her Ph.D. in Operations Research from the Department of Industrial Engineering and Management Sciences at Northwestern University in 2024. Her research leverages statistical and mathematical tools to advance machine learning by developing novel formulations and provably effective algorithms, inspired by emerging real-world problems in operations research. Her research focuses on online and statistical learning, particularly multi-armed bandits and reinforcement learning, and their applications in various operations research problems, including supply chain management and healthcare. Her work has been recognized by top-tier machine learning conferences, including NeurIPS, ICML, AISTATS, and workshops at KDD and RLC. Beyond academia, she interned at LinkedIn in Summer 2023 and Didi Chuxing in 2021, where she worked on people recommendation using large language models and online dynamic pricing using causal inference, respectively.
 
 </details>
 
