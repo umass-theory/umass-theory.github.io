@@ -230,7 +230,7 @@ Bio TBA
 
 ##### TBA
 
-[TBA](TBA) (TBA) --  *Tuesday, May 6 @ 4 pm*
+[Nathan Klein](https://nathan-klein.github.io/) (Boston U.) --  *Tuesday, May 6 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
