@@ -43,7 +43,7 @@ Mengfan Xu is an assistant professor in the Department of Mechanical and Industr
 
 ##### Pseudorandom Error-Correcting Codes with Applications to Watermarking Generative AI
 
-[Miranda Christ](https://www.cs.columbia.edu/~mchrist/) (Columbia) --  *Tuesday, February 18 @ 4 pm*
+[Miranda Christ](https://www.cs.columbia.edu/~mchrist/) (Columbia) --  *Tuesday, February 18 @ 4 pm ([virtual talk](https://umass-amherst.zoom.us/j/92005101364))*
 <details markdown="1" open='1'>
 <summary>Abstract</summary>
   
