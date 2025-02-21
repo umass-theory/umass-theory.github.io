@@ -63,7 +63,22 @@ Miranda Christ is a computer science PhD student at Columbia University, advised
 
 <hr>
 
-##### Some lower bounds on submodular function minimization
+##### Representation Theory of Graph Isomorphism
+
+[Jacob Urisman](https://www.linkedin.com/in/jurisman) (UMass) --  *Tuesday, February 25 @ 4 pm*
+<details markdown="1" open='1'>
+<summary>Abstract</summary>
+  
+The problem of Graph Isomorphism exists in a very strange place in the landscape of complexity theory under our current understanding. It is one of a very small number of problems that is known to be in NP but has not been proven to be either in P or NP-complete.
+
+A promising, relatively new approach for problems in complexity theory has been using the algebraic tools commonly used in algebraic geometry and representation theory to see if they may shed new light on open problems. This led us to a natural motivating question: Can we use these tools to tackle Graph Isomorphism?
+
+The talk will discuss some interesting results that have arisen from an approach to Graph Isomorphism using representation theory. This work is in collaboration with Dr. Joshua Grochow at CU Boulder.
+
+
+</details>
+
+<!-- ##### Some lower bounds on submodular function minimization
 
 [Deeparnab Chakrabarty](https://www.cs.dartmouth.edu/~deepc/) (Dartmouth) --  *Tuesday, February 25 @ 4 pm*
 <details markdown="1" open='1'>
@@ -80,7 +95,7 @@ All this is based on multiple works with collaborators whose union is Yu Chen, A
 
 Deeparnab Chakrabarty is an associate professor at Dartmouth. Prior to this he was a researcher at Microsoft Research in Bangalore, India. He received his PhD from Georgia Institute of Technology. His research interests lie in the interplay of optimization and algorithm design, with a bent towards approximation and sublinear algorithms.
 
-</details>
+</details> -->
 
 <hr>
 
@@ -143,18 +158,19 @@ Bio TBA
 
 <hr>
 
-##### Representation Theory of Graph Isomorphism
+##### TBA
 
-[Jacob Urisman](https://www.linkedin.com/in/jurisman) (UMass) --  *Tuesday, April 1 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 1 @ 4 pm*
 <details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-The problem of Graph Isomorphism exists in a very strange place in the landscape of complexity theory under our current understanding. It is one of a very small number of problems that is known to be in NP but has not been proven to be either in P or NP-complete.
+Abstract TBA
 
-A promising, relatively new approach for problems in complexity theory has been using the algebraic tools commonly used in algebraic geometry and representation theory to see if they may shed new light on open problems. This led us to a natural motivating question: Can we use these tools to tackle Graph Isomorphism?
+</details>
+<details markdown="1">
+<summary>Bio</summary>
 
-The talk will discuss some interesting results that have arisen from an approach to Graph Isomorphism using representation theory. This work is in collaboration with Dr. Joshua Grochow at CU Boulder.
-
+Bio TBA
 
 </details>
 
