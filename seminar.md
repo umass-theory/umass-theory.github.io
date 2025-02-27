@@ -26,13 +26,13 @@ All Tuesday talks are in **CS 140**, unless otherwise stated.
 ##### Optimality and Complexity in Decentralized Multi-agent Multi-armed Bandits
 
 [Mengfan Xu](https://mengfanxu1997.github.io/) (UMass M&I Eng.) --  *Tuesday, February 11 @ 4 pm*
-<details markdown="1" open='0'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 We study the optimality and complexity of decentralized multi-agent multi-armed bandits (MA-MAB). We first consider MA-MAB in which multiple clients are connected by time dependent random graphs. The reward distributions of each arm vary across agents, including both sub-exponential and sub-Gaussian distributions. Each agent pulls an arm and communicates with neighbors based on the graph. The goal is to minimize the overall regret of the entire system through collaborations. To this end, we introduce a novel algorithmic framework, which first provides robust simulation methods for generating random graphs, and then combines an averaging-based consensus approach with a newly proposed weighting technique and the upper confidence bound to deliver a UCB-type solution. We derive instance-dependent and mean-gap regret upper bounds of order $$\log{T}$$ and $$\sqrt{T}\log T$$, respectively. While efficient algorithms with regret upper bounds have emerged, limited attention has been given to the corresponding regret lower bounds that characterizes the complexity of MA-MAB, except for a recent lower bound for adversarial settings, which, however, has a gap with let known upper bounds. To this end, we provide a study on regret lower bounds in different MA-MAB and establish their tightness. Specifically, for graphs with good connectivity properties and stochastic rewards, we demonstrate tight lower bounds $$O(\log T)$$ and $$\sqrt{T}$$ for instance-dependent and mean-gap bounds, respectively. Assuming adversarial rewards, we establish a lower bound $$O(T^{\frac{2}{3}})$$ for connected graphs, thereby bridging the gap between the lower and upper bound in the prior work. We also show a linear regret lower bound when the graph is disconnected.
 
 </details>
-<details markdown="1" open='0'>
+<details markdown="1">
 <summary>Bio</summary>
 
 Mengfan Xu is an assistant professor in the Department of Mechanical and Industrial Engineering at UMass Amherst. Before joining UMass, she earned her Ph.D. in Operations Research from the Department of Industrial Engineering and Management Sciences at Northwestern University in 2024. Her research leverages statistical and mathematical tools to advance machine learning by developing novel formulations and provably effective algorithms, inspired by emerging real-world problems in operations research. Her research focuses on online and statistical learning, particularly multi-armed bandits and reinforcement learning, and their applications in various operations research problems, including supply chain management and healthcare. Her work has been recognized by top-tier machine learning conferences, including NeurIPS, ICML, AISTATS, and workshops at KDD and RLC. Beyond academia, she interned at LinkedIn in Summer 2023 and Didi Chuxing in 2021, where she worked on people recommendation using large language models and online dynamic pricing using causal inference, respectively.
@@ -44,7 +44,7 @@ Mengfan Xu is an assistant professor in the Department of Mechanical and Industr
 ##### Pseudorandom Error-Correcting Codes with Applications to Watermarking Generative AI
 
 [Miranda Christ](https://www.cs.columbia.edu/~mchrist/) (Columbia) --  *Tuesday, February 18 @ 4 pm ([virtual talk](https://umass-amherst.zoom.us/j/92005101364))*
-<details markdown="1" open='0'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 The rise of increasingly realistic generative models has necessitated tools for distinguishing between human-generated and AI-generated content. A promising approach is watermarking, where a hidden pattern is embedded in this AI-generated content. We introduce a powerful new framework for watermarking, which can be instantiated with a cryptographic primitive that we define, called a pseudorandom error-correcting code (PRC). While motivated by watermarking, a PRC is a natural cryptographic object of independent interest.
@@ -54,7 +54,7 @@ A PRC is an error-correcting code with the property that any polynomial number o
 This is based on works with Sam Gunn, Omar Alrabiah, Prabhanjan Ananth, and Yevgeniy Dodis: [https://eprint.iacr.org/2024/235.pdf](https://eprint.iacr.org/2024/235.pdf), [https://eprint.iacr.org/2024/1840](https://eprint.iacr.org/2024/1840)
 
 </details>
-<details markdown="1" open='0'>
+<details markdown="1">
 <summary>Bio</summary>
 
 Miranda Christ is a computer science PhD student at Columbia University, advised by Tal Malkin and Mihalis Yannakakis. She is a member of the Theory Group and the Crypto Lab. Her research is generally on theoretical cryptography, and recently has focused on the intersection of cryptography and machine learning.
@@ -66,7 +66,7 @@ Miranda Christ is a computer science PhD student at Columbia University, advised
 ##### Representation Theory of Graph Isomorphism
 
 [Jacob Urisman](https://www.linkedin.com/in/jurisman) (UMass) --  *Tuesday, February 25 @ 4 pm*
-<details markdown="1" open='0'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 The problem of Graph Isomorphism exists in a very strange place in the landscape of complexity theory under our current understanding. It is one of a very small number of problems that is known to be in NP but has not been proven to be either in P or NP-complete.
