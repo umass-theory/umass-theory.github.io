@@ -214,7 +214,7 @@ Bio TBA
 
 ##### TBA
 
-[Ariel Procaccia](http://procaccia.info/) (Harvard) --  *Tuesday, April 22 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 22 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
