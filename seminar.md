@@ -102,7 +102,7 @@ Deeparnab Chakrabarty is an associate professor at Dartmouth. Prior to this he w
 ##### Learning from Missing and Imperfect Data
 
 [Manolis Zampetakis](https://mzampet.com/) (Yale) --  *Tuesday, March 4 @ 4 pm*
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 Positive-Unlabeled (PU) learning enables classification when only positive and unlabeled data are available, a scenario common in bioinformatics, medical studies, and fraud detection. Its significance lies in learning from datasets where negative samples are difficult or costly to obtain. In this talk, we generalize PU learning to Positive and Imperfect Unlabeled (PIU) Learning. PIU Learning is a generalization of PU learning that accounts for poor-quality unlabeled data due to bias and adversarial corruption. This issue arises when we rely on public and crowdsourced sources to collect the unlabeled data.
@@ -112,7 +112,7 @@ Based on joined works with Jane Lee, Anay Mehrotra, Alkis Kalavasis, Katerina Ma
 
 
 </details>
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Bio</summary>
 
 Manolis Zampetakis is an Assistant Professor of Computer Science at Yale University working on the foundations of machine learning (ML), statistics, and data science, with focus on statistical analysis from biased and missing data, and optimization methods for multi-agent environments. Before Yale, Manolis was a post-doctoral researcher at the EECS Department of UC Berkeley. He received his PhD from the EECS Department at MIT where he was advised by Constantinos Daskalakis. He has been awarded the Google PhD Fellowship and the ACM SIGEcom Doctoral Dissertation Award.
@@ -124,7 +124,7 @@ Manolis Zampetakis is an Assistant Professor of Computer Science at Yale Univers
 ##### Equilibrium Computation in the Hotelling-Downs Model of Spatial Competition
 
 [Soumyajit Pyne](https://sites.google.com/view/soumyajitpyne) (TIFR) --  *Tuesday, March 11 @ 4 pm*
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 The Hotelling-Downs model is a natural and appealing model for understanding strategic positioning by candidates in elections. In this model, voters are distributed on a line, representing their ideological position on an issue. Each candidate then chooses as a strategy a position on the line to maximize her vote share. Each voter votes for the nearest candidate, closest to their ideological position. This sets up a game between the candidates, and we study pure Nash equilibria in this game. The model and its variants are an important tool in political economics, and are studied widely in computational social choice as well.
@@ -147,7 +147,7 @@ Arxiv link: [https://arxiv.org/abs/2412.12523](https://arxiv.org/abs/2412.12523)
 ##### Query Complexity of Stochastic Minimum Vertex Cover
 
 [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/) (Northeastern) --  *Tuesday, March 25 @ 4 pm*
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
 In this talk, we explore the relationship between the query complexity of the stochastic minimum vertex cover problem and the density of Ruzsa–Szemerédi graphs. We are given an $$n$$-vertex graph $$G=(V,E)$$ and a (constant) existence probability for each edge. Each edge of $$G$$ is realized (i.e., it exists) independently with this probability, forming a realized subgraph $$G^\star$$. The presence or absence of an edge in $$G^\star$$ can be verified only via edge queries. Our goal is to find a near-optimal vertex cover of $$G^\star$$ using few queries.
@@ -157,7 +157,7 @@ We first show that under mild correlation among edge realizations, obtaining any
 This talk is based on joint work with Nika Haghtalab and Naveen Durvasula (STOC’23), as well as Mohammad Saneian and Zhiyang Xun (ITCS’25).
 
 </details>
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Bio</summary>
 
 Mahsa Derakhshan is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. Prior to that, she was a FODSI fellow at UC Berkeley and also a Postdoctoral Researcher at Princeton University in the Department of Computer Science.  She received her Ph.D. in Computer Science from the University of Maryland.
