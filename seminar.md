@@ -144,19 +144,25 @@ Arxiv link: [https://arxiv.org/abs/2412.12523](https://arxiv.org/abs/2412.12523)
 
 <hr>
 
-##### TBA
+##### Query Complexity of Stochastic Minimum Vertex Cover
 
 [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/) (Northeastern) --  *Tuesday, March 25 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+In this talk, we explore the relationship between the query complexity of the stochastic minimum vertex cover problem and the density of Ruzsa–Szemerédi graphs. We are given an $$n$$-vertex graph $$G=(V,E)$$ and a (constant) existence probability for each edge. Each edge of $$G$$ is realized (i.e., it exists) independently with this probability, forming a realized subgraph $$G^\star$$. The presence or absence of an edge in $$G^\star$$ can be verified only via edge queries. Our goal is to find a near-optimal vertex cover of $$G^\star$$ using few queries.
+
+We first show that under mild correlation among edge realizations, obtaining any approximation ratio better than $$1.5$$ requires querying a subgraph of size $$\Omega(n \text{RS}(n))$$. Here, $$\text{RS}(n)$$ refers to Ruzsa–Szemerédi graphs and represents the largest number of induced edge-disjoint matchings of size $$\Theta(n)$$ in an n-vertex graph. We then discuss a simple algorithm that finds a $$(1+\epsilon)$$-approximate vertex cover by querying a subgraph of size $$O(n \text{RS}(n))$$ for any absolute constant $$\epsilon >0$$. The analysis extends to the case of $$O(n \text{RS}(n))$$ correlated edges, effectively completing our understanding of this problem under mild correlation.
+
+This talk is based on joint work with Nika Haghtalab and Naveen Durvasula (STOC’23), as well as Mohammad Saneian and Zhiyang Xun (ITCS’25).
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-Bio TBA
+Mahsa Derakhshan is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. Prior to that, she was a FODSI fellow at UC Berkeley and also a Postdoctoral Researcher at Princeton University in the Department of Computer Science.  She received her Ph.D. in Computer Science from the University of Maryland.
+
+She is broadly interested in the design and analysis of algorithms. Mainly, she studies algorithms under uncertainty. A few sources of such uncertainty in her research are having stochastic data, limited access to information, and the presence of strategic behavior.  She primarily studies problems with applications to markets, such as matching markets and auctions.
 
 </details>
 
