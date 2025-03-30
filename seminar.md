@@ -168,19 +168,22 @@ She is broadly interested in the design and analysis of algorithms. Mainly, she 
 
 <hr>
 
-##### TBA
+##### Some lower bounds on submodular function minimization
 
-[TBA](TBA) (TBA) --  *Tuesday, April 1 @ 4 pm*
+[Deeparnab Chakrabarty](https://www.cs.dartmouth.edu/~deepc/) (Dartmouth) -- *Tuesday, April 1 @ 4 pm*
 <details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-Abstract TBA
+Submodular functions are set-functions which appear in many areas; for example, the graph cut function is a submodular function as a function of subset of vertices, and so is the “log-determinant” function as a function of rows/columns selected. It is quite a remarkable fact that one can find the unconditional minimizer of a general submodular function (called the SFM problem) in polynomially many queries, and this generalizes many fundamental combinatorial optimization problems like global minimum cut, s,t-cut, and even matroid intersection. What this polynomial dependence exactly is, is still not nailed down – it’s still between $$\thicksim n$$ to $$\thicksim n^2$$ (which is a big or small gap, depending on who one asks).
+
+In this talk, I’d like to describe a few lower bounds. For most of the talk, I’ll focus on the “parallel complexity” of the problem – how many rounds-of-queries one needs to minimize a submodular function given the total number of queries is at most a polynomial? We will see that the answer is ~ n rounds! In doing so, we will also encounter the so-far best known example of query lower bound. Time permitting (perhaps not), I’d also like to talk about a few “upper bounds” for approximate SFM, and also some special cases of submodular functions (like graph cuts).
+All this is based on multiple works with collaborators whose union is Yu Chen, Andrei Graur, Haotian Jiang, Sanjeev Khanna, Hang Liao and Aaron Sidford.
 
 </details>
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Bio</summary>
 
-Bio TBA
+Deeparnab Chakrabarty is an associate professor at Dartmouth. Prior to this he was a researcher at Microsoft Research in Bangalore, India. He received his PhD from Georgia Institute of Technology. His research interests lie in the interplay of optimization and algorithm design, with a bent towards approximation and sublinear algorithms.
 
 </details>
 
