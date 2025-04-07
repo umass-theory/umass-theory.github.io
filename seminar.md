@@ -147,7 +147,7 @@ Arxiv link: [https://arxiv.org/abs/2412.12523](https://arxiv.org/abs/2412.12523)
 ##### Query Complexity of Stochastic Minimum Vertex Cover
 
 [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/) (Northeastern) --  *Tuesday, March 25 @ 4 pm*
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 In this talk, we explore the relationship between the query complexity of the stochastic minimum vertex cover problem and the density of Ruzsa–Szemerédi graphs. We are given an $$n$$-vertex graph $$G=(V,E)$$ and a (constant) existence probability for each edge. Each edge of $$G$$ is realized (i.e., it exists) independently with this probability, forming a realized subgraph $$G^\star$$. The presence or absence of an edge in $$G^\star$$ can be verified only via edge queries. Our goal is to find a near-optimal vertex cover of $$G^\star$$ using few queries.
@@ -157,7 +157,7 @@ We first show that under mild correlation among edge realizations, obtaining any
 This talk is based on joint work with Nika Haghtalab and Naveen Durvasula (STOC’23), as well as Mohammad Saneian and Zhiyang Xun (ITCS’25).
 
 </details>
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Bio</summary>
 
 Mahsa Derakhshan is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. Prior to that, she was a FODSI fellow at UC Berkeley and also a Postdoctoral Researcher at Princeton University in the Department of Computer Science.  She received her Ph.D. in Computer Science from the University of Maryland.
@@ -171,7 +171,7 @@ She is broadly interested in the design and analysis of algorithms. Mainly, she 
 ##### Some lower bounds on submodular function minimization
 
 [Deeparnab Chakrabarty](https://www.cs.dartmouth.edu/~deepc/) (Dartmouth) -- *Tuesday, April 1 @ 4 pm*
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 Submodular functions are set-functions which appear in many areas; for example, the graph cut function is a submodular function as a function of subset of vertices, and so is the “log-determinant” function as a function of rows/columns selected. It is quite a remarkable fact that one can find the unconditional minimizer of a general submodular function (called the SFM problem) in polynomially many queries, and this generalizes many fundamental combinatorial optimization problems like global minimum cut, s,t-cut, and even matroid intersection. What this polynomial dependence exactly is, is still not nailed down – it’s still between $$\thicksim n$$ to $$\thicksim n^2$$ (which is a big or small gap, depending on who one asks).
@@ -180,7 +180,7 @@ In this talk, I’d like to describe a few lower bounds. For most of the talk, I
 All this is based on multiple works with collaborators whose union is Yu Chen, Andrei Graur, Haotian Jiang, Sanjeev Khanna, Hang Liao and Aaron Sidford.
 
 </details>
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Bio</summary>
 
 Deeparnab Chakrabarty is an associate professor at Dartmouth. Prior to this he was a researcher at Microsoft Research in Bangalore, India. He received his PhD from Georgia Institute of Technology. His research interests lie in the interplay of optimization and algorithm design, with a bent towards approximation and sublinear algorithms.
@@ -203,19 +203,23 @@ We use our directed spanner to obtain an algorithm for computing $$(1+\epsilon)$
 
 <hr>
 
-##### TBA
+##### Market Impacts of AI Agents
 
 [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/) (Microsoft Research) --  *Tuesday, April 15 @ 4 pm*
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-Abstract TBA
+There is an increasing proliferation of AI-powered agents that can help optimize on a user's behalf. This includes algorithmic assistance embedded into online platforms, AI tools for worker productivity, and more. As automated assistance agents become increasingly common, how will users strategically maneuver their usage, and how does this influence the system design problems faced by firms and platforms?
+
+In this talk we will address these questions through a game-theoretic lens. We will explore applications of strategic use of AI agents, from advertising auctions to task automation in the workplace. Viewing algorithmic agents as components of a broader system, we will discuss ways to analyze and optimize for aggregate performance.
+
+Based on joint works with Mert Demirer, Yiding Feng, John Horton, Nicole Immorlica, Peyman Shahidi, and Alex Slivkins.
 
 </details>
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Bio</summary>
 
-Bio TBA
+Brendan Lucier is a Senior Principal Researcher at Microsoft Research New England in the Economics and Computation group. He received his PhD in Computer Science from the University of Toronto. Brendan’s research lies at the intersection of microeconomic theory and theoretical computer science. He uses tools from game theory, computation, and stochastic analysis to understand how the algorithms embedded in online platforms and other sociotechnical systems influence user behavior. He is especially interested in the ways that users interact with (and through) algorithms and how this informs market design. His research is motivated by applications such as digital advertising, matching markets, and markets for sustainability.
 
 </details>
 
