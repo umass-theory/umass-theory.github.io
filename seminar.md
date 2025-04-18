@@ -227,7 +227,7 @@ Brendan Lucier is a Senior Principal Researcher at Microsoft Research New Englan
 
 ##### Thoughts on P vs NP, correlation bounds, and all that.
 
-[Emanuele Viola](https://www.khoury.northeastern.edu/home/viola/) (Northeastern) --  *Tuesday, April 22 @ 4 pm*
+[Emanuele “Manu” Viola](https://www.khoury.northeastern.edu/home/viola/) (Northeastern) --  *Tuesday, April 22 @ 4 pm*
 <details markdown="1" open='1'>
 <summary>Abstract</summary>
   
