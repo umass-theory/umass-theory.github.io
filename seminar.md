@@ -192,7 +192,7 @@ Deeparnab Chakrabarty is an associate professor at Dartmouth. Prior to this he w
 ##### Sub-quadratic $$(1+\epsilon)$$-approximate Euclidean Spanners, with Applications
 
 [Hengjie Zhang](https://www.cs.columbia.edu/~zhj/) (Columbia) --  *Tuesday, April 8 @ 4 pm*
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 We study graph spanners for point-set in the high-dimensional Euclidean space. On the one hand, we prove that spanners with stretch $$<\sqrt{2}$$ and subquadratic size are not possible, even if we add Steiner points. On the other hand, if we add extra nodes to the graph (non-metric Steiner points), then we can obtain $$(1+\epsilon)$$-approximate spanners of subquadratic size. We show how to construct a spanner of size $$n^{2-\Omega(\epsilon^3)}$$, as well as a directed version of the spanner of size $$n^{2-\Omega(\epsilon^2)}$$.
@@ -206,7 +206,7 @@ We use our directed spanner to obtain an algorithm for computing $$(1+\epsilon)$
 ##### Market Impacts of AI Agents
 
 [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/) (Microsoft Research) --  *Tuesday, April 15 @ 4 pm*
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 There is an increasing proliferation of AI-powered agents that can help optimize on a user's behalf. This includes algorithmic assistance embedded into online platforms, AI tools for worker productivity, and more. As automated assistance agents become increasingly common, how will users strategically maneuver their usage, and how does this influence the system design problems faced by firms and platforms?
@@ -216,7 +216,7 @@ In this talk we will address these questions through a game-theoretic lens. We w
 Based on joint works with Mert Demirer, Yiding Feng, John Horton, Nicole Immorlica, Peyman Shahidi, and Alex Slivkins.
 
 </details>
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Bio</summary>
 
 Brendan Lucier is a Senior Principal Researcher at Microsoft Research New England in the Economics and Computation group. He received his PhD in Computer Science from the University of Toronto. Brendan’s research lies at the intersection of microeconomic theory and theoretical computer science. He uses tools from game theory, computation, and stochastic analysis to understand how the algorithms embedded in online platforms and other sociotechnical systems influence user behavior. He is especially interested in the ways that users interact with (and through) algorithms and how this informs market design. His research is motivated by applications such as digital advertising, matching markets, and markets for sustainability.
@@ -225,19 +225,33 @@ Brendan Lucier is a Senior Principal Researcher at Microsoft Research New Englan
 
 <hr>
 
-##### TBA
+##### Thoughts on P vs NP, correlation bounds, and all that.
 
-[TBA](TBA) (TBA) --  *Tuesday, April 22 @ 4 pm*
-<details markdown="1">
+[Emanuele Viola](https://www.khoury.northeastern.edu/home/viola/) (Northeastern) --  *Tuesday, April 22 @ 4 pm*
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-Abstract TBA
+I will give a broad talk on the P vs NP problem, offering my
+perspective on some of the history and the available results, and
+discussing connections (some recent) between various models.  For
+example I will discuss the fundamental bottleneck of proving correlation
+bounds against low-degree polynomials.
 
 </details>
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Bio</summary>
 
-Bio TBA
+Emanuele "Manu" Viola is a former video game developer and a professor
+of computer science at Northeastern University in Boston. Originally
+from Rome, Italy, he earned a Laurea in computer science from La
+Sapienza University in 2000, followed by a PhD in computer science from
+Harvard University in 2006. He subsequently held postdoctoral positions
+at the Institute for Advanced Study in Princeton and at Columbia University.
+
+Viola's research spans several areas in theoretical computer science,
+including pseudorandomness, cryptography, data structures, and
+communication complexity. He also maintains a blog and wrote the book
+"Mathematics of the Impossible."
 
 </details>
 
@@ -245,7 +259,7 @@ Bio TBA
 
 ##### TBA
 
-[Emmanuele Viola](https://www.khoury.northeastern.edu/home/viola/) (Northeastern) --  *Tuesday, April 29 @ 4 pm*
+[TBA](TBA) (TBA) --  *Tuesday, April 29 @ 4 pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
