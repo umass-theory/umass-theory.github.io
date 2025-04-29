@@ -257,21 +257,9 @@ communication complexity. He also maintains a blog and wrote the book
 
 <hr>
 
-##### TBA
+##### *No seminar*
 
-[TBA](TBA) (TBA) --  *Tuesday, April 29 @ 4 pm*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
-
-</details>
+*Tuesday, April 29 @ 4 pm*
 
 <hr>
 
