@@ -228,7 +228,7 @@ Brendan Lucier is a Senior Principal Researcher at Microsoft Research New Englan
 ##### Thoughts on P vs NP, correlation bounds, and all that.
 
 [Emanuele “Manu” Viola](https://www.khoury.northeastern.edu/home/viola/) (Northeastern) --  *Tuesday, April 22 @ 4 pm*
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Abstract</summary>
   
 I will give a broad talk on the P vs NP problem, offering my
@@ -238,7 +238,7 @@ example I will discuss the fundamental bottleneck of proving correlation
 bounds against low-degree polynomials.
 
 </details>
-<details markdown="1" open='1'>
+<details markdown="1">
 <summary>Bio</summary>
 
 Emanuele "Manu" Viola is a former video game developer and a professor
@@ -263,19 +263,15 @@ communication complexity. He also maintains a blog and wrote the book
 
 <hr>
 
-##### TBA
+##### A Better-Than-1.6-Approximation for Prize-Collecting TSP
 
 [Nathan Klein](https://nathan-klein.github.io/) (Boston U.) --  *Tuesday, May 6 @ 4 pm*
-<details markdown="1">
+<details markdown="1" open='1'>
 <summary>Abstract</summary>
   
-Abstract TBA
+We give a 1.599 approximation for the prize-collecting traveling salesperson problem (PCTSP), a variant of the traveling salesperson problem in which vertices can be excluded from the tour for an added penalty. This improves upon the recent 1.774 approximation of Blauth and Nägele. Our algorithm is quite simple, and similar to Christofides' algorithm for TSP: we first decompose the solution to the natural LP relaxation for PCTSP into a distribution over rooted trees. Then, we find the minimum cost matching on the odd vertices of the tree after performing a pruning step. It is open whether the analysis for our algorithm can be improved to 1.5 (a natural barrier for the problem). 
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
+Based on joint work with Jannis Blauth and Martin Nägele.
 
 </details>
 
