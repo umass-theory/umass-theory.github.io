@@ -2,15 +2,15 @@
 layout: seminar
 title: Theory Seminar
 ---
-Welcome to the Fall 2025 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **4-5 pm on Wednesdays** in **CS 140**, in the Computer Science Building at UMass Amherst, and is free and open to the public. The faculty hosts are [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Hedyeh Beyhaghi](https://hedyehbeyhaghi.github.io/). If you are interested in giving a talk, please email Professor Zick or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
+This is an archive of the Spring 2025 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar was **4-5 pm on Tuesdays** in **CS 140**, in the Computer Science Building at UMass Amherst, and is free and open to the public. The faculty host was [Yair Zick](https://people.cs.umass.edu/~yzick/). 
 
-All Wednesday talks are in **CS 140**, unless otherwise stated.
-
-<hr>
+All Tuesday talks are in **CS 140**, unless otherwise stated.
 
 <hr>
 
-#### Fall 2025 Schedule of Speakers
+<hr>
+
+#### Spring 2025 Schedule of Speakers
 
 **NOTE:** In order to ensure you get weekly updates for all the talks, please make sure you are part of the **seminars@cs.umass.edu** mailing list. If you wish to give a talk, or would like to nominate someone to give one, please email us to let us know!
 
@@ -296,9 +296,3 @@ Bio TBA
 <hr> -->
 
 <hr>
-
-#### Past Seminars Archive
-
-[Fall 2024](https://theory.cs.umass.edu/seminar-f24)
-[Spring 2025](https://theory.cs.umass.edu/seminar-s25)
-
