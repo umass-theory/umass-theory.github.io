@@ -262,6 +262,7 @@ Bio TBA
 
 #### Past Seminars Archive
 
-[Fall 2024](https://theory.cs.umass.edu/seminar-f24)
+[Fall 2024](https://theory.cs.umass.edu/seminar-f24)  
+
 [Spring 2025](https://theory.cs.umass.edu/seminar-s25)
 
