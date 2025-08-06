@@ -2,7 +2,7 @@
 layout: seminar
 title: Theory Seminar
 ---
-Welcome to the Fall 2025 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **4-5 pm on Wednesdays** in **CS 140**, in the Computer Science Building at UMass Amherst, and is free and open to the public. The faculty hosts are [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Hedyeh Beyhaghi](https://hedyehbeyhaghi.github.io/). If you are interested in giving a talk, please email the faculty hosts, or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
+Welcome to the Fall 2025 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **noon-1 pm on Wednesdays** in **CS 140**, in the Computer Science Building at UMass Amherst, and is free and open to the public. The faculty hosts are [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/) and [Hedyeh Beyhaghi](https://hedyehbeyhaghi.github.io/). If you are interested in giving a talk, please email the faculty hosts, or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
 
 All Wednesday talks are in **CS 140**, unless otherwise stated.
 
@@ -17,7 +17,7 @@ All Wednesday talks are in **CS 140**, unless otherwise stated.
 <hr>
 
 ##### Speaker TBA
-*Wednesday, September 4 @ 4 pm*
+*Wednesday, September 3 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -34,7 +34,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, September 11 @ 4 pm*
+*Wednesday, September 10 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -51,7 +51,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, September 18 @ 4 pm*
+*Wednesday, September 17 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -68,7 +68,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, September 25 @ 4 pm*
+*Wednesday, September 24 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -85,7 +85,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, October 2 @ 4 pm*
+*Wednesday, October 1 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -102,7 +102,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, October 9 @ 4 pm*
+*Wednesday, October 8 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -119,7 +119,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, October 16 @ 4 pm*
+*Wednesday, October 15 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -136,7 +136,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, October 23 @ 4 pm*
+*Wednesday, October 22 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -153,7 +153,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, October 30 @ 4 pm*
+*Wednesday, October 29 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -170,7 +170,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, November 6 @ 4 pm*
+*Wednesday, November 5 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -187,7 +187,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, November 13 @ 4 pm*
+*Wednesday, November 12 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -204,7 +204,7 @@ TBA
 <hr>
 
 ##### Speaker TBA
-*Wednesday, November 20 @ 4 pm*
+*Wednesday, November 19 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -221,12 +221,12 @@ TBA
 <hr>
 
 ##### *No seminar (Thanksgiving break)*
-*Wednesday, November 27*
+*Wednesday, November 26*
 
 <hr>
 
 ##### Speaker TBA
-*Wednesday, December 4 @ 4 pm*
+*Wednesday, December 3 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -242,7 +242,7 @@ TBA
 
 <!-- ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Tuesday, October 24 @ 4 pm*
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Tuesday, October 24 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
