@@ -50,8 +50,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, September 17 @ noon*
+##### Title TBA
+
+[Ellen Vitercik](https://vitercik.github.io/) (Stanford) --  *Wednesday, September 17 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -84,8 +85,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, October 1 @ noon*
+##### Title TBA
+
+[Yan Dai](https://yandaichn.github.io/) (MIT) -- *Wednesday, October 1 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -101,8 +103,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, October 8 @ noon*
+##### Title TBA
+
+[Vahideh Manshadi](https://yandaichn.github.io/) (MIT) -- *Wednesday, October 8 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -118,8 +121,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, October 15 @ noon*
+##### Title TBA
+
+[Sid Banerjee](https://sidbanerjee.orie.cornell.edu/) (Cornell) -- *Wednesday, October 15 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -169,8 +173,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, November 5 @ noon*
+##### Title TBA
+
+[Nico Christianson](https://nicochristianson.com/) (Stanford) -- *Wednesday, November 5 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
