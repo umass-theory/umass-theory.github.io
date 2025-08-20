@@ -105,7 +105,7 @@ TBA
 
 ##### Title TBA
 
-[Vahideh Manshadi](https://yandaichn.github.io/) (MIT) -- *Wednesday, October 8 @ noon*
+[Vahideh Manshadi](https://yandaichn.github.io/) (Yale) -- *Wednesday, October 8 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
