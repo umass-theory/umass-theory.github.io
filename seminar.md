@@ -68,8 +68,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, September 24 @ noon*
+##### Title TBA
+
+[Yang Cai](https://www.cs.yale.edu/homes/cai/) (Yale) -- *Wednesday, September 24 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -105,7 +106,7 @@ TBA
 
 ##### Title TBA
 
-[Vahideh Manshadi](https://yandaichn.github.io/) (Yale) -- *Wednesday, October 8 @ noon*
+[Vahideh Manshadi](https://vahideh-manshadi.com) (Yale) -- *Wednesday, October 8 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
