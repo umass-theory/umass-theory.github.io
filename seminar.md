@@ -33,8 +33,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, September 10 @ noon*
+##### Title TBA
+
+[Divya Mohan](https://www.divyarthimohan.com/) (Boston University) --  *Wednesday, September 10 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
