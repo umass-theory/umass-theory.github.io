@@ -1,9 +1,9 @@
 ---
-layout: seminar
+layout: theory-day
 title: 2025 New England Theory Day
 ---
 
-The inaugural **New England Theory Day** event aims to bring together theoreticians from around the New England region, for a full day of talks, a poster session for junior researchers, and social events. Anyone with an interest in theoretical computer science is welcome to attend.
+The inaugural **New England Theory Day** event aims to bring together theoreticians from around New England, for a full day of talks, a poster session for junior researchers, and social events. Anyone with an interest in theoretical computer science is welcome to attend.
 
 * **Date**: Friday, October 17th, 2025
 * **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Science. 
@@ -22,7 +22,7 @@ More to be added.
 
 <hr>
 
-## Schedule (Tentative)
+#### Schedule (Tentative)
 
 | Time             |Event    |Location  |
 | :-------------------- | :-------|:--------|
@@ -34,6 +34,6 @@ More to be added.
 | 2:30pm -- 3:30pm  | Invited Talk 3          |LGRC A112|
 | 3:30pm -- 4:30pm   | Invited Talk 4           |LGRC A112|
 | 4:30pm -- 5:00pm   | Wrap-up + Coffee, tea, and snacks |LGRC A112|
-|6:00pm -- 7:30pm| Informal Meetup at Treehouse Brewery (pizza + beer), | Treehouse Brewing, South Deerfield, MA |
+|6:00pm -- 7:30pm| Informal Meetup at Treehouse Brewery (pizza + beer) | Treehouse Brewing, South Deerfield, MA |
 
-
+<hr>
