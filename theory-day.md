@@ -9,7 +9,7 @@ title: 2025 New England Theory Day
 
 The inaugural **New England Theory Day** event aims to bring together theoreticians from around New England, for a full day of talks, a poster session for junior researchers, and social events. Anyone with an interest in theoretical computer science is welcome to attend.
 
-The event is hosed by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/), and funded by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/).
+The event is hosted by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/), and funded by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/).
 
 * **Date**: Friday, October 17th, 2025
 * **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Science. 
