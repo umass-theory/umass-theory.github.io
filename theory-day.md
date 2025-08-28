@@ -13,6 +13,8 @@ The inaugural **New England Theory Day** event aims to bring together theoretici
 * **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Science. 
   * Lederle Graduate Research Center (LGRC Lowrise), 740 North Pleasant Street, Amherst, MA.
 
+Any questions about the event can be directed to Cameron Musco (cmusco at cs dot umass dot edu)
+
 
 #### Registration
 
@@ -20,7 +22,12 @@ Registration is required, but free. Please register at: TBA
 
 #### Travel, Parking, and Lodging
 
-Parking passes will be provided to all registered participants. Details TBD.
+Parking passes will be provided to all registered participants that intend to drive to the event. Please indicate on the registration form if you will need a pass.
+
+Other transportation options include:
+* Peter Pan or Greyhound buslines, both of which have stops on campus
+* Amtrak, which has a station in Northampton, approximately a 15 minute drive from campus.
+* See [this page](https://www.umass.edu/transportation/regional-transportation) for more details.
 
 More to be added.
 
