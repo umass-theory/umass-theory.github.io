@@ -34,6 +34,6 @@ More to be added.
 | 2:30pm -- 3:30pm  | Invited Talk 3          |LGRC A112|
 | 3:30pm -- 4:30pm   | Invited Talk 4           |LGRC A112|
 | 4:30pm -- 5:00pm   | Wrap-up + Coffee, tea, and snacks |LGRC A112|
-|6:00pm -- 7:30pm| Informal Meetup at Treehouse Brewery (pizza + beer) | Treehouse Brewing, South Deerfield, MA |
+|6:00pm -- 7:30pm| Informal Meetup at Treehouse Brewery | Treehouse Brewing, South Deerfield, MA |
 
 <hr>
