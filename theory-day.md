@@ -3,6 +3,8 @@ layout: theory-day
 title: 2025 New England Theory Day
 ---
 
+![ctriver](img/pioneervalley.jpg)
+
 The inaugural **New England Theory Day** event aims to bring together theoreticians from around New England, for a full day of talks, a poster session for junior researchers, and social events. Anyone with an interest in theoretical computer science is welcome to attend.
 
 * **Date**: Friday, October 17th, 2025
