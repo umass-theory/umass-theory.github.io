@@ -9,13 +9,13 @@ title: 2025 New England Theory Day
 
 The inaugural **New England Theory Day** event aims to bring together theoreticians from around New England, for a full day of talks, a poster session for junior researchers, and social events. Anyone with an interest in theoretical computer science is welcome to attend.
 
-The event is hosed by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/), and funding by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/).
+The event is hosed by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/), and funded by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/).
 
 * **Date**: Friday, October 17th, 2025
 * **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Science. 
   * Lederle Graduate Research Center (LGRC Lowrise), 740 North Pleasant Street, Amherst, MA.
 
-Any questions about the event can be directed to Cameron Musco (cmusco at cs dot umass dot edu)
+Any questions about the event can be directed to Cameron Musco (cmusco at cs dot umass dot edu).
 
 
 #### Registration
@@ -24,7 +24,7 @@ Registration is required, but free. Please register at: TBA
 
 #### Travel, Parking, and Lodging
 
-Parking passes will be provided to all registered participants that intend to drive to the event. Please indicate on the registration form if you will need a pass.
+Parking passes will be provided to all registered participants that intend to drive to the event. Please indicate on the registration form if you will need a pass for your car.
 
 Other transportation options include:
 * Peter Pan or Greyhound buslines, both of which have stops on campus
