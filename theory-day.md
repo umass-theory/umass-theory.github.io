@@ -32,9 +32,12 @@ If you plan to stay overnight before or after the event, some recommended lodgin
 
 #### Schedule (Tentative)
 
-<br>
-
 <style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 30px auto;
+  }
   thead {
     background-color: #2c3e50;
     color: white;
@@ -107,4 +110,3 @@ If you plan to stay overnight before or after the event, some recommended lodgin
 </table>
 
 <br>
-
