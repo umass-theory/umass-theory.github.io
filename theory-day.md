@@ -26,10 +26,7 @@ Registration is required, but free. Please register [here](https://docs.google.c
 
 Parking passes will be provided to all registered participants that intend to drive to the event. Please indicate on the registration form if you will need a pass for your car.
 
-Other transportation options include:
-* Peter Pan or Greyhound buslines, both of which have stops on campus
-* Amtrak, which has a station in Northampton, approximately a 15 minute drive from campus.
-* See [this page](https://www.umass.edu/transportation/regional-transportation) for more details.
+Other transportation options include Peter Pan or Greyhound buslines, both of which have stops on campus, or Amtrak, which has a station in Northampton, approximately a 15 minute drive from campus. See [this page](https://www.umass.edu/transportation/regional-transportation) for more details.
 
 If you plan to stay overnight before or after the event, some lodging options are:
 * [Hotel UMass](http://www.hotelumass.com/), on campus.
