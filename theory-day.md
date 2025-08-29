@@ -30,20 +30,80 @@ Other transportation options include Peter Pan or Greyhound buslines (both with 
 
 If you plan to stay overnight before or after the event, some recommended lodging options are [Hotel UMass](http://www.hotelumass.com/) (on campus), [Inn on Boltwood](https://www.innonboltwood.com/) (downtown Amherst, accessible via bus or walking  to campus), or [Courtyard by Marriot Hadley](http://www.marriott.com/hotels/travel/bdlhd-courtyard-amherst-hadley/) (approximately 10 minutes driving from campus).
 
-<hr>
-
 #### Schedule (Tentative)
 
-| Time             |Event    |Location  |
-| :-------------------- | :-------|:--------|
-| 9:00am -- 10:00am   | Coffee, Breakfast, and Welcome |LGRC A112|
-| 10:00am -- 11:00am  | Invited Talk 1          |LGRC A112|
-| 11:00am -- 12:00pm   | Invited Talk 2           |LGRC A112|
-| 12:00pm -- 12:30pm   | Student Lightening Talks   |LGRC A112|
-|12:30pm -- 2:30pm | Lunch and Poster Session | LGRC A112 and LGRC Attrium |
-| 2:30pm -- 3:30pm  | Invited Talk 3          |LGRC A112|
-| 3:30pm -- 4:30pm   | Invited Talk 4           |LGRC A112|
-| 4:30pm -- 5:00pm   | Wrap-up + Coffee, tea, and snacks |LGRC A112|
-|6:00pm -- 7:30pm| Informal Meetup at Treehouse Brewery | Treehouse Brewing, South Deerfield, MA |
+<style>
+  thead {
+    background-color: #2c3e50;
+    color: white;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+</style>
 
-<hr>
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+      <th>Location</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9:00am -- 10:00am</td>
+      <td>Coffee, Breakfast, and Welcome</td>
+      <td>LGRC A112</td>
+    </tr>
+    <tr>
+      <td>10:00am -- 11:00am</td>
+      <td>Invited Talk 1</td>
+      <td>LGRC A112</td>
+    </tr>
+    <tr>
+      <td>11:00am -- 12:00pm</td>
+      <td>Invited Talk 2</td>
+      <td>LGRC A112</td>
+    </tr>
+    <tr>
+      <td>12:00pm -- 12:30pm</td>
+      <td>Student Lightening Talks</td>
+      <td>LGRC A112</td>
+    </tr>
+    <tr>
+      <td>12:30pm -- 2:30pm</td>
+      <td>Lunch and Poster Session</td>
+      <td>LGRC A112 and LGRC Attrium</td>
+    </tr>
+    <tr>
+      <td>2:30pm -- 3:30pm</td>
+      <td>Invited Talk 3</td>
+      <td>LGRC A112</td>
+    </tr>
+    <tr>
+      <td>3:30pm -- 4:30pm</td>
+      <td>Invited Talk 4</td>
+      <td>LGRC A112</td>
+    </tr>
+    <tr>
+      <td>4:30pm -- 5:00pm</td>
+      <td>Wrap-up + Coffee, tea, and snacks</td>
+      <td>LGRC A112</td>
+    </tr>
+    <tr>
+      <td>6:00pm -- 7:30pm</td>
+      <td>Informal Meetup at Treehouse Brewery</td>
+      <td>Treehouse Brewing, South Deerfield, MA</td>
+    </tr>
+  </tbody>
+</table>
+
