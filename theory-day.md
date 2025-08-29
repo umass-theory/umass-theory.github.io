@@ -32,6 +32,8 @@ If you plan to stay overnight before or after the event, some recommended lodgin
 
 #### Schedule (Tentative)
 
+<br>
+
 <style>
   thead {
     background-color: #2c3e50;
@@ -44,9 +46,6 @@ If you plan to stay overnight before or after the event, some recommended lodgin
   }
   tbody tr:nth-child(even) {
     background-color: #f9f9f9;
-  }
-  tbody tr:hover {
-    background-color: #f1f1f1;
   }
 </style>
 
@@ -106,4 +105,6 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
   </tbody>
 </table>
+
+<br>
 
