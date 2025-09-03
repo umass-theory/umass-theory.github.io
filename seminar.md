@@ -16,20 +16,8 @@ All Wednesday talks are in **LGRC A311**, unless otherwise stated.
 
 <hr>
 
-##### Speaker TBA
+##### Organizational Meeting
 *Wednesday, September 3 @ noon*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-TBA
-
-</details>
 
 <hr>
 
