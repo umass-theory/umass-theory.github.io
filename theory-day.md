@@ -20,7 +20,7 @@ Any questions about the event can be directed to Cameron Musco (cmusco at cs dot
 
 #### Registration
 
-Registration is required, but free. Please register by **Friday 10/10** [here](https://docs.google.com/forms/d/e/1FAIpQLSekWt8YZW7afDNdB5Dn0FbdxfNA02x7DFdNOIbWMjH_FZ-nAw/viewform).
+Registration is required, but free. Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSekWt8YZW7afDNdB5Dn0FbdxfNA02x7DFdNOIbWMjH_FZ-nAw/viewform) by **Friday 10/10** .
 
 #### Travel, Parking, and Lodging
 
@@ -73,7 +73,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>11:00am -- 12:00pm</td>
-      <td>Sitan Chen. <it>Diffusion Models for Text?</it></td>
+      <td>Sitan Chen. <i>Diffusion Models for Text?</i></td>
       <td>LGRC A112</td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>2:30pm -- 3:30pm</td>
-      <td>Mark Bun. <it>TBD</it></td>
+      <td>Mark Bun. <i>TBD</i></td>
       <td>LGRC A112</td>
     </tr>
     <tr>
