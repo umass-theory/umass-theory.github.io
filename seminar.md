@@ -21,19 +21,19 @@ All Wednesday talks are in **LGRC A311**, unless otherwise stated.
 
 <hr>
 
-##### Title TBA
+##### Rethinking Information in Mechanism Design
 
-[Divya Mohan](https://www.divyarthimohan.com/) (Boston University) --  *Wednesday, September 10 @ noon*
+[Divyarthi Mohan](https://www.divyarthimohan.com/) (Boston University) --  *Wednesday, September 10 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBA
+Online markets and platforms have drastically shaped the algorithmic landscape into a complex ecosystem of strategic or self-interested entities. Hence, it is important to design algorithmic systems that are robust to strategic behavior and other informational uncertainties in order to guarantee desirable outcomes. In this talk, I will focus on my recent work that tackles three important challenges—uncertain decision making, strategic behavior, and interdependence—by using approximation algorithms to go beyond standard assumptions on information structures.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBA
+Divyarthi Mohan is a postdoctoral researcher in the Faculty of Computing & Data Sciences at Boston University. Her research broadly lies at the intersection of computer science and economics, with a focus on algorithmic mechanisms design and the interplay of incentives and information. She obtained her PhD in Computer Science at Princeton University, advised by Matt Weinberg, and was previously a postdoctoral fellow at Tel Aviv University hosted by Michal Feldman. Her research has been recognized with the Simons-Berkeley Research Fellowship for Fall 2022, the class of 2021 Siebel Scholarship, and 2019 SEAS award of excellence at Princeton University, and her work was invited to the Highlights Beyond EC 2024.
 
 </details>
 
@@ -129,8 +129,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, October 22 @ noon*
+##### Title TBA
+
+[Lorenzo Berreta](https://lorenzo2beretta.github.io) (UC Santa Crus) -- *Wednesday, October 22 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
