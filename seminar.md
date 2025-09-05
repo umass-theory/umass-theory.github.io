@@ -131,7 +131,7 @@ TBA
 
 ##### Title TBA
 
-[Lorenzo Berreta](https://lorenzo2beretta.github.io) (UC Santa Crus) -- *Wednesday, October 22 @ noon*
+[Lorenzo Berreta](https://lorenzo2beretta.github.io) (UC Santa Cruz) -- *Wednesday, October 22 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
