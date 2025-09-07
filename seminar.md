@@ -42,13 +42,13 @@ Divyarthi Mohan is a postdoctoral researcher in the Faculty of Computing & Data 
 ##### ML for discrete optimization: Theoretical foundations
 
 [Ellen Vitercik](https://vitercik.github.io/) (Stanford) --  *Wednesday, September 17 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 Many of the most important optimization problems in practice are massive in scale, mathematically complex, and involve numerous unknown parameters. Machine learning offers a powerful way to address these challenges by uncovering hidden structure and improving decision quality, but integrating predictions into algorithms raises fundamental questions: which architectures align with combinatorial structure, and how can we ensure robustness to error? This talk presents two case studies. First, we show how graph neural networks can approximate the optimal dynamic program for online matching, yielding algorithms that generalize across graph sizes and achieve strong empirical performance. Second, we introduce calibration as a principled interface between machine learning and decision-making, demonstrating through rent-or-buy and job scheduling problems that calibrated predictions yield both theoretical guarantees and practical improvements. Together, these results illustrate how learning can meaningfully augment algorithm design while retaining rigorous performance guarantees. This is joint work with Alexandre Hayderi, Amin Saberi, Anders Wikum, and Judy Hanwen Shen.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
 Ellen Vitercik is an Assistant Professor at Stanford University with a joint appointment between the Management Science & Engineering department and the Computer Science department. Her research interests include machine learning, algorithm design, discrete and combinatorial optimization, and the interface between economics and computation. Before joining Stanford, she spent a year as a Miller Postdoctoral Fellow at UC Berkeley and received a PhD in Computer Science from Carnegie Mellon University. Her research has been recognized with a Schmidt Sciences AI2050 Early Career Fellowship, an NSF CAREER award, the SIGecom Doctoral Dissertation Award, and the CMU School of Computer Science Distinguished Dissertation Award, among other honors.
