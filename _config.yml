@@ -41,8 +41,8 @@ navigation:
     link: /#people
   - title: Seminar
     link: /seminar
-    - title: Theory Day
-      link: /theory-day
+  - title: Theory Day
+    link: /theory-day
   # - title: Publications
   #   link: /publications.html
   # - title: Code
