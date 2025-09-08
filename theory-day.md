@@ -20,7 +20,7 @@ Any questions about the event can be directed to Cameron Musco (cmusco at cs dot
 
 #### Registration
 
-Registration is required, but free. Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSekWt8YZW7afDNdB5Dn0FbdxfNA02x7DFdNOIbWMjH_FZ-nAw/viewform) by **Friday 10/10** .
+Registration is required, but free. Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSekWt8YZW7afDNdB5Dn0FbdxfNA02x7DFdNOIbWMjH_FZ-nAw/viewform) by **Thursday 10/9** .
 
 #### Travel, Parking, and Lodging
 
