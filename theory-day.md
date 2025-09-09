@@ -4,13 +4,13 @@ title: 2025 New England Theory Day
 ---
 
 <style>
-a {
+a:link {
   color: #1e90ff; /* Dodger Blue */
   text-decoration: none; /* optional: removes underline */
 }
 
 /* Hover state */
-a:hover {
+a:link:hover {
   color: #0056b3; /* darker blue */
   text-decoration: underline; /* optional: underline on hover */
 }
