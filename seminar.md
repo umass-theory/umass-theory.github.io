@@ -129,19 +129,13 @@ TBA
 
 <hr>
 
-##### Title TBA
+##### Approximating High-Dimensional Earth Mover’s Distance as Fast as Closest Pair
 
 [Lorenzo Berreta](https://lorenzo2beretta.github.io) (UC Santa Cruz) -- *Wednesday, October 22 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-TBA
+We give a reduction from $$(1+\epsilon)$$-approximate Earth Mover's Distance (EMD) to $$(1+\epsilon)$$-approximate Closest Pair. As a consequence, we improve the fastest known approximation algorithm for high-dimensional EMD. Here, given $$p\in [1, 2]$$ and two sets of $$n$$ points $$X,Y \subset (\R^d,\ell_p)$$, their EMD is the minimum cost of a perfect matching between $$X$$ and $$Y$$, where the cost of matching two vectors is their $$\ell_p$$ distance. Further, Closest Pair is the basic problem of finding a pair of points realizing $$\min_{x \in X, y\in Y} \Vert x-y \Vert_p$$.
 
 </details>
 
