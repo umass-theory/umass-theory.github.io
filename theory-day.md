@@ -41,7 +41,7 @@ Parking passes will be provided to all registered participants that intend to dr
 
 Other transportation options include Peter Pan or Greyhound buslines (both with  stops on campus), or Amtrak (station in Northampton, approximately a 15 minute drive from campus). See [this page](https://www.umass.edu/transportation/regional-transportation){: class="manualBody"} for more details.
 
-If you plan to stay overnight before or after the event, some recommended lodging options are [Hotel UMass](http://www.hotelumass.com/){: class="manualBody"} (on campus), [Inn on Boltwood](https://www.innonboltwood.com/){: class="manualBody"} (downtown Amherst, accessible via bus or walking  to campus), or [Courtyard by Marriot Hadley](http://www.marriott.com/hotels/travel/bdlhd-courtyard-amherst-hadley/){: class="manualBody"} (approximately 10 minutes driving from campus).
+If you plan to stay overnight before or after the event, some recommended lodging options are [Hotel UMass](http://www.hotelumass.com/){: class="manualBody"} (on campus), [Inn on Boltwood](https://www.innonboltwood.com/){: class="manualBody"} (downtown Amherst, accessible via bus or walking  to campus), or [Courtyard by Marriott Hadley](http://www.marriott.com/hotels/travel/bdlhd-courtyard-amherst-hadley/){: class="manualBody"} (approximately 10 minutes driving from campus).
 
 #### Schedule (Tentative)
 
@@ -91,7 +91,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>12:00pm -- 12:30pm</td>
-      <td>Student Lightening Talks</td>
+      <td>Student Lightning Talks</td>
       <td>LGRC A112</td>
     </tr>
     <tr>
