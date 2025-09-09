@@ -3,6 +3,19 @@ layout: theory-day
 title: 2025 New England Theory Day
 ---
 
+<style>
+a {
+  color: #1e90ff; /* Dodger Blue */
+  text-decoration: none; /* optional: removes underline */
+}
+
+/* Hover state */
+a:hover {
+  color: #0056b3; /* darker blue */
+  text-decoration: underline; /* optional: underline on hover */
+}
+</style>
+
 ![ctriver](img/pioneervalleyCropped.jpg)
 
 #### General Information
