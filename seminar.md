@@ -57,19 +57,21 @@ Ellen Vitercik is an Assistant Professor at Stanford University with a joint app
 
 <hr>
 
-##### Title TBA
+##### Learning and Games: A New Frontier in Algorithmic Game Theory
 
 [Yang Cai](https://www.cs.yale.edu/homes/cai/) (Yale) -- *Wednesday, September 24 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBA
+Over the past decade, machine learning has achieved remarkable progress across a wide range of applications. This success is largely attributable to the paradigm of training machine learning systems by minimizing a single loss function using gradient-descent-based optimization algorithms. However, the landscape is shifting, and many of the outstanding challenges in machine learning now lie at its intersection with game theory. These challenges arise either from explicitly strategic environments—such as multi-agent reinforcement learning systems, autobidding in auctions, and algorithmic pricing—or from problems that can be implicitly modeled as games, such as robustifying models against adversarial attacks, training generative models, and alignment.
+
+These emerging problems present new challenges for both machine learning and game theory. On the one hand, it remains unclear what types of optimization algorithms are effective in these game-theoretic settings. On the other hand, the games arising from machine learning problems often involve non-concave utilities, whereas traditional game theory has largely focused on games with (quasi)-concave utilities. In this talk, we will discuss recent progress in tackling these challenges and explore the obstacles and opportunities that lie ahead for both machine learning and game theory.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBA
+Yang Cai is a Professor of Computer Science and Economics (secondary appointment) at Yale University. He finished his Ph.D. at MIT in Computer Science under the supervision of Costis Daskalakis and received his B.Sc. in EECS at Peking University. His research interests lie in theoretical computer science and its interface with economics, optimization, and machine learning. His work has been recognized with the COLT Best Paper Award, the FOCS Test of Time Award, the Sloan Research Fellowship, the NSF CAREER Award, the William Dawson Scholarship, and the Simons-Berkeley Research Fellowship.
 
 </details>
 
