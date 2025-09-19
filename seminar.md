@@ -77,19 +77,19 @@ Yang Cai is a Professor of Computer Science and Economics (secondary appointment
 
 <hr>
 
-##### Title TBA
+##### Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints
 
 [Yan Dai](https://yandaichn.github.io/) (MIT) -- *Wednesday, October 1 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBA
+We consider the problem of dynamically allocating a reusable resource to strategic agents under long-term budget constraints, so that we simultaneously (i) maximize social welfare, (ii) satisfy multi-dimensional long-term cost constraints, and (iii) incentivize truthful reporting. Finding that primal-dual methods, widely used in constrained online optimization, are highly fragile in strategic settings, we develop an incentive-aware primal-dual framework achiving $$\tilde O(\sqrt T)$$ social welfare regret -- matching the non-strategic lower bound -- while being robust to strategic agents and adhering to all constraints. Technically, our primal side design features epoch-based lazy updates, dual-adjusted pricing rule, and randomized exploration rounds to fix agents' expectations about future and discourage misreporting. On the dual side, we carefully design a novel online learning technique -- which can be of independent interest -- to efficiently learn optimal duals despite lazy updates and strategic agents.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBA
+Yan Dai is a 2nd-year PhD student in Operations Research at MIT, co-advised by Prof. Patrick Jaillet and Prof. Negin Golrezaei. His research focuses on developing robust mechanisms for strategic economic systems under incomplete information via an online learning toolbox. He also works on online learning topics like bandits or reinforcement learning. He belongs to the COLT, ICML, and NeurIPS community, and was recognized by a Best Paper award at SIGMETRICS 2025.
 
 </details>
 
