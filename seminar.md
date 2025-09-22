@@ -178,8 +178,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, November 12 @ noon*
+##### Title TBA
+
+[Siddartha Jayanti](https://sites.google.com/view/siddhartha-jayanti/home?authuser=0) (Dartmouth) -- *Wednesday, November 12 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -195,8 +196,9 @@ TBA
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, November 19 @ noon*
+##### Title TBA
+
+[Xuchuang Wang](https://xuchuangw.com/) (UMass) -- *Wednesday, November 19 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
