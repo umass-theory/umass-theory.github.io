@@ -106,7 +106,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>2:50pm -- 3:40pm</td>
-      <td>Jamie Tucker-Foltz (Yale). <i>TBD</i></td>
+      <td>Jamie Tucker-Foltz (Yale). <i>Random Redistricting via Random Walks</i></td>
       <td>LGRC A112</td>
     </tr>
     <tr>
