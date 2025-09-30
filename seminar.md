@@ -95,22 +95,15 @@ Yan Dai is a 2nd-year PhD student in Operations Research at MIT, co-advised by P
 
 <hr>
 
-##### Title TBA
+##### Dynamic Matching with Post-allocation Service and its Application to Refugee Resettlement
 
 [Vahideh Manshadi](https://vahideh-manshadi.com) (Yale) -- *Wednesday, October 8 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBA
+Motivated by our collaboration with a major refugee resettlement agency in the U.S., we study a dynamic matching problem where each new arrival (a refugee case) must be matched immediately and irrevocably to one of the static resources (a location with a fixed annual quota). In addition to consuming the static resource, each case requires post-allocation services from a server, such as a translator. Given the uncertainty in service time, a server may not be available at a given time, thus we refer to it as a dynamic resource. Upon matching, the case will wait to avail service in a first-come-first-serve manner. Bursty matching to a location may result in undesirable congestion at its corresponding server. Consequently, the central planner (the agency) faces a dynamic matching problem with an objective that combines the matching reward (captured by pair-specific employment outcomes) with the cost for congestion for dynamic resources and over-allocation for the static ones. Motivated by the observed fluctuations in the composition of refugee pools across the years, we aim to design algorithms that do not rely on distributional knowledge. We develop learning-based algorithms that are asymptotically optimal in certain regimes, easy to interpret, and computationally fast. Our design is based on learning the dual variables of the underlying optimization problem; however, the main challenge lies in the time-varying nature of the dual variables associated with dynamic resources. Our theoretical development brings together techniques from Lyapunov analysis, adversarial online learning, and stochastic optimization. On the application side, when tested on real data from our partner agency and incorporating practical considerations, our method outperforms existing ones making it a viable candidate for replacing the current practice upon experimentation.
 
 </details>
-<details markdown="1">
-<summary>Bio</summary>
-
-TBA
-
-</details>
-
 <hr>
 
 ##### Title TBA
@@ -219,19 +212,23 @@ TBA
 
 <hr>
 
-##### Title TBA
+##### Combinatorial Selection Models with Costly Information
 
 [Dimitrios Christou](https://scholar.google.com/citations?user=t46iMM8AAAAJ&hl=en) (UT Austin) -- *Wednesday, December 3 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBA
+We consider a class of optimization problems over stochastic variables where the algorithm can learn information about the value of any variable through a series of costly steps; we model this information acquisition process as a Markov Decision Process (MDP). The algorithm's goal is to maximize the value of its solution minus the cost of information acquisition under a selection constraint. Such bandit superprocesses have been studied previously but solutions are known only for fairly restrictive special cases and the problem is computationally challenging in general.
+
+To address this challenge, previous approaches have turned to approximation algorithms by considering a restricted class of committing policies that simplify the decision-making aspects of the problem and allow for efficient optimization. This motivates the question of bounding the commitment gap, measuring the worst case ratio in the performance of the optimal committing policy and the overall optimal.
+
+In this talk, we provide a unified framework for bounding the commitment gap by developing a bound on the utility of the overall optimal through a novel cost amortization technique. We then proceed to develop two different approaches for exploiting that bound. The first one is a local approximation condition that is established individually for each MDP and then composes into a (global) bound on the commitment gap. The second one relies on an ex ante relaxation of the objective and provides MDP-invariant bounds on the commitment gap that are related to the correlation gap of the underlying selection constraint. Both techniques provide improved bounds on the commitment gap and approximately optimal solutions to many costly information models, including different variants of the Pandora’s Box problem.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBA
+Dimitrios (aka Dimitris) Christou is a 5th year Computer Science PhD student at UT Austin. He is fortunate to be advised by Prof. Shuchi Chawla. Prior to joining UT Austin, he received a Diploma in Electrical and Computer Engineering from the National Technical University of Athens. His research focuses on optimisation in uncertain environments and spans many areas, including the design of online algorithms, online-learning algorithms and data-driven algorithmic design. Recently, he has worked in problems in the intersection of Computer Science, Operations Research and Economics such as revenue maximization in online markets and costly-information models like bandit superprocesses.
 
 </details>
 
