@@ -42,13 +42,13 @@ Divyarthi Mohan is a postdoctoral researcher in the Faculty of Computing & Data 
 ##### ML for discrete optimization: Theoretical foundations
 
 [Ellen Vitercik](https://vitercik.github.io/) (Stanford) --  *Wednesday, September 17 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Many of the most important optimization problems in practice are massive in scale, mathematically complex, and involve numerous unknown parameters. Machine learning offers a powerful way to address these challenges by uncovering hidden structure and improving decision quality, but integrating predictions into algorithms raises fundamental questions: which architectures align with combinatorial structure, and how can we ensure robustness to error? This talk presents two case studies. First, we show how graph neural networks can approximate the optimal dynamic program for online matching, yielding algorithms that generalize across graph sizes and achieve strong empirical performance. Second, we introduce calibration as a principled interface between machine learning and decision-making, demonstrating through rent-or-buy and job scheduling problems that calibrated predictions yield both theoretical guarantees and practical improvements. Together, these results illustrate how learning can meaningfully augment algorithm design while retaining rigorous performance guarantees. This is joint work with Alexandre Hayderi, Amin Saberi, Anders Wikum, and Judy Hanwen Shen.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Ellen Vitercik is an Assistant Professor at Stanford University with a joint appointment between the Management Science & Engineering department and the Computer Science department. Her research interests include machine learning, algorithm design, discrete and combinatorial optimization, and the interface between economics and computation. Before joining Stanford, she spent a year as a Miller Postdoctoral Fellow at UC Berkeley and received a PhD in Computer Science from Carnegie Mellon University. Her research has been recognized with a Schmidt Sciences AI2050 Early Career Fellowship, an NSF CAREER award, the SIGecom Doctoral Dissertation Award, and the CMU School of Computer Science Distinguished Dissertation Award, among other honors.
@@ -80,13 +80,13 @@ Yang Cai is a Professor of Computer Science and Economics (secondary appointment
 ##### Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints
 
 [Yan Dai](https://yandaichn.github.io/) (MIT) -- *Wednesday, October 1 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 We consider the problem of dynamically allocating a reusable resource to strategic agents under long-term budget constraints, so that we simultaneously (i) maximize social welfare, (ii) satisfy multi-dimensional long-term cost constraints, and (iii) incentivize truthful reporting. Finding that primal-dual methods, widely used in constrained online optimization, are highly fragile in strategic settings, we develop an incentive-aware primal-dual framework achiving $$\tilde O(\sqrt T)$$ social welfare regret -- matching the non-strategic lower bound -- while being robust to strategic agents and adhering to all constraints. Technically, our primal side design features epoch-based lazy updates, dual-adjusted pricing rule, and randomized exploration rounds to fix agents' expectations about future and discourage misreporting. On the dual side, we carefully design a novel online learning technique -- which can be of independent interest -- to efficiently learn optimal duals despite lazy updates and strategic agents.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
 Yan Dai is a 2nd-year PhD student in Operations Research at MIT, co-advised by Prof. Patrick Jaillet and Prof. Negin Golrezaei. His research focuses on developing robust mechanisms for strategic economic systems under incomplete information via an online learning toolbox. He also works on online learning topics like bandits or reinforcement learning. He belongs to the COLT, ICML, and NeurIPS community, and was recognized by a Best Paper award at SIGMETRICS 2025.
@@ -98,7 +98,7 @@ Yan Dai is a 2nd-year PhD student in Operations Research at MIT, co-advised by P
 ##### Dynamic Matching with Post-allocation Service and its Application to Refugee Resettlement
 
 [Vahideh Manshadi](https://vahideh-manshadi.com) (Yale) -- *Wednesday, October 8 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 Motivated by our collaboration with a major refugee resettlement agency in the U.S., we study a dynamic matching problem where each new arrival (a refugee case) must be matched immediately and irrevocably to one of the static resources (a location with a fixed annual quota). In addition to consuming the static resource, each case requires post-allocation services from a server, such as a translator. Given the uncertainty in service time, a server may not be available at a given time, thus we refer to it as a dynamic resource. Upon matching, the case will wait to avail service in a first-come-first-serve manner. Bursty matching to a location may result in undesirable congestion at its corresponding server. Consequently, the central planner (the agency) faces a dynamic matching problem with an objective that combines the matching reward (captured by pair-specific employment outcomes) with the cost for congestion for dynamic resources and over-allocation for the static ones. Motivated by the observed fluctuations in the composition of refugee pools across the years, we aim to design algorithms that do not rely on distributional knowledge. We develop learning-based algorithms that are asymptotically optimal in certain regimes, easy to interpret, and computationally fast. Our design is based on learning the dual variables of the underlying optimization problem; however, the main challenge lies in the time-varying nature of the dual variables associated with dynamic resources. Our theoretical development brings together techniques from Lyapunov analysis, adversarial online learning, and stochastic optimization. On the application side, when tested on real data from our partner agency and incorporating practical considerations, our method outperforms existing ones making it a viable candidate for replacing the current practice upon experimentation.
@@ -215,7 +215,7 @@ TBA
 ##### Combinatorial Selection Models with Costly Information
 
 [Dimitrios Christou](https://scholar.google.com/citations?user=t46iMM8AAAAJ&hl=en) (UT Austin) -- *Wednesday, December 3 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 We consider a class of optimization problems over stochastic variables where the algorithm can learn information about the value of any variable through a series of costly steps; we model this information acquisition process as a Markov Decision Process (MDP). The algorithm's goal is to maximize the value of its solution minus the cost of information acquisition under a selection constraint. Such bandit superprocesses have been studied previously but solutions are known only for fairly restrictive special cases and the problem is computationally challenging in general.
@@ -225,7 +225,7 @@ To address this challenge, previous approaches have turned to approximation algo
 In this talk, we provide a unified framework for bounding the commitment gap by developing a bound on the utility of the overall optimal through a novel cost amortization technique. We then proceed to develop two different approaches for exploiting that bound. The first one is a local approximation condition that is established individually for each MDP and then composes into a (global) bound on the commitment gap. The second one relies on an ex ante relaxation of the objective and provides MDP-invariant bounds on the commitment gap that are related to the correlation gap of the underlying selection constraint. Both techniques provide improved bounds on the commitment gap and approximately optimal solutions to many costly information models, including different variants of the Pandora’s Box problem.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
 Dimitrios (aka Dimitris) Christou is a 5th year Computer Science PhD student at UT Austin. He is fortunate to be advised by Prof. Shuchi Chawla. Prior to joining UT Austin, he received a Diploma in Electrical and Computer Engineering from the National Technical University of Athens. His research focuses on optimisation in uncertain environments and spans many areas, including the design of online algorithms, online-learning algorithms and data-driven algorithmic design. Recently, he has worked in problems in the intersection of Computer Science, Operations Research and Economics such as revenue maximization in online markets and costly-information models like bandit superprocesses.
