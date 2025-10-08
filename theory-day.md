@@ -81,7 +81,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>10:00am -- 10:50am</td>
-      <td>Nisheeth Vishnoi (Yale). <i>TBD</i></td>
+      <td>Nisheeth Vishnoi (Yale). <i>A Mathematical Theory of Human-AI Work and Beyond</i></td>
       <td>LGRC A112</td>
     </tr>
     <tr>
