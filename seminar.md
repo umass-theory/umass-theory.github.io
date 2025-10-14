@@ -106,19 +106,21 @@ Motivated by our collaboration with a major refugee resettlement agency in the U
 </details>
 <hr>
 
-##### Title TBA
+##### Towards Instance Optimality in Online Decision-Making
 
 [Sid Banerjee](https://sidbanerjee.orie.cornell.edu/) (Cornell) -- *Wednesday, October 15 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBA
+Online decision-making is one of the most active research areas in computer science and operations research - these problems show up everywhere, and thanks to the ever present "curse-of-dimensionality", enable a constant stream of work on new models, algorithms, and performance metrics. The huge diversity in methodologies, however, means that these policies are hard to understand and compare. In practice, we would ideally like a policy that does *as well as possible for our given setting*; but is this possible?  
+
+In this talk, I will try and present two case-studies based on my research that offers hope towards this goal. First, for a large class of "exchangeable action" problems (which includes several widely-studied settings including online resource-allocation, dynamic pricing, generalized assignment and online bin packing), I will present a class of simple greedy policies that, under stochastic inputs, get constant regret, i.e., have additive loss compared to the optimal solution in hindsight which is independent of the horizon and state-space. One downside of these policies is that their performance can be bad under certain adversarial inputs. To this end, for the simpler "online learning" setting (i.e., repeated decision-making problems with no intertemporal constraints and additive rewards), I will present a policy that in every instance can match (up to constant factors) the regret of both the above greedy policies as well as the minimax optimal policy, whichever is better for that given instance. In both cases, the resulting policies are surprisingly simple, despite beating the performance of complex state-of-the-art algorithms for widely studied problems. The magic behind this is in the use of new sample-path coupling approaches, and I will try to give examples in each case to illustrate these techniques.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-TBA
+Sid Banerjee is an associate professor in the School of Operations Research at Cornell, working on topics at the intersection of data-driven decision-making, network algorithms and market design. His research is supported by grants from the NSF (including an NSF CAREER award), ARO, and AFOSR, and has received multiple awards including the INFORMS Applied Probability Society Best Publication award in 2021 and the Erlang Prize in 2022. He completed his PhD from the ECE Department at UT Austin, and was a postdoctoral researcher in the Social Algorithms Lab at Stanford. He also served as a technical consultant with the research science group at Lyft from 2014-18.
 
 </details>
 
