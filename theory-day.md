@@ -90,12 +90,12 @@ If you plan to stay overnight before or after the event, some recommended lodgin
       <td>LGRC A112</td>
     </tr>
     <tr>
-      <td>12:00pm -- 12:20pm</td>
+      <td>12:00pm -- 12:30pm</td>
       <td>Student Lightning Talks</td>
       <td>LGRC A112</td>
     </tr>
     <tr>
-      <td>12:20pm -- 2:20pm</td>
+      <td>12:30pm -- 2:30pm</td>
       <td>Lunch and Poster Session</td>
       <td>LGRC A112 and LGRC Attrium</td>
     </tr>
