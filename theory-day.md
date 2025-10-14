@@ -85,33 +85,28 @@ If you plan to stay overnight before or after the event, some recommended lodgin
       <td>LGRC A112</td>
     </tr>
     <tr>
-      <td>10:50am -- 11:40pm</td>
+      <td>11:00am -- 11:50pm</td>
       <td>Sitan Chen (Harvard). <i>Diffusion Models for Text?</i></td>
       <td>LGRC A112</td>
     </tr>
     <tr>
-      <td>11:40pm -- 12:00pm</td>
+      <td>12:00pm -- 12:20pm</td>
       <td>Student Lightning Talks</td>
       <td>LGRC A112</td>
     </tr>
     <tr>
-      <td>12:00pm -- 2:00pm</td>
+      <td>12:20pm -- 2:20pm</td>
       <td>Lunch and Poster Session</td>
       <td>LGRC A112 and LGRC Attrium</td>
     </tr>
     <tr>
-      <td>2:00pm -- 2:50pm</td>
-      <td>Mark Bun (Boston University). <i>TBD</i></td>
+      <td>2:30pm -- 3:20pm</td>
+      <td>Mark Bun (Boston University). <i>Interactive Proofs For Distribution Testing With Conditional Oracles</i></td>
       <td>LGRC A112</td>
     </tr>
     <tr>
-      <td>2:50pm -- 3:40pm</td>
+      <td>3:30pm -- 4:20pm</td>
       <td>Jamie Tucker-Foltz (Yale). <i>Random Redistricting via Random Walks</i></td>
-      <td>LGRC A112</td>
-    </tr>
-    <tr>
-      <td>3:40pm -- 4:30pm</td>
-      <td>TBD. <i>TBD</i></td>
       <td>LGRC A112</td>
     </tr>
     <tr>
