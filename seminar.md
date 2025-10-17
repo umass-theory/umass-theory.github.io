@@ -128,7 +128,7 @@ Sid Banerjee is an associate professor in the School of Operations Research at C
 
 ##### Approximating High-Dimensional Earth Mover’s Distance as Fast as Closest Pair
 
-[Lorenzo Berreta](https://lorenzo2beretta.github.io) (UC Santa Cruz) -- *Wednesday, October 22 @ noon*
+[Lorenzo Berreta](https://lorenzo2beretta.github.io) (IBM Cambridge) -- *Wednesday, October 22 @ noon*
 <details markdown="1" open="1">
 <summary>Abstract</summary>
   
