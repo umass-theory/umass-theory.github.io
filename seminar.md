@@ -80,13 +80,13 @@ Yang Cai is a Professor of Computer Science and Economics (secondary appointment
 ##### Incentive-Aware Dynamic Resource Allocation under Long-Term Cost Constraints
 
 [Yan Dai](https://yandaichn.github.io/) (MIT) -- *Wednesday, October 1 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 We consider the problem of dynamically allocating a reusable resource to strategic agents under long-term budget constraints, so that we simultaneously (i) maximize social welfare, (ii) satisfy multi-dimensional long-term cost constraints, and (iii) incentivize truthful reporting. Finding that primal-dual methods, widely used in constrained online optimization, are highly fragile in strategic settings, we develop an incentive-aware primal-dual framework achiving $$\tilde O(\sqrt T)$$ social welfare regret -- matching the non-strategic lower bound -- while being robust to strategic agents and adhering to all constraints. Technically, our primal side design features epoch-based lazy updates, dual-adjusted pricing rule, and randomized exploration rounds to fix agents' expectations about future and discourage misreporting. On the dual side, we carefully design a novel online learning technique -- which can be of independent interest -- to efficiently learn optimal duals despite lazy updates and strategic agents.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Yan Dai is a 2nd-year PhD student in Operations Research at MIT, co-advised by Prof. Patrick Jaillet and Prof. Negin Golrezaei. His research focuses on developing robust mechanisms for strategic economic systems under incomplete information via an online learning toolbox. He also works on online learning topics like bandits or reinforcement learning. He belongs to the COLT, ICML, and NeurIPS community, and was recognized by a Best Paper award at SIGMETRICS 2025.
@@ -98,7 +98,7 @@ Yan Dai is a 2nd-year PhD student in Operations Research at MIT, co-advised by P
 ##### Dynamic Matching with Post-allocation Service and its Application to Refugee Resettlement
 
 [Vahideh Manshadi](https://vahideh-manshadi.com) (Yale) -- *Wednesday, October 8 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Motivated by our collaboration with a major refugee resettlement agency in the U.S., we study a dynamic matching problem where each new arrival (a refugee case) must be matched immediately and irrevocably to one of the static resources (a location with a fixed annual quota). In addition to consuming the static resource, each case requires post-allocation services from a server, such as a translator. Given the uncertainty in service time, a server may not be available at a given time, thus we refer to it as a dynamic resource. Upon matching, the case will wait to avail service in a first-come-first-serve manner. Bursty matching to a location may result in undesirable congestion at its corresponding server. Consequently, the central planner (the agency) faces a dynamic matching problem with an objective that combines the matching reward (captured by pair-specific employment outcomes) with the cost for congestion for dynamic resources and over-allocation for the static ones. Motivated by the observed fluctuations in the composition of refugee pools across the years, we aim to design algorithms that do not rely on distributional knowledge. We develop learning-based algorithms that are asymptotically optimal in certain regimes, easy to interpret, and computationally fast. Our design is based on learning the dual variables of the underlying optimization problem; however, the main challenge lies in the time-varying nature of the dual variables associated with dynamic resources. Our theoretical development brings together techniques from Lyapunov analysis, adversarial online learning, and stochastic optimization. On the application side, when tested on real data from our partner agency and incorporating practical considerations, our method outperforms existing ones making it a viable candidate for replacing the current practice upon experimentation.
@@ -109,7 +109,7 @@ Motivated by our collaboration with a major refugee resettlement agency in the U
 ##### Towards Instance Optimality in Online Decision-Making
 
 [Sid Banerjee](https://sidbanerjee.orie.cornell.edu/) (Cornell) -- *Wednesday, October 15 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Online decision-making is one of the most active research areas in computer science and operations research - these problems show up everywhere, and thanks to the ever present "curse-of-dimensionality", enable a constant stream of work on new models, algorithms, and performance metrics. The huge diversity in methodologies, however, means that these policies are hard to understand and compare. In practice, we would ideally like a policy that does *as well as possible for our given setting*; but is this possible?  
@@ -117,7 +117,7 @@ Online decision-making is one of the most active research areas in computer scie
 In this talk, I will try and present two case-studies based on my research that offers hope towards this goal. First, for a large class of "exchangeable action" problems (which includes several widely-studied settings including online resource-allocation, dynamic pricing, generalized assignment and online bin packing), I will present a class of simple greedy policies that, under stochastic inputs, get constant regret, i.e., have additive loss compared to the optimal solution in hindsight which is independent of the horizon and state-space. One downside of these policies is that their performance can be bad under certain adversarial inputs. To this end, for the simpler "online learning" setting (i.e., repeated decision-making problems with no intertemporal constraints and additive rewards), I will present a policy that in every instance can match (up to constant factors) the regret of both the above greedy policies as well as the minimax optimal policy, whichever is better for that given instance. In both cases, the resulting policies are surprisingly simple, despite beating the performance of complex state-of-the-art algorithms for widely studied problems. The magic behind this is in the use of new sample-path coupling approaches, and I will try to give examples in each case to illustrate these techniques.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Sid Banerjee is an associate professor in the School of Operations Research at Cornell, working on topics at the intersection of data-driven decision-making, network algorithms and market design. His research is supported by grants from the NSF (including an NSF CAREER award), ARO, and AFOSR, and has received multiple awards including the INFORMS Applied Probability Society Best Publication award in 2021 and the Erlang Prize in 2022. He completed his PhD from the ECE Department at UT Austin, and was a postdoctoral researcher in the Social Algorithms Lab at Stanford. He also served as a technical consultant with the research science group at Lyft from 2014-18.
@@ -129,7 +129,7 @@ Sid Banerjee is an associate professor in the School of Operations Research at C
 ##### Approximating High-Dimensional Earth Mover’s Distance as Fast as Closest Pair
 
 [Lorenzo Berreta](https://lorenzo2beretta.github.io) (IBM Cambridge) -- *Wednesday, October 22 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 We give a reduction from $$(1+\epsilon)$$-approximate Earth Mover's Distance (EMD) to $$(1+\epsilon)$$-approximate Closest Pair. As a consequence, we improve the fastest known approximation algorithm for high-dimensional EMD. Here, given $$p\in [1, 2]$$ and two sets of $$n$$ points $$X,Y \subset (\R^d,\ell_p)$$, their EMD is the minimum cost of a perfect matching between $$X$$ and $$Y$$, where the cost of matching two vectors is their $$\ell_p$$ distance. Further, Closest Pair is the basic problem of finding a pair of points realizing $$\min_{x \in X, y\in Y} \Vert x-y \Vert_p$$.
@@ -138,36 +138,22 @@ We give a reduction from $$(1+\epsilon)$$-approximate Earth Mover's Distance (EM
 
 <hr>
 
-##### Speaker TBA
-*Wednesday, October 29 @ noon*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-TBA
+##### *No seminar*
+*Wednesday, October 29*
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-TBA
-
-</details>
-
-<hr>
-
-##### Title TBA
+##### Risk-Sensitive Online Algorithms
 
 [Nico Christianson](https://nicochristianson.com/) (Stanford) -- *Wednesday, November 5 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBA
+Randomness can improve performance in many online decision-making problems. However, this improved performance is only obtained on average, exposing the decision-maker to potentially poor performance on any given run, which may be undesirable for agents which are sensitive to risks of a particular size or likelihood. Motivated by this challenge, we study the design of risk-sensitive online algorithms, in which risk measures are used in the competitive analysis of randomized online algorithms. We introduce a new performance metric, the CVaR$$_δ$$-Competitive Ratio, which compares the conditional value-at-risk of an algorithm's cost against the offline optimal cost, and we discuss the question of designing optimal algorithms for online ski rental and one-max search with this metric. We find that (near)-optimal algorithms for these problems can be obtained via the solution of certain delay differential equations, and the resulting performance bounds can exhibit phase transitions which highlight a fundamental limit to the power of randomization when decision-makers are sufficiently risk-sensitive. We will also discuss the application of this framework to the design of learning-augmented online algorithms.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-TBA
+Nico Christianson is a Stanford Energy Postdoctoral Fellow and an incoming Assistant Professor of Computer Science at Johns Hopkins University (starting Fall 2026). His research lies broadly at the intersection of algorithms, machine learning, and optimization, with a specific emphasis on the development of new, theoretically-grounded algorithms and AI/ML methods for reliable decision-making under uncertainty. Much of his work is motivated by modern energy and sustainability challenges, with applications ranging from energy resource operation to sustainable computing systems. Nico received his PhD in computing and mathematical sciences at Caltech in 2025, where he was supported by an NSF Graduate Research Fellowship and a PIMCO Data Science Fellowship. His PhD dissertation won Caltech’s Ben P.C. Chou Doctoral Prize in Information Science and Technology and the Demetriades-Tsafka-Kokkalis Prize in Renewable Energy. Before Caltech, Nico received an AB in applied mathematics at Harvard College.
 
 </details>
 
