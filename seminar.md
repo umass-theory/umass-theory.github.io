@@ -145,7 +145,7 @@ We give a reduction from $$(1+\epsilon)$$-approximate Earth Mover's Distance (EM
 
 ##### Risk-Sensitive Online Algorithms
 
-[Nico Christianson](https://nicochristianson.com/) (Stanford) -- *Wednesday, November 5 @ noon* -- ***Location: CSL E400 (new building)***
+[Nico Christianson](https://nicochristianson.com/) (Stanford) -- *Wednesday, November 5 @ noon* -- ***special location: CSL E400 (new building)***
 <details markdown="1">
 <summary>Abstract</summary>
   
