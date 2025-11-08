@@ -146,13 +146,13 @@ We give a reduction from $$(1+\epsilon)$$-approximate Earth Mover's Distance (EM
 ##### Risk-Sensitive Online Algorithms
 
 [Nico Christianson](https://nicochristianson.com/) (Stanford) -- *Wednesday, November 5 @ noon* -- ***Location: CSL E400 (new building)***
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Randomness can improve performance in many online decision-making problems. However, this improved performance is only obtained on average, exposing the decision-maker to potentially poor performance on any given run, which may be undesirable for agents which are sensitive to risks of a particular size or likelihood. Motivated by this challenge, we study the design of risk-sensitive online algorithms, in which risk measures are used in the competitive analysis of randomized online algorithms. We introduce a new performance metric, the CVaR$$_δ$$-Competitive Ratio, which compares the conditional value-at-risk of an algorithm's cost against the offline optimal cost, and we discuss the question of designing optimal algorithms for online ski rental and one-max search with this metric. We find that (near)-optimal algorithms for these problems can be obtained via the solution of certain delay differential equations, and the resulting performance bounds can exhibit phase transitions which highlight a fundamental limit to the power of randomization when decision-makers are sufficiently risk-sensitive. We will also discuss the application of this framework to the design of learning-augmented online algorithms.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Nico Christianson is a Stanford Energy Postdoctoral Fellow and an incoming Assistant Professor of Computer Science at Johns Hopkins University (starting Fall 2026). His research lies broadly at the intersection of algorithms, machine learning, and optimization, with a specific emphasis on the development of new, theoretically-grounded algorithms and AI/ML methods for reliable decision-making under uncertainty. Much of his work is motivated by modern energy and sustainability challenges, with applications ranging from energy resource operation to sustainable computing systems. Nico received his PhD in computing and mathematical sciences at Caltech in 2025, where he was supported by an NSF Graduate Research Fellowship and a PIMCO Data Science Fellowship. His PhD dissertation won Caltech’s Ben P.C. Chou Doctoral Prize in Information Science and Technology and the Demetriades-Tsafka-Kokkalis Prize in Renewable Energy. Before Caltech, Nico received an AB in applied mathematics at Harvard College.
@@ -161,19 +161,23 @@ Nico Christianson is a Stanford Energy Postdoctoral Fellow and an incoming Assis
 
 <hr>
 
-##### Title TBA
+##### Meta-Configurations Tracking: Machine Verifying Fast Multiprocess Data Structures
 
 [Siddartha Jayanti](https://sites.google.com/view/siddhartha-jayanti/home?authuser=0) (Dartmouth) -- *Wednesday, November 12 @ noon*
-<details markdown="1">
+<details markdown="1"  open="1">
 <summary>Abstract</summary>
   
-TBA
+As computing permeates our lives, the reliability of algorithms has become indispensable. Particularly challenging is the task of ensuring the reliability of concurrent data structures, which underlie the design of fast parallel algorithms for the modern multicores in our phones, laptops, and data center servers.
+
+In this talk, I will describe some uses of concurrent data structures, motivate the need for their machine-verification, and describe an elegant technique for machine-verification of concurrent data structures, known as _meta-configuration tracking_ [Jayanti, Jayanti, Yavuz, Hernandez: ACM POPL 2024]. This technique is simple to use, requiring only forward reasoning, yet it is universal and complete, i.e., powerful enough to prove the correctness of even intricate data structures with future and far-future dependent linearization structures. We have used meta-configuration tracking to machine-verify impactful data structures, including: the Jayanti-Tarjan concurrent union-find data structure which enables "parallel clustering algorithms which scale to graphs with tens of billions of edges" at Google [received Google _Healthys_ Platinum Award], the ParlayHash data structure which is "the fastest concurrent hash table at Google" [received Google _Healthys_ Gold Award], and MemSnap which is a fast far-future dependent snapshot object [received ACM SPAA 2025 Distinguished Paper Award].
 
 </details>
-<details markdown="1">
+<details markdown="1"  open="1">
 <summary>Bio</summary>
 
-TBA
+Siddhartha Jayanti is an Assistant Professor of computer science at Dartmouth College, where he leads the Distributed Computing and Verification Lab. His research spans algorithms, verification, and applications with a focus on designing simple, fast, scalable, and reliable solutions to challenging multidisciplinary problems. Siddhartha's work has touched several areas of inquiry, including distributed computing, algorithms and data structures, verification, relativistic physics, economics, security, and machine learning. Prior to Dartmouth, Siddhartha worked as a research scientist at Google Research, where he designed and deployed fast and formally verified algorithms for large-scale data processing and clustering.
+
+Siddhartha received his bachelor's from Princeton University, and his Masters and Ph.D. from MIT. His dissertation entitled _Simple, Fast, Scalable, and Reliable Multiprocessor Algorithms_, received the _2023 ACM-EATCS Principles of Distributed Computing Doctoral Dissertation Award_.
 
 </details>
 
