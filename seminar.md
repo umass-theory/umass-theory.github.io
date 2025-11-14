@@ -164,7 +164,7 @@ Nico Christianson is a Stanford Energy Postdoctoral Fellow and an incoming Assis
 ##### Meta-Configurations Tracking: Machine Verifying Fast Multiprocess Data Structures
 
 [Siddartha Jayanti](https://sites.google.com/view/siddhartha-jayanti/home?authuser=0) (Dartmouth) -- *Wednesday, November 12 @ noon*
-<details markdown="1"  open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 As computing permeates our lives, the reliability of algorithms has become indispensable. Particularly challenging is the task of ensuring the reliability of concurrent data structures, which underlie the design of fast parallel algorithms for the modern multicores in our phones, laptops, and data center servers.
@@ -172,7 +172,7 @@ As computing permeates our lives, the reliability of algorithms has become indis
 In this talk, I will describe some uses of concurrent data structures, motivate the need for their machine-verification, and describe an elegant technique for machine-verification of concurrent data structures, known as _meta-configuration tracking_ [Jayanti, Jayanti, Yavuz, Hernandez: ACM POPL 2024]. This technique is simple to use, requiring only forward reasoning, yet it is universal and complete, i.e., powerful enough to prove the correctness of even intricate data structures with future and far-future dependent linearization structures. We have used meta-configuration tracking to machine-verify impactful data structures, including: the Jayanti-Tarjan concurrent union-find data structure which enables "parallel clustering algorithms which scale to graphs with tens of billions of edges" at Google [received Google _Healthys_ Platinum Award], the ParlayHash data structure which is "the fastest concurrent hash table at Google" [received Google _Healthys_ Gold Award], and MemSnap which is a fast far-future dependent snapshot object [received ACM SPAA 2025 Distinguished Paper Award].
 
 </details>
-<details markdown="1"  open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Siddhartha Jayanti is an Assistant Professor of computer science at Dartmouth College, where he leads the Distributed Computing and Verification Lab. His research spans algorithms, verification, and applications with a focus on designing simple, fast, scalable, and reliable solutions to challenging multidisciplinary problems. Siddhartha's work has touched several areas of inquiry, including distributed computing, algorithms and data structures, verification, relativistic physics, economics, security, and machine learning. Prior to Dartmouth, Siddhartha worked as a research scientist at Google Research, where he designed and deployed fast and formally verified algorithms for large-scale data processing and clustering.
@@ -183,19 +183,20 @@ Siddhartha received his bachelor's from Princeton University, and his Masters an
 
 <hr>
 
-##### Title TBA
+##### Online Learning × Quantum Network: Foundations, Fusion, & Frontier
 
 [Xuchuang Wang](https://xuchuangw.com/) (UMass) -- *Wednesday, November 19 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBA
+Online learning (OL) theory examines how to make sequential decisions optimally, yet classical formulations often fall short when applied to complex, real-world systems. In the first part of this talk, I will introduce new algorithmic foundations that extend OL to multi-agent settings and to feedback models that better reflect practical constraints. In the second part, I will turn to quantum networks (QNs)—emerging infrastructures that enable the transmission of fragile quantum states over long distances—and discuss how to evaluate and optimize their performance.
+Building on these foundations, I will highlight two recent works that illustrate a bidirectional synergy between OL and QNs: (1) how challenges in cutting-edge quantum networks motivate the development of more expressive and powerful online learning frameworks, and (2) how advances in OL theory, in turn, lead to more efficient, reliable algorithms for quantum network operation. I will conclude with a forward-looking discussion on the joint frontier of OL and QN, outlining potential pathways toward deployable quantum networks and robust multi-role agent systems.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-TBA
+Xuchuang Wang is a postdoctoral researcher in the Manning College of Information & Computer Sciences at the University of Massachusetts Amherst, working with Don Towsley and Mohammad Hajiesmaili. He received his Ph.D. in Computer Science & Engineering from The Chinese University of Hong Kong, advised by John C.S. Lui. His research spans online learning theory, quantum networking systems, and the emerging intersection between the two. His interdisciplinary work has appeared in top-tier venues across machine learning, networking, and performance evaluation. His recent paper was selected as a Best Paper Finalist (top 5) at ACM SIGMETRICS 2025.
 
 </details>
 
