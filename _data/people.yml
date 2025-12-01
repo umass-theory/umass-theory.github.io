@@ -70,11 +70,11 @@ ramesh:
     bio: "parallel and distributed systems, communication networks"
 
 mingda:
-	display_name: "Mingda Qiao"
-	role: faculty
-	webpage: "https://sites.google.com/site/acmonsterqiao/"
-	image: "https://lh3.googleusercontent.com/sitesv/AAzXCkdEGCCvie5YIYAk6WSShEYDE4x303aBYAOX-Yql1oAee2cOlcQqLWRnZ8nfZrUcjU3NQ61lfjRxRf-baOh8wxx3C4dZ7OCd_Z0dguupTwpEWCQGQ-IddIhhWO59xOyatAsVokHhn9M2BBvw8nlhJDJs9cMlrXHMTwPPA8-VFLusXmPeolfh6peW=w1280"
-	bio: "machine learning theory, online algorithms"
+    display_name: "Mingda Qiao"
+    role: faculty
+    webpage: "https://sites.google.com/site/acmonsterqiao/"
+    image: "https://lh3.googleusercontent.com/sitesv/AAzXCkdEGCCvie5YIYAk6WSShEYDE4x303aBYAOX-Yql1oAee2cOlcQqLWRnZ8nfZrUcjU3NQ61lfjRxRf-baOh8wxx3C4dZ7OCd_Z0dguupTwpEWCQGQ-IddIhhWO59xOyatAsVokHhn9M2BBvw8nlhJDJs9cMlrXHMTwPPA8-VFLusXmPeolfh6peW=w1280"
+    bio: "machine learning theory, online algorithms"
 
 zick:
     display_name: "Yair Zick"
