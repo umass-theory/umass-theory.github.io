@@ -69,13 +69,6 @@ ramesh:
     image: "https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2021/07/2021_Ramesh_Sitaraman_IMG_2448_John_Solem-1.jpeg"
     bio: "parallel and distributed systems, communication networks"
 
-wilson:
-    display_name: "Mark C. Wilson"
-    role: faculty
-    webpage: "https://markcwilson.site"
-    image: "https://markcwilson.site/wp-content/uploads/2023/06/headshot2023-768x512.jpg"
-    bio: "combinatorics, analysis of algorithms, computational social science"
-
 zick:
     display_name: "Yair Zick"
     role: faculty
