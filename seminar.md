@@ -209,7 +209,7 @@ Xuchuang Wang is a postdoctoral researcher in the Manning College of Information
 
 ##### Combinatorial Selection Models with Costly Information
 
-[Dimitrios Christou](https://scholar.google.com/citations?user=t46iMM8AAAAJ&hl=en) (UT Austin) -- *Wednesday, December 3 @ noon*
+[Dimitrios Christou](https://scholar.google.com/citations?user=t46iMM8AAAAJ&hl=en) (UT Austin) -- *Wednesday, December 3 @ noon* -- ***special location: CSL E120 (new building)***
 <details markdown="1" open="1">
 <summary>Abstract</summary>
   
