@@ -251,7 +251,7 @@ Bio TBA
 
 </details>
 
-<hr> -->3
+<hr> -->
 
 #### Past Seminars Archive
 
