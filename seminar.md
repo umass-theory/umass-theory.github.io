@@ -2,7 +2,7 @@
 layout: seminar
 title: Theory Seminar
 ---
-Welcome to the Spring 2026 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **4-5 pm on Tuesdays** in **Room 140**, in the Computer Science Building (CSB) at UMass Amherst, and is free and open to the public. The faculty host this semester is [Cameron Musco](https://people.cs.umass.edu/~cmusco/). If you are interested in giving a talk, please email the faculty host, or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
+Welcome to the Spring 2026 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **4-5 pm on Tuesdays** in **Room 140, in the Computer Science Building (CSB) at UMass Amherst**, and is free and open to the public. The faculty host this semester is [Cameron Musco](https://people.cs.umass.edu/~cmusco/). If you are interested in giving a talk, please email the faculty host, or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
 
 <hr>
 
