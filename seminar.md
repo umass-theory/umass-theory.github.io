@@ -194,6 +194,8 @@ TBD
 
 TBD
 
+</details>
+
 <hr>
 
 ##### TBD
@@ -249,7 +251,7 @@ Bio TBA
 
 </details>
 
-<hr> -->
+<hr> -->3
 
 #### Past Seminars Archive
 
