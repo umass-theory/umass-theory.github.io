@@ -125,7 +125,7 @@ TBD
 <hr>
 
 
-#####T BD
+##### TBD
 
 [Izzy Grosof](https://isaacg1.github.io/) (Emory) -- *Tuesday, March 31 @ 4pm*
 <details markdown="1">
@@ -146,6 +146,8 @@ TBD
 ##### TBD
 
 [Rikhav Shah](https://math.berkeley.edu/~rdshah/) (MIT) -- *Tuesday, April 7 @ 4pm*
+
+<details markdown="1">
 <summary>Abstract</summary>
   
 TBD
@@ -163,13 +165,13 @@ TBD
 ##### TBD
 
 [Shivam Nadimpalli](https://math.mit.edu/~shivamn/) (MIT) -- *Tuesday, April 14 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 TBD
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 TBD
@@ -181,13 +183,13 @@ TBD
 ##### TBD
 
 [TBD]() -- *Tuesday, April 21 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 TBD
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 TBD
@@ -197,13 +199,13 @@ TBD
 ##### TBD
 
 [TBD]() -- *Tuesday, April 28 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 TBD
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 TBD
@@ -214,13 +216,13 @@ TBD
 
 [TBD]() -- *Tuesday, May 5 @ 4pm*
 
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 TBD
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 TBD
