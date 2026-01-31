@@ -36,7 +36,7 @@ Welcome to the Spring 2026 series of the **University of Massachusetts Computer 
 
 ##### TBD
 
-[TBD]() --  *Tuesday, February 17 @ 4pm*
+[Stefan Grosser](https://blog.catalangrenade.com/p/about.html) (McGill) --  *Tuesday, February 17 @ 4pm*
 <details markdown="1">
 <summary>Abstract</summary>
 
