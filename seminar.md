@@ -34,11 +34,15 @@ Welcome to the Spring 2026 series of the **University of Massachusetts Computer 
 
 <hr>
 
-##### TBD
+##### Characterizing Strong Proofs Systems via Total Search Problems
 
 [Stefan Grosser](https://blog.catalangrenade.com/p/about.html) (McGill) --  *Tuesday, February 17 @ 4pm*
-<details markdown="1">
-<summary>Abstract</summary>
+<details markdown="1"  open="1">
+<summary
+In 1929, Gödel proved his celebrated completeness theorem, showing that in first-order logic a statement is true if and only if it has a finite proof. Exactly fifty years later, Cook and Reckhow asked whether a stronger phenomenon might hold in propositional logic: is there a fixed proof system—such as the sequent calculus or ZFC—in which every tautology admits a short proof? Equivalently, does NP = coNP? This question lies at the heart of propositional proof complexity, whose central goal is to show that for every proof system there exist tautologies that require exponentially long proofs.
+
+In this talk, we survey a recent and successful line of work in proof complexity that connects the strength of proof systems to the complexity of combinatorial search problems. We will see how short proofs correspond to efficient algorithms (and conversely), and how this connection has been used to obtain new lower bounds in both proof complexity and circuit complexity. This talk is based on joint work with Noah Fleming, Toniann Pitassi, and Robert Robere.
+</summary>
 
 </details>
 <details markdown="1">
