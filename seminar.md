@@ -70,9 +70,9 @@ TBD
 
 <hr>
 
-##### TBD
+##### Keeping the World Connected: Building a Faster, Smarter, and Greener Internet
 
-[Neha Makhija ](https://people.cs.umass.edu/~nehamakhija/) (UMass Amherst) -- *Tuesday, March 3 @ 4pm*
+[Ramesh Sitaraman ](https://groups.cs.umass.edu/ramesh/) (UMass Amherst) -- *Tuesday, March 3 @ 4pm* *Distinguished University Professor Lecture, Great Hall, Old Chapel*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -204,7 +204,7 @@ TBD
 
 ##### TBD
 
-[TBD]() -- *Tuesday, April 28 @ 4pm*
+[Neha Makhija ](https://people.cs.umass.edu/~nehamakhija/) (UMass Amherst) -- *Tuesday, April 28 @ 4pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
