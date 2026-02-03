@@ -72,7 +72,7 @@ TBD
 
 ##### Keeping the World Connected: Building a Faster, Smarter, and Greener Internet
 
-[Ramesh Sitaraman ](https://groups.cs.umass.edu/ramesh/) (UMass Amherst) -- *Tuesday, March 3 @ 4pm* *Distinguished University Professor Lecture, Great Hall, Old Chapel*
+[Ramesh Sitaraman ](https://groups.cs.umass.edu/ramesh/) (UMass Amherst) -- *Tuesday, March 3 @ 4pm.* **Distinguished University Professor Lecture, Great Hall, Old Chapel**
 <details markdown="1">
 <summary>Abstract</summary>
   
