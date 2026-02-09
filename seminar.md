@@ -24,13 +24,13 @@ Welcome to the Spring 2026 series of the **University of Massachusetts Computer 
 [Mohammadreza Daneshvaramoli](https://moreda-a.github.io/) --  *Tuesday, February 10 @ 4pm*
 <details markdown="1" open="1">
 <summary>Abstract </summary>
-**Part 1:** We formalize fairness for the \(k\)-server problem via \((\alpha,\beta)\)-fairness: each server's cost is at most an \(\alpha/k\) fraction of the total plus \(\beta\). We show fairness can be achieved without losing competitiveness.
-Offline, we transform any optimal solution into a fair one with \(\alpha=1+\epsilon\) and \(\beta=O(diam \cdot \log k/\epsilon)\) while incurring only an additive \(O(diam \cdot k\log k/\epsilon)\) cost.
+**Part 1:** We formalize fairness for the $$k$$-server problem via $$(\alpha,\beta)$$-fairness: each server's cost is at most an $$\alpha/k$$ fraction of the total plus $$\beta$$. We show fairness can be achieved without losing competitiveness.
+Offline, we transform any optimal solution into a fair one with $$\alpha=1+\epsilon$$ and $$\beta=O(diam \cdot \log k/\epsilon)$$ while incurring only an additive $$O(diam \cdot k\log k/\epsilon)$$ cost.
 Online, we convert any competitive algorithm into a randomized algorithm that is fair with high probability against an oblivious adversary, with only a small competitiveness loss.
-We also analyze classics: DCA is fair on lines and on trees for \(k=2\) but fails on general trees; on paging, FIFO is fair and marking algorithms (including LRU) satisfy a weaker fairness notion.
+We also analyze classics: DCA is fair on lines and on trees for $$k=2$$ but fails on general trees; on paging, FIFO is fair and marking algorithms (including LRU) satisfy a weaker fairness notion.
 
 **Part 2:** We study the secretary problem with value predictions in both the standard random-order model (ROSP) and a learning-augmented model where the decision-maker can choose the arrival order based on predictions (COSP). We design a randomized algorithm that trusts predictions unless a large deviation is detected, then switches to a threshold rule.
-If \(\epsilon\in[0,1]\) bounds the multiplicative prediction error, we obtain competitive ratio \(\max\{0.221,\frac{1-\epsilon}{1+\epsilon}\}\) for ROSP (improving [Fujii Yoshida '23]) and \(\max\{0.262,\frac{1-\epsilon}{1+\epsilon}\}\) for COSP, demonstrating the benefit of combining predictions with arrival-order control.
+If $$\epsilon\in[0,1]$$ bounds the multiplicative prediction error, we obtain competitive ratio $$\max\{0.221,\frac{1-\epsilon}{1+\epsilon}\}$$ for ROSP (improving [Fujii Yoshida '23]) and $$\max\{0.262,\frac{1-\epsilon}{1+\epsilon}\}$$ for COSP, demonstrating the benefit of combining predictions with arrival-order control.
 </details>
 <details markdown="1">
 <summary>Bio</summary>
