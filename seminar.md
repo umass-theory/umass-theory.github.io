@@ -43,12 +43,10 @@ If $$\epsilon\in[0,1]$$ bounds the multiplicative prediction error, we obtain co
 
 [Stefan Grosser](https://blog.catalangrenade.com/p/about.html) (McGill) --  *Tuesday, February 17 @ 4pm*
 <details markdown="1"  open="1">
-<summary>
+<summary>Abstract</summary>
 In 1929, Gödel proved his celebrated completeness theorem, showing that in first-order logic a statement is true if and only if it has a finite proof. Exactly fifty years later, Cook and Reckhow asked whether a stronger phenomenon might hold in propositional logic: is there a fixed proof system—such as the sequent calculus or ZFC—in which every tautology admits a short proof? Equivalently, does NP = coNP? This question lies at the heart of propositional proof complexity, whose central goal is to show that for every proof system there exist tautologies that require exponentially long proofs.
 
 In this talk, we survey a recent and successful line of work in proof complexity that connects the strength of proof systems to the complexity of combinatorial search problems. We will see how short proofs correspond to efficient algorithms (and conversely), and how this connection has been used to obtain new lower bounds in both proof complexity and circuit complexity. This talk is based on joint work with Noah Fleming, Toniann Pitassi, and Robert Robere.
-</summary>
-
 </details>
 <details markdown="1" open="1">
 <summary>Bio</summary>
@@ -61,13 +59,17 @@ Previously, Stefan received his bachelor's in computer science from UMass Amhers
 
 <hr>
 
-##### TBD
+#####  Adversarial Online Learning with Limited Feedback and Memory
 
 [Chen Wang](https://sites.google.com/view/chen-wang/home) (RPI) -- *Tuesday, February 24 @ 4pm*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
-  
-TBD
+
+While classical MWU and EXP3 algorithms for online learning and adversarial bandits achieve sqrt{T} poly(n) regret, they require O(n log(T)) space to implement, which is inefficient for modern large-scale applications. Recent work by Srinivas et al. [STOC’22]; Peng and Zhang [SODA’23]; Peng and Rubinstein [FOCS’23] has established polylogarithmic memory algorithms for the full-feedback setting (q=n, where q is the number of experts/bandits we can query at each step), but the limited feedback case ($$q < n$$) remains open.
+
+In this talk, we present the first algorithms to achieve $$o(T)$$ regret with $$o(n)$$ memory for $$q < n$$. In fact, all of our algorithms only require $$polylog(nT)$$ memory. Our results include: (i) a $$T^{2/3}$$ regret bound for the $$q=1$$ bandit case, and the bound can be improved to the optimal $$\sqrt{nT}$$ under random-order losses; (ii) a near-optimal $$\sqrt{nT}$$ regret bound for $$q=2$$; and (iii) generalizations to interval regret and sliding-window models. Our main techniques include using the estimated losses of the bandits for pool management and the separation of exploration and exploitation to remove dependency for boosting. These techniques might be of independent interest for the broader theory community. 
+
+Based on a joint work with Vladimir Braverman, Sumegha Garg, David P. Woodruff, and Samson Zhou (SODA 2026).
 
 </details>
 <details markdown="1">
