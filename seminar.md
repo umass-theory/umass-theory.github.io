@@ -99,19 +99,23 @@ TBD
 
 <hr>
 
-##### TBD
+##### On the Interplay Between Combinatorics and Geometry in Beyond-Planar Graphs
 
 [Myroslav Kryven](https://myroslavkryven.gitlab.io/website/) (Amherst College) -- *Tuesday, March 10 @ 4pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBD
+Edge crossings are the dominant source of visual clutter in graph drawings and are known to significantly hinder readability. A core goal in graph visualization is therefore to reduce the impact of crossings on the drawing. This is one of the fundamental problems in Computer Science, which, unfortunately, does not have a good solution for dense graphs, where many crossings are unavoidable. Beyond-planar graph theory attempts to classify graphs that do admit drawings in which crossings are limited in some way. In this talk, we focus on two prominent such families: k-planar graphs, that have drawings in which each edge is crossed at most k times (a purely combinatorial constraint), and right-angle crossing (RAC) graphs, that have drawings in which all crossings occur at a right angle (a geometric constraint that helps distinguish crossings easier). Although these classes are defined by very different principles, we will present a surprising relationship between them.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBD
+Myroslav Kryven is an Assistant Professor of Computer Science at Amherst College. His research lies at the intersection of theoretical and applied computer science, with interests in network visualization, parameterized algorithms, computational geometry, and pursuit–evasion games.
+
+Previously, Myroslav was a postdoctoral researcher at the GADA Lab in the Department of Computer Science at the University of Manitoba, working with Stephane Durocher. Before that, he held postdoctoral positions at the University of Arizona with Stephen Kobourov and at the University of Würzburg with Alexander Wolff.
+
+He earned his PhD in Network Visualization from the University of Würzburg (2016–2020), supervised by Alexander Wolff.
 
 </details>
 <hr>
