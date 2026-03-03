@@ -22,7 +22,7 @@ Welcome to the Spring 2026 series of the **University of Massachusetts Computer 
 ##### Double Header: Fairness in the k-Server Problem and The Secretary Problem with Predictions and a Chosen Order
 
 [Mohammadreza Daneshvaramoli](https://moreda-a.github.io/) --  *Tuesday, February 10 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract </summary>
 **Part 1:** We formalize fairness for the $$k$$-server problem via $$(\alpha,\beta)$$-fairness: each server's cost is at most an $$\alpha/k$$ fraction of the total plus $$\beta$$. We show fairness can be achieved without losing competitiveness.
 Offline, we transform any optimal solution into a fair one with $$\alpha=1+\epsilon$$ and $$\beta=O(diam \cdot \log k/\epsilon)$$ while incurring only an additive $$O(diam \cdot k\log k/\epsilon)$$ cost.
@@ -42,13 +42,13 @@ If $$\epsilon\in[0,1]$$ bounds the multiplicative prediction error, we obtain co
 ##### Characterizing Strong Proofs Systems via Total Search Problems
 
 [Stefan Grosser](https://blog.catalangrenade.com/p/about.html) (McGill) --  *Tuesday, February 17 @ 4pm*
-<details markdown="1"  open="1">
+<details markdown="1">
 <summary>Abstract</summary>
 In 1929, Gödel proved his celebrated completeness theorem, showing that in first-order logic a statement is true if and only if it has a finite proof. Exactly fifty years later, Cook and Reckhow asked whether a stronger phenomenon might hold in propositional logic: is there a fixed proof system—such as the sequent calculus or ZFC—in which every tautology admits a short proof? Equivalently, does NP = coNP? This question lies at the heart of propositional proof complexity, whose central goal is to show that for every proof system there exist tautologies that require exponentially long proofs.
 
 In this talk, we survey a recent and successful line of work in proof complexity that connects the strength of proof systems to the complexity of combinatorial search problems. We will see how short proofs correspond to efficient algorithms (and conversely), and how this connection has been used to obtain new lower bounds in both proof complexity and circuit complexity. This talk is based on joint work with Noah Fleming, Toniann Pitassi, and Robert Robere.
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Stefan is a fifth year PhD student at McGill University, advised by Robert Robere. His research is in computational complexity, with a focus on proof complexity and circuit lower bounds. 
@@ -62,7 +62,7 @@ Previously, Stefan received his bachelor's in computer science from UMass Amhers
 #####  Adversarial Online Learning with Limited Feedback and Memory
 
 [Chen Wang](https://sites.google.com/view/chen-wang/home) (RPI) -- *Tuesday, February 24 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
 
 While classical MWU and EXP3 algorithms for online learning and adversarial bandits achieve sqrt{T} poly(n) regret, they require O(n log(T)) space to implement, which is inefficient for modern large-scale applications. Recent work by Srinivas et al. [STOC’22]; Peng and Zhang [SODA’23]; Peng and Rubinstein [FOCS’23] has established polylogarithmic memory algorithms for the full-feedback setting (q=n, where q is the number of experts/bandits we can query at each step), but the limited feedback case ($$q < n$$) remains open.
@@ -102,13 +102,13 @@ TBD
 ##### On the Interplay Between Combinatorics and Geometry in Beyond-Planar Graphs
 
 [Myroslav Kryven](https://myroslavkryven.gitlab.io/website/) (Amherst College) -- *Tuesday, March 10 @ 4pm*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 Edge crossings are the dominant source of visual clutter in graph drawings and are known to significantly hinder readability. A core goal in graph visualization is therefore to reduce the impact of crossings on the drawing. This is one of the fundamental problems in Computer Science, which, unfortunately, does not have a good solution for dense graphs, where many crossings are unavoidable. Beyond-planar graph theory attempts to classify graphs that do admit drawings in which crossings are limited in some way. In this talk, we focus on two prominent such families: k-planar graphs, that have drawings in which each edge is crossed at most k times (a purely combinatorial constraint), and right-angle crossing (RAC) graphs, that have drawings in which all crossings occur at a right angle (a geometric constraint that helps distinguish crossings easier). Although these classes are defined by very different principles, we will present a surprising relationship between them.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
 Myroslav Kryven is an Assistant Professor of Computer Science at Amherst College. His research lies at the intersection of theoretical and applied computer science, with interests in network visualization, parameterized algorithms, computational geometry, and pursuit–evasion games.
