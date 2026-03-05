@@ -201,7 +201,7 @@ TBD
 
 ##### TBD
 
-[TBD]() -- *Tuesday, April 21 @ 4pm*
+[Tiantian Gong](https://www.ttiangong.com/) (Yale) -- *Tuesday, April 21 @ 4pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -219,7 +219,7 @@ TBD
 
 ##### TBD
 
-[Neha Makhija ](https://people.cs.umass.edu/~nehamakhija/) (UMass Amherst) -- *Tuesday, April 28 @ 4pm*
+[Neha Makhija](https://people.cs.umass.edu/~nehamakhija/) (UMass Amherst) -- *Tuesday, April 28 @ 4pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
