@@ -237,7 +237,7 @@ TBD
 
 ##### TBD
 
-[TBD]() -- *Tuesday, May 5 @ 4pm*
+[Mordecai Golen]() (UMass Amherst) -- *Tuesday, May 5 @ 4pm*
 
 <details markdown="1">
 <summary>Abstract</summary>
