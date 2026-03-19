@@ -102,13 +102,13 @@ TBD
 ##### On the Interplay Between Combinatorics and Geometry in Beyond-Planar Graphs
 
 [Myroslav Kryven](https://myroslavkryven.gitlab.io/website/) (Amherst College) -- *Tuesday, March 10 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Edge crossings are the dominant source of visual clutter in graph drawings and are known to significantly hinder readability. A core goal in graph visualization is therefore to reduce the impact of crossings on the drawing. This is one of the fundamental problems in Computer Science, which, unfortunately, does not have a good solution for dense graphs, where many crossings are unavoidable. Beyond-planar graph theory attempts to classify graphs that do admit drawings in which crossings are limited in some way. In this talk, we focus on two prominent such families: k-planar graphs, that have drawings in which each edge is crossed at most k times (a purely combinatorial constraint), and right-angle crossing (RAC) graphs, that have drawings in which all crossings occur at a right angle (a geometric constraint that helps distinguish crossings easier). Although these classes are defined by very different principles, we will present a surprising relationship between them.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Myroslav Kryven is an Assistant Professor of Computer Science at Amherst College. His research lies at the intersection of theoretical and applied computer science, with interests in network visualization, parameterized algorithms, computational geometry, and pursuit–evasion games.
@@ -125,19 +125,19 @@ He earned his PhD in Network Visualization from the University of Würzburg (201
 
 <hr>
 
-##### TBD
+##### Pebble Games and Logic
 
 [Rik Sengupta](https://people.cs.umass.edu/~rsengupta/) (IBM Research) -- *Tuesday, March 24 @ 4pm*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBD
+Two-player combinatorial games have been used for decades to capture syntactic properties of formal logical languages. For instance, the widely used Ehrenfeucht-Fraïssé (EF) game captures the quantifier rank of first-order formulas. Quite surprisingly, these and related games show up in unexpected places in both upper and lower bound proofs in complexity and finite model theory. In this talk, I’ll give an overview of some of these games, and then go deeper into a related (and natural) decision problem about them.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-TBD
+Rik Sengupta is a Research Scientist at IBM Research in Cambridge, MA, where he specializes in complexity theory, algorithms, and optimization. He is a recent alumnus of UMass, where he completed his Ph.D. in Computer Science in 2024 under Andrew McGregor and Neil Immerman.
 
 </details>
 
