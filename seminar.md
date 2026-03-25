@@ -128,7 +128,7 @@ He earned his PhD in Network Visualization from the University of Würzburg (201
 ##### Pebble Games and Logic
 
 [Rik Sengupta](https://people.cs.umass.edu/~rsengupta/) (IBM Research) -- *Tuesday, March 24 @ 4pm*
-<details markdown="1>
+<details markdown="1">
 <summary>Abstract</summary>
   
 Two-player combinatorial games have been used for decades to capture syntactic properties of formal logical languages. For instance, the widely used Ehrenfeucht-Fraïssé (EF) game captures the quantifier rank of first-order formulas. Quite surprisingly, these and related games show up in unexpected places in both upper and lower bound proofs in complexity and finite model theory. In this talk, I’ll give an overview of some of these games, and then go deeper into a related (and natural) decision problem about them.
