@@ -128,13 +128,13 @@ He earned his PhD in Network Visualization from the University of Würzburg (201
 ##### Pebble Games and Logic
 
 [Rik Sengupta](https://people.cs.umass.edu/~rsengupta/) (IBM Research) -- *Tuesday, March 24 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1>
 <summary>Abstract</summary>
   
 Two-player combinatorial games have been used for decades to capture syntactic properties of formal logical languages. For instance, the widely used Ehrenfeucht-Fraïssé (EF) game captures the quantifier rank of first-order formulas. Quite surprisingly, these and related games show up in unexpected places in both upper and lower bound proofs in complexity and finite model theory. In this talk, I’ll give an overview of some of these games, and then go deeper into a related (and natural) decision problem about them.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Rik Sengupta is a Research Scientist at IBM Research in Cambridge, MA, where he specializes in complexity theory, algorithms, and optimization. He is a recent alumnus of UMass, where he completed his Ph.D. in Computer Science in 2024 under Andrew McGregor and Neil Immerman.
@@ -144,19 +144,29 @@ Rik Sengupta is a Research Scientist at IBM Research in Cambridge, MA, where he 
 <hr>
 
 
-##### TBD
+##### Optimizing Multiserver Scheduling: Beyond SRPT-k
 
 [Izzy Grosof](https://isaacg1.github.io/) (Emory) -- *Tuesday, March 31 @ 4pm*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBD
+Shortest Remaining Processing Time (SRPT) is a simple and compelling scheduling policy: Run the jobs that are nearest to completion. It has long been known to optimize mean response time with one server, and heavy-traffic mean response time with many servers. But is it optimal? No!
+
+I present the first policy to improve beyond multiserver SRPT: SRPT-Except-k+1 (SEK), which always outperforms basic multiserver SRPT [1]. The proof uses a novel combination of change-from-baseline analysis, stochastic analysis, and worst-case analysis.
+
+To measure SEK's progress towards the true optimal policy, I also present state-of-the-art lower bounds on optimal mean response time, based on the WINE formula and new analysis of the Increasing Speed Queue [2].
+
+**Papers:**
+
+[1]: "Outperforming Multiserver SRPT at All Loads". Izzy Grosof and Daniela Hurtado-Lange. To appear at ACM SIGMETRICS 2026.
+
+[2]: "Novel Lower Bounds on M/G/k Scheduling". Ziyuan Wang and Isaac Grosof. Under submission.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-TBD
+Izzy Grosof is an Assistant Professor at Northwestern University, studying stochastic queueing theory, especially multiserver scheduling theory, with applications to computing systems. Their research has received Best Paper and Best Dissertation awards from INFORMS, ACM SIGMETRICS, and IFIP Performance, and their teaching has received multiple awards at Northwestern. She received her PhD from Carnegie Mellon University, advised by Prof. Mor Harchol-Balter.
 
 </details>
 
