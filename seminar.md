@@ -191,13 +191,17 @@ TBD
 
 <hr>
 
-##### TBD
+##### Sparsifying Intersections of Halfspaces
 
 [Shivam Nadimpalli](https://math.mit.edu/~shivamn/) (MIT) -- *Tuesday, April 14 @ 4pm*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBD
+Given an intersection of (possibly infinitely many) halfspaces at bounded distance from the origin, we show that it can be sparsified, i.e. approximated (under the Gaussian distribution) by an intersection of halfspaces where the number of halfspaces depends only on the desired accuracy.  This yields efficient algorithms for learning, tolerant testing, and volume estimation of convex sets of bounded width.
+
+Our result follows from a more general sparsification lemma for Gaussian processes, which relies on Talagrand's majorizing measures theorem. As another consequence, we obtain a "junta theorem" for norms over Gaussian space: Every norm over R^n can be multiplicatively approximated (under the Gaussian measure) by a norm that depends on only a constant number of coordinates.
+
+The talk will be self-contained and will require no prior background on Gaussian processes. Based on joint work with Anindya De, Ryan O'Donnell, and Rocco Servedio that will appear in STOC 2026: [https://arxiv.org/abs/2411.14664](https://arxiv.org/abs/2411.14664). 
 
 </details>
 <details markdown="1">
