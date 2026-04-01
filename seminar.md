@@ -147,7 +147,7 @@ Rik Sengupta is a Research Scientist at IBM Research in Cambridge, MA, where he 
 ##### Optimizing Multiserver Scheduling: Beyond SRPT-k
 
 [Izzy Grosof](https://isaacg1.github.io/) (Emory) -- *Tuesday, March 31 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Shortest Remaining Processing Time (SRPT) is a simple and compelling scheduling policy: Run the jobs that are nearest to completion. It has long been known to optimize mean response time with one server, and heavy-traffic mean response time with many servers. But is it optimal? No!
@@ -163,7 +163,7 @@ To measure SEK's progress towards the true optimal policy, I also present state-
 [2]: "Novel Lower Bounds on M/G/k Scheduling". Ziyuan Wang and Isaac Grosof. Under submission.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Izzy Grosof is an Assistant Professor at Northwestern University, studying stochastic queueing theory, especially multiserver scheduling theory, with applications to computing systems. Their research has received Best Paper and Best Dissertation awards from INFORMS, ACM SIGMETRICS, and IFIP Performance, and their teaching has received multiple awards at Northwestern. She received her PhD from Carnegie Mellon University, advised by Prof. Mor Harchol-Balter.
@@ -172,14 +172,14 @@ Izzy Grosof is an Assistant Professor at Northwestern University, studying stoch
 
 <hr>
 
-##### TBD
+##### Eigenvalues of Large, Normal Matrices
 
 [Rikhav Shah](https://math.berkeley.edu/~rdshah/) (MIT) -- *Tuesday, April 7 @ 4pm*
 
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBD
+What can be learned about the spectrum of a large normal matrix through a small number of matrix vector queries? In this talk we describe how to learn two things: the location of each eigenvalue that is separated from the rest (even if it is located in the middle of the spectrum) and an approximation of the spectral density, up to small earth-mover distance. The setting of normal matrices was previously thought to be computationally harder than the real symmetric and Hermitian settings, since the eigenvalues may now be complex. However, exhibit algorithms that solve these problems with the same order of matvecs as in the Hermitian case. Further, for spectral density estimation, our algorithm only requires matvecs of the form $$x \mapsto Ax$$, and not $$x \mapsto A^*x$$. We show this algorithm makes the optimal number of matvecs for arbitrarily large matrices.
 
 </details>
 <details markdown="1">
