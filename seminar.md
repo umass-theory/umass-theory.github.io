@@ -146,21 +146,22 @@ Rik Sengupta is a Research Scientist at IBM Research in Cambridge, MA, where he 
 
 ##### Optimizing Multiserver Scheduling: Beyond SRPT-k
 
-[Izzy Grosof](https://isaacg1.github.io/) (Emory) -- *Tuesday, March 31 @ 4pm*
-<details markdown="1">
+[Izzy Grosof](https://isaacg1.github.io/) (Northwestern) -- *Tuesday, March 31 @ 4pm*
+<details markdown="1" open="1">
+
 <summary>Abstract</summary>
   
 Shortest Remaining Processing Time (SRPT) is a simple and compelling scheduling policy: Run the jobs that are nearest to completion. It has long been known to optimize mean response time with one server, and heavy-traffic mean response time with many servers. But is it optimal? No!
 
-I present the first policy to improve beyond multiserver SRPT: SRPT-Except-k+1 (SEK), which always outperforms basic multiserver SRPT [1]. The proof uses a novel combination of change-from-baseline analysis, stochastic analysis, and worst-case analysis.
+I present the first policy to improve beyond multiserver SRPT: SRPT-Except-k+1 (SEK), which always outperforms basic multiserver SRPT (1). The proof uses a novel combination of change-from-baseline analysis, stochastic analysis, and worst-case analysis.
 
-To measure SEK's progress towards the true optimal policy, I also present state-of-the-art lower bounds on optimal mean response time, based on the WINE formula and new analysis of the Increasing Speed Queue [2].
+To measure SEK's progress towards the true optimal policy, I also present state-of-the-art lower bounds on optimal mean response time, based on the WINE formula and new analysis of the Increasing Speed Queue (2).
 
-**Papers:**
+Papers:
 
-[1]: "Outperforming Multiserver SRPT at All Loads". Izzy Grosof and Daniela Hurtado-Lange. To appear at ACM SIGMETRICS 2026.
+(1): "Outperforming Multiserver SRPT at All Loads". Izzy Grosof and Daniela Hurtado-Lange. To appear at ACM SIGMETRICS 2026.
 
-[2]: "Novel Lower Bounds on M/G/k Scheduling". Ziyuan Wang and Isaac Grosof. Under submission.
+(2): "Novel Lower Bounds on M/G/k Scheduling". Ziyuan Wang and Isaac Grosof. Under submission.
 
 </details>
 <details markdown="1">
