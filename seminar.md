@@ -147,7 +147,7 @@ Rik Sengupta is a Research Scientist at IBM Research in Cambridge, MA, where he 
 ##### Optimizing Multiserver Scheduling: Beyond SRPT-k
 
 [Izzy Grosof](https://isaacg1.github.io/) (Northwestern) -- *Tuesday, March 31 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 
 <summary>Abstract</summary>
   
