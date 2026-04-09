@@ -112,7 +112,8 @@ cyrus:
     display_name: "Cyrus Cousins"
     webpage: "https://cs.brown.edu/~ccousins/"
     image: "https://people.cs.umass.edu/~yzick/img/lab/cyrus.jpg"
-    role: postdoc
+    role: alum
+    bio: "Postdoc, Duke and CMU"
 
 alexandra:
     display_name: "Alexandra Camero Bejarano"
@@ -132,6 +133,7 @@ amirmahdi:
 
 mohammadreza:
     display_name: "Mohammadreza Daneshvaramoli"
+    webpage: "https://moreda-a.github.io/"
     image: "http://solar.cs.umass.edu/img/people/mohammadrezad.jpeg"
     role: grad
 
@@ -174,7 +176,8 @@ justin:
     display_name: "Justin Payan"
     webpage: "https://justinpayan.github.io/"
     image: "https://justinpayan.github.io/images/jp_profile.png"
-    role: grad
+    role: alum
+    bio: "Postdoc, CMU"
 
 cuong:
     display_name: "Cuong Than"
@@ -195,6 +198,11 @@ vinayak:
 shuang:
     display_name: "Shuang Yang"
     role: grad
+	
+tao:
+    display_name: "Tao He"
+    webpage: "https://tao-he.com/
+	role: grad
 
 rik:
     display_name: "Rik Sengupta"
