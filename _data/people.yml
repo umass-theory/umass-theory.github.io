@@ -198,11 +198,11 @@ vinayak:
 shuang:
     display_name: "Shuang Yang"
     role: grad
-	
+
 tao:
     display_name: "Tao He"
     webpage: "https://tao-he.com/
-	role: grad
+    role: grad
 
 rik:
     display_name: "Rik Sengupta"
