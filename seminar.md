@@ -177,7 +177,7 @@ Izzy Grosof is an Assistant Professor at Northwestern University, studying stoch
 
 [Rikhav Shah](https://math.berkeley.edu/~rdshah/) (MIT) -- *Tuesday, April 7 @ 4pm*
 
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 What can be learned about the spectrum of a large normal matrix through a small number of matrix vector queries? In this talk we describe how to learn two things: the location of each eigenvalue that is separated from the rest (even if it is located in the middle of the spectrum) and an approximation of the spectral density, up to small earth-mover distance. The setting of normal matrices was previously thought to be computationally harder than the real symmetric and Hermitian settings, since the eigenvalues may now be complex. However, exhibit algorithms that solve these problems with the same order of matvecs as in the Hermitian case. Further, for spectral density estimation, our algorithm only requires matvecs of the form $$x \mapsto Ax$$, and not $$x \mapsto A^*x$$. We show this algorithm makes the optimal number of matvecs for arbitrarily large matrices.
@@ -195,7 +195,7 @@ TBD
 ##### Sparsifying Intersections of Halfspaces
 
 [Shivam Nadimpalli](https://math.mit.edu/~shivamn/) (MIT) -- *Tuesday, April 14 @ 4pm*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 Given an intersection of (possibly infinitely many) halfspaces at bounded distance from the origin, we show that it can be sparsified, i.e. approximated (under the Gaussian distribution) by an intersection of halfspaces where the number of halfspaces depends only on the desired accuracy.  This yields efficient algorithms for learning, tolerant testing, and volume estimation of convex sets of bounded width.
