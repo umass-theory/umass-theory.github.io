@@ -214,7 +214,15 @@ TBD
 
 <hr>
 
-##### TBD
+##### Adversarial Robustness on Insertion Deletion Streams
+
+[David Woodruff](https://www.cs.cmu.edu/~dwoodruf/) (CMU) -- **Special Time:** *Wednesday, April 15 @ 3pm*
+<details markdown="1" open="1">
+<summary>Abstract</summary>
+
+We study adversarially robust algorithms for insertion-deletion (turnstile) streams, where future updates may depend on past algorithm outputs. While robust algorithms exist for insertion-only streams with only a polylogarithmic overhead in memory over non-robust algorithms, it was widely conjectured that turnstile streams of length polynomial in the universe size $n$ require space linear in $$n$$. We refute this conjecture, showing that robustness can be achieved using space which is significantly sublinear in $$n$$. Our framework combines multiple linear sketches in a novel estimator-corrector-learner framework, yielding the first insertion-deletion algorithms that approximate: (1) the second moment $$F_2$$ up to a $$1+\varepsilon$$ factor in polylogarithmic space, (2) any function $$F$$ with an $$\mathcal{O}(1)$$-approximate triangle inequality up to a $$2^{\mathcal{O}(C)}$$ factor in $$\tilde{\mathcal{O}}(n^{1/C}) \cdot S(n)$$ bits of space, where $$S$$ is the space required to approximate $$F$$ non-robustly; this includes a broad class of functions such as the $$L_1$$-norm, the support size $$F_0$$, and non-normed losses such as the $$M$$-estimators, and (3) $$L_2$$ heavy hitters. For the $$F_2$$ moment, our algorithm is optimal up to $$\textrm{poly}((\log n)/\varepsilon)$$ factors. Given the recent results of Gribelyuk et al. (STOC, 2025), this shows an exponential separation between linear sketches and non-linear sketches for achieving adversarial robustness in turnstile streams.
+
+Based on joint work with Elena Gribelyuk, Honghao Lin, Huacheng Yu, and Samson Zhou
 
 [Tiantian Gong](https://www.ttiangong.com/) (Yale) -- *Tuesday, April 21 @ 4pm*
 <details markdown="1">
