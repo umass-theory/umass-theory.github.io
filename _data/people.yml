@@ -40,6 +40,13 @@ hungle:
     webpage: "https://hunglvosu.github.io"
     image: "https://hunglvosu.github.io/images/profile.png"
     bio: "graph algorithms, combinatorial optimization, computational geometry, metric embedding"
+	
+makhija:
+	display_name: "Neha Makhija"
+	role: faculty
+	webpage: "https://people.cs.umass.edu/~nehamakhija/"
+	image: "https://www.cics.umass.edu/sites/g/files/ijdqth246/files/styles/1_1_2xl/public/2025-08/nehamakhija.png?h=1bfa52c2&itok=QzpZ7NEw"
+	bio: "database theory, knowledge representation and reasoning, logic programming"
 
 mcgregor:
     display_name: "Andrew McGregor"
