@@ -275,7 +275,7 @@ For point set P, the (NP-hard) k-center problem is to find an associated center 
 
 The dynamic version of the k-center problem maintains P over insertions and deletions of points, permitting efficient solution of the approximate k-center problem for the current P. This has been extensively studied. By contrast, the related problem of maintaining P to efficiently solve approximate furthest neighbor queries does not seem to have known solutions.
 
-We show that, for points in bounded doubling dimension, the approximate furthest neighbor problem can be efficiently solved using navigating nets. Plugging this as a subroutine into known static k-center approximation algorithms yields approximation schemes for dynamic k-center. Unlike some of the older algorithms, this new approach does not require knowing k or  in advance. This new approach also yields what seems to be the first non-randomized algorithm for dynamic Euclidean k-center.
+We show that, for points in bounded doubling dimension, the approximate furthest neighbor problem can be efficiently solved using navigating nets. Plugging this as a subroutine into known static k-center approximation algorithms yields approximation schemes for dynamic k-center. Unlike some of the older algorithms, this new approach does not require knowing k or $$\epsilon$$ in advance. This new approach also yields what seems to be the first non-randomized algorithm for dynamic Euclidean k-center.
 
 This is joint work with Jinxiang Gan
 
