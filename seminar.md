@@ -224,6 +224,8 @@ We study adversarially robust algorithms for insertion-deletion (turnstile) stre
 
 Based on joint work with Elena Gribelyuk, Honghao Lin, Huacheng Yu, and Samson Zhou
 
+</details>
+
 <hr>
 
 #####  Living With Dishonesty -- Collusion Deterrence in Secret-Sharing Style Primitives
