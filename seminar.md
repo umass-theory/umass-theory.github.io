@@ -195,7 +195,7 @@ TBD
 ##### Sparsifying Intersections of Halfspaces
 
 [Shivam Nadimpalli](https://math.mit.edu/~shivamn/) (MIT) -- *Tuesday, April 14 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Given an intersection of (possibly infinitely many) halfspaces at bounded distance from the origin, we show that it can be sparsified, i.e. approximated (under the Gaussian distribution) by an intersection of halfspaces where the number of halfspaces depends only on the desired accuracy.  This yields efficient algorithms for learning, tolerant testing, and volume estimation of convex sets of bounded width.
@@ -217,24 +217,28 @@ TBD
 ##### Adversarial Robustness on Insertion Deletion Streams
 
 [David Woodruff](https://www.cs.cmu.edu/~dwoodruf/) (CMU) -- **Special Time:** *Wednesday, April 15 @ 3pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
 
 We study adversarially robust algorithms for insertion-deletion (turnstile) streams, where future updates may depend on past algorithm outputs. While robust algorithms exist for insertion-only streams with only a polylogarithmic overhead in memory over non-robust algorithms, it was widely conjectured that turnstile streams of length polynomial in the universe size $n$ require space linear in $$n$$. We refute this conjecture, showing that robustness can be achieved using space which is significantly sublinear in $$n$$. Our framework combines multiple linear sketches in a novel estimator-corrector-learner framework, yielding the first insertion-deletion algorithms that approximate: (1) the second moment $$F_2$$ up to a $$1+\varepsilon$$ factor in polylogarithmic space, (2) any function $$F$$ with an $$\mathcal{O}(1)$$-approximate triangle inequality up to a $$2^{\mathcal{O}(C)}$$ factor in $$\tilde{\mathcal{O}}(n^{1/C}) \cdot S(n)$$ bits of space, where $$S$$ is the space required to approximate $$F$$ non-robustly; this includes a broad class of functions such as the $$L_1$$-norm, the support size $$F_0$$, and non-normed losses such as the $$M$$-estimators, and (3) $$L_2$$ heavy hitters. For the $$F_2$$ moment, our algorithm is optimal up to $$\textrm{poly}((\log n)/\varepsilon)$$ factors. Given the recent results of Gribelyuk et al. (STOC, 2025), this shows an exponential separation between linear sketches and non-linear sketches for achieving adversarial robustness in turnstile streams.
 
 Based on joint work with Elena Gribelyuk, Honghao Lin, Huacheng Yu, and Samson Zhou
 
+<hr>
+
+#####  Living With Dishonesty -- Collusion Deterrence in Secret-Sharing Style Primitives
+
 [Tiantian Gong](https://www.ttiangong.com/) (Yale) -- *Tuesday, April 21 @ 4pm*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-TBD
+Suppose a client samples a degree-3 polynomial at random and samples 4 distinct points on the polynomial to distribute to 4 parties. Can we stop the 4 share-holding parties from reconstructing or learning the polynomial? This question is meaningful when the 4 points are for recovery purposes, i.e., reconstruction among share-holding parties is illegal, or when the 4 parties are expected to evaluate a secure function on the shared points and reconstruct only the final output, i.e., reconstruction is conditional. Further, what if the polynomial is of degree 2 or 1? Can we stop a strict subset of parties from reconstructing the polynomial?
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-TBD
+Tiantian Gong is a Postdoctoral Associate at Technion – Israel Institute of Technology and Yale University, and she received her PhD in Computer Science from Purdue University,. Her research interests are in secure distributed computing, with a focus on secure multi-party computation and consensus protocols. Her research has appeared in Eurocrypt, IEEE S&P, ACM CCS, USENIX Security, and NDSS, and she has received the Lady Davis Fellowship.
 
 </details>
 
@@ -258,20 +262,26 @@ TBD
 
 <hr>
 
-##### TBD
+##### Plug-and-Play for Dynamic k-center
 
-[Mordecai Golen]() (UMass Amherst) -- *Tuesday, May 5 @ 4pm*
+[Mordecai Golin](https://home.cse.ust.hk/~golin/ ) (UMass Amherst) -- *Tuesday, May 5 @ 4pm*
 
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBD
+For point set P, the (NP-hard) k-center problem is to find an associated center set C of k points minimizing the maximum distance from each point in P to its closest center point.  There are well known 2-approximation algorithms for general metrics and $$(1 + \epsilon)$$ approximation schemes for the Euclidean version, for solving k-center.  Many of these approximation algorithms use furthest neighbor queries as subroutines. Given a second point set C’, a furthest neighbor query finds a point p in P that is a furthest neighbor from C’.
+
+The dynamic version of the k-center problem maintains P over insertions and deletions of points, permitting efficient solution of the approximate k-center problem for the current P. This has been extensively studied. By contrast, the related problem of maintaining P to efficiently solve approximate furthest neighbor queries does not seem to have known solutions.
+
+We show that, for points in bounded doubling dimension, the approximate furthest neighbor problem can be efficiently solved using navigating nets. Plugging this as a subroutine into known static k-center approximation algorithms yields approximation schemes for dynamic k-center. Unlike some of the older algorithms, this new approach does not require knowing k or  in advance. This new approach also yields what seems to be the first non-randomized algorithm for dynamic Euclidean k-center.
+
+This is joint work with Jinxiang Gan
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBD
+Mordecai Golin is a senior teaching faculty member at UMass Amherst. Until recently he was Professor of Computer Science at HKUST where he is now Professor Emeritus. After receiving his doctorate from Princeton University in 1990, Prof Golin worked as a researcher in the Projet Algorithmes of the Institut National de Recherche en Informatique et en Automatique (INRIA) in Rocquencourt, France before arriving at HKUST in 1993. Since then, he has also been a visiting researcher at the University of Waterloo, the MADALGO Center for Massive Data Algorithms, the Max-Planck-Institut fur Informatik, INRIA-Sophia, AT&T Labs-Research, and DIMACS. He served as the HKUST Associate Vice-President for Postgraduate Studies from 2011-2014. In addition, he was the 2008 recipient of the HKUST Michael G. Gale Award for Distinguished Teaching.
 
 </details>
 
