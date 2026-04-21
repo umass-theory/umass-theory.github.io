@@ -253,7 +253,7 @@ Tiantian Gong is a Postdoctoral Associate at Technion – Israel Institute of Te
 <details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Given a boolean formula (or circuit), how can we find the smallest correct representation for it? Given a "data provenance" object, which captures the relationship between the input and output of a query, how do we succinctly represent it? While the general Minimum Equivalent Expression problem is $\Sigma^2_p$-complete, we identify that Minimum Equivalent Provenance Expression problem is NP-complete for provenance formula representations, and identify some non-trivial PTIME cases as well. A complete dichotomy for this problem remains elusive - and several complexity questions involving other variants of this problem (involving different provenance representations grounded in different semirings), are open as well.
+Given a boolean formula (or circuit), how can we find the smallest correct representation for it? Given a "data provenance" object, which captures the relationship between the input and output of a query, how do we succinctly represent it? While the general Minimum Equivalent Expression problem is $$\Sigma^2_p$$-complete, we identify that Minimum Equivalent Provenance Expression problem is NP-complete for provenance formula representations, and identify some non-trivial PTIME cases as well. A complete dichotomy for this problem remains elusive - and several complexity questions involving other variants of this problem (involving different provenance representations grounded in different semirings), are open as well.
 
 
 </details>
