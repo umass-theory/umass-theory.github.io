@@ -231,13 +231,13 @@ Based on joint work with Elena Gribelyuk, Honghao Lin, Huacheng Yu, and Samson Z
 #####  Living With Dishonesty -- Collusion Deterrence in Secret-Sharing Style Primitives
 
 [Tiantian Gong](https://www.ttiangong.com/) (Yale) -- *Tuesday, April 21 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1>
 <summary>Abstract</summary>
   
 Suppose a client samples a degree-3 polynomial at random and samples 4 distinct points on the polynomial to distribute to 4 parties. Can we stop the 4 share-holding parties from reconstructing or learning the polynomial? This question is meaningful when the 4 points are for recovery purposes, i.e., reconstruction among share-holding parties is illegal, or when the 4 parties are expected to evaluate a secure function on the shared points and reconstruct only the final output, i.e., reconstruction is conditional. Further, what if the polynomial is of degree 2 or 1? Can we stop a strict subset of parties from reconstructing the polynomial?
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Tiantian Gong is a Postdoctoral Associate at Technion – Israel Institute of Technology and Yale University, and she received her PhD in Computer Science from Purdue University,. Her research interests are in secure distributed computing, with a focus on secure multi-party computation and consensus protocols. Her research has appeared in Eurocrypt, IEEE S&P, ACM CCS, USENIX Security, and NDSS, and she has received the Lady Davis Fellowship.
@@ -257,10 +257,11 @@ Given a boolean formula (or circuit), how can we find the smallest correct repre
 
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-TBD
+Neha Makhija is an Assistant Professor at the Manning College of Information and Computer Sciences (CICS) at the University of Massachusetts, Amherst. Her core research goal is in designing data management algorithms that leverage innate structural properties present in data, achieving the best of both theory and practice. She studies this question in the domain of explainable data management, provenance, and knowledge representation. Neha earned her PhD in Computer Science from Northeastern University in 2025, where her dissertation was awarded the Khoury Research Award.
+
 
 </details>
 
