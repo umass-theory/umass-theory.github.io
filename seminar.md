@@ -250,14 +250,14 @@ Tiantian Gong is a Postdoctoral Associate at Technion – Israel Institute of Te
 
 
 [Neha Makhija](https://people.cs.umass.edu/~nehamakhija/) (UMass Amherst) -- *Tuesday, April 28 @ 4pm*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Given a boolean formula (or circuit), how can we find the smallest correct representation for it? Given a "data provenance" object, which captures the relationship between the input and output of a query, how do we succinctly represent it? While the general Minimum Equivalent Expression problem is $$\Sigma^2_p$$-complete, we identify that Minimum Equivalent Provenance Expression problem is NP-complete for provenance formula representations, and identify some non-trivial PTIME cases as well. A complete dichotomy for this problem remains elusive - and several complexity questions involving other variants of this problem (involving different provenance representations grounded in different semirings), are open as well.
 
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Neha Makhija is an Assistant Professor at the Manning College of Information and Computer Sciences (CICS) at the University of Massachusetts, Amherst. Her core research goal is in designing data management algorithms that leverage innate structural properties present in data, achieving the best of both theory and practice. She studies this question in the domain of explainable data management, provenance, and knowledge representation. Neha earned her PhD in Computer Science from Northeastern University in 2025, where her dissertation was awarded the Khoury Research Award.
@@ -271,7 +271,7 @@ Neha Makhija is an Assistant Professor at the Manning College of Information and
 
 [Mordecai Golin](https://home.cse.ust.hk/~golin/ ) (UMass Amherst) -- *Tuesday, May 5 @ 4pm*
 
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 For point set P, the (NP-hard) k-center problem is to find an associated center set C of k points minimizing the maximum distance from each point in P to its closest center point.  There are well known 2-approximation algorithms for general metrics and $$(1 + \epsilon)$$ approximation schemes for the Euclidean version, for solving k-center.  Many of these approximation algorithms use furthest neighbor queries as subroutines. Given a second point set C’, a furthest neighbor query finds a point p in P that is a furthest neighbor from C’.
@@ -283,7 +283,7 @@ We show that, for points in bounded doubling dimension, the approximate furthest
 This is joint work with Jinxiang Gan
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
 Mordecai Golin is a senior teaching faculty member at UMass Amherst. Until recently he was Professor of Computer Science at HKUST where he is now Professor Emeritus. After receiving his doctorate from Princeton University in 1990, Prof Golin worked as a researcher in the Projet Algorithmes of the Institut National de Recherche en Informatique et en Automatique (INRIA) in Rocquencourt, France before arriving at HKUST in 1993. Since then, he has also been a visiting researcher at the University of Waterloo, the MADALGO Center for Massive Data Algorithms, the Max-Planck-Institut fur Informatik, INRIA-Sophia, AT&T Labs-Research, and DIMACS. He served as the HKUST Associate Vice-President for Postgraduate Studies from 2011-2014. In addition, he was the 2008 recipient of the HKUST Michael G. Gale Award for Distinguished Teaching.
