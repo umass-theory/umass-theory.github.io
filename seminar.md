@@ -19,9 +19,27 @@ Welcome to the Fall 2026 series of the **University of Massachusetts Computer Sc
 
 <hr>
 
+##### TBD
+
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, September 16 @ noon*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Abstract TBA
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Bio TBA
+
+</details>
+
+<hr>
+
 ##### Distance-Preserving Encryption for Natural-Language Embedding Vectors
 
-[Charanjit S. Jutla](https://simons.berkeley.edu/people/charanjit-jutla) (IBM T. J. Watson Research Center) --  *Wednesday, September 16 @ noon*
+[Charanjit S. Jutla](https://simons.berkeley.edu/people/charanjit-jutla) (IBM T. J. Watson Research Center) --  *Wednesday, September 23 @ noon*
 <details markdown="1" open="1">
 <summary>Abstract</summary>
   
@@ -40,24 +58,6 @@ pruning-and-backtracking.
 <summary>Bio</summary>
 
 Charanjit Jutla received his PhD in Computer Science from the University of Texas at Austin in 1990. Since then he has been a Research Staff Member at the IBM T. J. Watson Research Center. His research focuses in the fields of Cryptography, Coding Theory and Complexity Theory. Among his various contributions to cryptography, he invented the first single-pass Authenticated Encryption Scheme. He is the author of several papers and patents in the field of cryptography. He has been on the program committee of various international cryptography conferences.
-
-</details>
-
-<hr>
-
-##### TBD
-
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, September 23 @ noon*
-<details markdown="1">
-<summary>Abstract</summary>
-  
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
 
 </details>
 
