@@ -2,291 +2,248 @@
 layout: seminar
 title: Theory Seminar
 ---
-Welcome to the Spring 2026 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **4-5 pm on Tuesdays** in **Room 140, in the Computer Science Building (CSB) at UMass Amherst**, and is free and open to the public. The faculty host this semester is [Cameron Musco](https://people.cs.umass.edu/~cmusco/). If you are interested in giving a talk, please email the faculty host, or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
+Welcome to the Fall 2026 series of the **University of Massachusetts Computer Science Theory Seminar**. The seminar is **noon-1 pm on Wednesdays** in **Room 140, in the Computer Science Building (CSB) at UMass Amherst**, and is free and open to the public. The faculty host this semester is [Andrew McGregor](https://people.cs.umass.edu/~mcgregor/). If you are interested in giving a talk, please email the faculty host, or [Adam Lechowicz](https://adamlechowicz.github.io/#contact). Note that in addition to being a public lecture series, this is also a one-credit graduate seminar (**CompSci 891M**) that can be taken repeatedly for credit.
 
 <hr>
 
 <hr>
 
-#### Spring 2026 Schedule of Speakers
+#### Fall 2026 Schedule of Speakers
 
 **NOTE:** In order to ensure you get weekly updates for all the talks, please make sure you are part of the **seminars@cs.umass.edu** mailing list. If you wish to give a talk, or would like to nominate someone to give one, please email us to let us know!
 
 <hr>
 
 ##### Organizational Meeting
-*Tuesday, February 3 @ 4pm*
+*Wednesday, September 9th @ noon*
 
 <hr>
 
-##### Double Header: Fairness in the k-Server Problem and The Secretary Problem with Predictions and a Chosen Order
+##### Distance-Preserving Encryption for Natural-Language Embedding Vectors
 
-[Mohammadreza Daneshvaramoli](https://moreda-a.github.io/) --  *Tuesday, February 10 @ 4pm*
-<details markdown="1">
-<summary>Abstract </summary>
-**Part 1:** We formalize fairness for the $$k$$-server problem via $$(\alpha,\beta)$$-fairness: each server's cost is at most an $$\alpha/k$$ fraction of the total plus $$\beta$$. We show fairness can be achieved without losing competitiveness.
-Offline, we transform any optimal solution into a fair one with $$\alpha=1+\epsilon$$ and $$\beta=O(diam \cdot \log k/\epsilon)$$ while incurring only an additive $$O(diam \cdot k\log k/\epsilon)$$ cost.
-Online, we convert any competitive algorithm into a randomized algorithm that is fair with high probability against an oblivious adversary, with only a small competitiveness loss.
-We also analyze classics: DCA is fair on lines and on trees for $$k=2$$ but fails on general trees; on paging, FIFO is fair and marking algorithms (including LRU) satisfy a weaker fairness notion.
-
-**Part 2:** We study the secretary problem with value predictions in both the standard random-order model (ROSP) and a learning-augmented model where the decision-maker can choose the arrival order based on predictions (COSP). We design a randomized algorithm that trusts predictions unless a large deviation is detected, then switches to a threshold rule.
-If $$\epsilon\in[0,1]$$ bounds the multiplicative prediction error, we obtain competitive ratio $$\max\{0.221,\frac{1-\epsilon}{1+\epsilon}\}$$ for ROSP (improving [Fujii Yoshida '23]) and $$\max\{0.262,\frac{1-\epsilon}{1+\epsilon}\}$$ for COSP, demonstrating the benefit of combining predictions with arrival-order control.
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-</details>
-
-<hr>
-
-##### Characterizing Strong Proofs Systems via Total Search Problems
-
-[Stefan Grosser](https://blog.catalangrenade.com/p/about.html) (McGill) --  *Tuesday, February 17 @ 4pm*
-<details markdown="1">
-<summary>Abstract</summary>
-In 1929, Gödel proved his celebrated completeness theorem, showing that in first-order logic a statement is true if and only if it has a finite proof. Exactly fifty years later, Cook and Reckhow asked whether a stronger phenomenon might hold in propositional logic: is there a fixed proof system—such as the sequent calculus or ZFC—in which every tautology admits a short proof? Equivalently, does NP = coNP? This question lies at the heart of propositional proof complexity, whose central goal is to show that for every proof system there exist tautologies that require exponentially long proofs.
-
-In this talk, we survey a recent and successful line of work in proof complexity that connects the strength of proof systems to the complexity of combinatorial search problems. We will see how short proofs correspond to efficient algorithms (and conversely), and how this connection has been used to obtain new lower bounds in both proof complexity and circuit complexity. This talk is based on joint work with Noah Fleming, Toniann Pitassi, and Robert Robere.
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Stefan is a fifth year PhD student at McGill University, advised by Robert Robere. His research is in computational complexity, with a focus on proof complexity and circuit lower bounds. 
-
-Previously, Stefan received his bachelor's in computer science from UMass Amherst, and his Masters in mathematics from McGill. 
-
-</details>
-
-<hr>
-
-#####  Adversarial Online Learning with Limited Feedback and Memory
-
-[Chen Wang](https://sites.google.com/view/chen-wang/home) (RPI) -- *Tuesday, February 24 @ 4pm*
-<details markdown="1">
-<summary>Abstract</summary>
-
-While classical MWU and EXP3 algorithms for online learning and adversarial bandits achieve sqrt{T} poly(n) regret, they require O(n log(T)) space to implement, which is inefficient for modern large-scale applications. Recent work by Srinivas et al. [STOC’22]; Peng and Zhang [SODA’23]; Peng and Rubinstein [FOCS’23] has established polylogarithmic memory algorithms for the full-feedback setting (q=n, where q is the number of experts/bandits we can query at each step), but the limited feedback case ($$q < n$$) remains open.
-
-In this talk, we present the first algorithms to achieve $$o(T)$$ regret with $$o(n)$$ memory for $$q < n$$. In fact, all of our algorithms only require $$polylog(nT)$$ memory. Our results include: (i) a $$T^{2/3}$$ regret bound for the $$q=1$$ bandit case, and the bound can be improved to the optimal $$\sqrt{nT}$$ under random-order losses; (ii) a near-optimal $$\sqrt{nT}$$ regret bound for $$q=2$$; and (iii) generalizations to interval regret and sliding-window models. Our main techniques include using the estimated losses of the bandits for pool management and the separation of exploration and exploitation to remove dependency for boosting. These techniques might be of independent interest for the broader theory community. 
-
-Based on a joint work with Vladimir Braverman, Sumegha Garg, David P. Woodruff, and Samson Zhou (SODA 2026).
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-TBD
-
-</details>
-
-<hr>
-
-##### Keeping the World Connected: Building a Faster, Smarter, and Greener Internet
-
-[Ramesh Sitaraman ](https://groups.cs.umass.edu/ramesh/) (UMass Amherst) -- *Tuesday, March 3 @ 4pm.* **Distinguished University Professor Lecture, Great Hall, Old Chapel**
+[Charanjit S. Jutla](https://simons.berkeley.edu/people/charanjit-jutla) (IBM T. J. Watson Research Center) --  *Wednesday, September 16 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-TBD
+We study symmetric encryption of high-dimensional embedding vectors that preserves enough
+geometric structure to support (approximate) nearest-neighbor search on ciphertexts. Since usual
+chosen-plaintext attack (CPA) model security is unlikely, we focus on restricted attacks such as single
+snapshot attacks with limited known plaintexts. Our scheme encrypts a vector by sending it through a secret
+Isometric transform followed by adding noise, a la LWE. Because a rotation preserves all pairwise distances, the
+residual structure available to a snapshot adversary is exactly a distance-labeled graph, so plain-
+text recovery reduces to a constrained, average-case subgraph-isomorphism problem. Our main
+technical contribution is evidence that this problem resists the dominant algorithmic paradigm, i.e. Ullman's
+pruning-and-backtracking.
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBD
+Charanjit Jutla received his PhD in Computer Science from the University of Texas at Austin in 1990. Since then he has been a Research Staff Member at the IBM T. J. Watson Research Center. His research focuses in the fields of Cryptography, Coding Theory and Complexity Theory. Among his various contributions to cryptography, he invented the first single-pass Authenticated Encryption Scheme. He is the author of several papers and patents in the field of cryptography. He has been on the program committee of various international cryptography conferences.
 
 </details>
 
 <hr>
 
-##### On the Interplay Between Combinatorics and Geometry in Beyond-Planar Graphs
+##### TBD
 
-[Myroslav Kryven](https://myroslavkryven.gitlab.io/website/) (Amherst College) -- *Tuesday, March 10 @ 4pm*
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, September 23 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Edge crossings are the dominant source of visual clutter in graph drawings and are known to significantly hinder readability. A core goal in graph visualization is therefore to reduce the impact of crossings on the drawing. This is one of the fundamental problems in Computer Science, which, unfortunately, does not have a good solution for dense graphs, where many crossings are unavoidable. Beyond-planar graph theory attempts to classify graphs that do admit drawings in which crossings are limited in some way. In this talk, we focus on two prominent such families: k-planar graphs, that have drawings in which each edge is crossed at most k times (a purely combinatorial constraint), and right-angle crossing (RAC) graphs, that have drawings in which all crossings occur at a right angle (a geometric constraint that helps distinguish crossings easier). Although these classes are defined by very different principles, we will present a surprising relationship between them.
+Abstract TBA
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-Myroslav Kryven is an Assistant Professor of Computer Science at Amherst College. His research lies at the intersection of theoretical and applied computer science, with interests in network visualization, parameterized algorithms, computational geometry, and pursuit–evasion games.
-
-Previously, Myroslav was a postdoctoral researcher at the GADA Lab in the Department of Computer Science at the University of Manitoba, working with Stephane Durocher. Before that, he held postdoctoral positions at the University of Arizona with Stephen Kobourov and at the University of Würzburg with Alexander Wolff.
-
-He earned his PhD in Network Visualization from the University of Würzburg (2016–2020), supervised by Alexander Wolff.
+Bio TBA
 
 </details>
-<hr>
-
-##### No Meeting -- Spring Break
-*Tuesday, March 17 @ 4pm*
 
 <hr>
 
-##### Pebble Games and Logic
+##### TBD
 
-[Rik Sengupta](https://people.cs.umass.edu/~rsengupta/) (IBM Research) -- *Tuesday, March 24 @ 4pm*
+[Margalit Glasgow](https://margalitglasgow.github.io/) (MIT) --  *Wednesday, September 30 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Two-player combinatorial games have been used for decades to capture syntactic properties of formal logical languages. For instance, the widely used Ehrenfeucht-Fraïssé (EF) game captures the quantifier rank of first-order formulas. Quite surprisingly, these and related games show up in unexpected places in both upper and lower bound proofs in complexity and finite model theory. In this talk, I’ll give an overview of some of these games, and then go deeper into a related (and natural) decision problem about them.
+Abstract TBA
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-Rik Sengupta is a Research Scientist at IBM Research in Cambridge, MA, where he specializes in complexity theory, algorithms, and optimization. He is a recent alumnus of UMass, where he completed his Ph.D. in Computer Science in 2024 under Andrew McGregor and Neil Immerman.
+Bio TBA
 
 </details>
 
 <hr>
 
+##### TBD
 
-##### Optimizing Multiserver Scheduling: Beyond SRPT-k
-
-[Izzy Grosof](https://isaacg1.github.io/) (Northwestern) -- *Tuesday, March 31 @ 4pm*
-<details markdown="1">
-
-<summary>Abstract</summary>
-  
-Shortest Remaining Processing Time (SRPT) is a simple and compelling scheduling policy: Run the jobs that are nearest to completion. It has long been known to optimize mean response time with one server, and heavy-traffic mean response time with many servers. But is it optimal? No!
-
-I present the first policy to improve beyond multiserver SRPT: SRPT-Except-k+1 (SEK), which always outperforms basic multiserver SRPT (1). The proof uses a novel combination of change-from-baseline analysis, stochastic analysis, and worst-case analysis.
-
-To measure SEK's progress towards the true optimal policy, I also present state-of-the-art lower bounds on optimal mean response time, based on the WINE formula and new analysis of the Increasing Speed Queue (2).
-
-Papers:
-
-(1): "Outperforming Multiserver SRPT at All Loads". Izzy Grosof and Daniela Hurtado-Lange. To appear at ACM SIGMETRICS 2026.
-
-(2): "Novel Lower Bounds on M/G/k Scheduling". Ziyuan Wang and Isaac Grosof. Under submission.
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Izzy Grosof is an Assistant Professor at Northwestern University, studying stochastic queueing theory, especially multiserver scheduling theory, with applications to computing systems. Their research has received Best Paper and Best Dissertation awards from INFORMS, ACM SIGMETRICS, and IFIP Performance, and their teaching has received multiple awards at Northwestern. She received her PhD from Carnegie Mellon University, advised by Prof. Mor Harchol-Balter.
-
-</details>
-
-<hr>
-
-##### Eigenvalues of Large, Normal Matrices
-
-[Rikhav Shah](https://math.berkeley.edu/~rdshah/) (MIT) -- *Tuesday, April 7 @ 4pm*
-
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 7 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-What can be learned about the spectrum of a large normal matrix through a small number of matrix vector queries? In this talk we describe how to learn two things: the location of each eigenvalue that is separated from the rest (even if it is located in the middle of the spectrum) and an approximation of the spectral density, up to small earth-mover distance. The setting of normal matrices was previously thought to be computationally harder than the real symmetric and Hermitian settings, since the eigenvalues may now be complex. However, exhibit algorithms that solve these problems with the same order of matvecs as in the Hermitian case. Further, for spectral density estimation, our algorithm only requires matvecs of the form $$x \mapsto Ax$$, and not $$x \mapsto A^*x$$. We show this algorithm makes the optimal number of matvecs for arbitrarily large matrices.
+Abstract TBA
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBD
+Bio TBA
 
 </details>
 
 <hr>
 
-##### Sparsifying Intersections of Halfspaces
+##### TBD
 
-[Shivam Nadimpalli](https://math.mit.edu/~shivamn/) (MIT) -- *Tuesday, April 14 @ 4pm*
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 14 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Given an intersection of (possibly infinitely many) halfspaces at bounded distance from the origin, we show that it can be sparsified, i.e. approximated (under the Gaussian distribution) by an intersection of halfspaces where the number of halfspaces depends only on the desired accuracy.  This yields efficient algorithms for learning, tolerant testing, and volume estimation of convex sets of bounded width.
-
-Our result follows from a more general sparsification lemma for Gaussian processes, which relies on Talagrand's majorizing measures theorem. As another consequence, we obtain a "junta theorem" for norms over Gaussian space: Every norm over R^n can be multiplicatively approximated (under the Gaussian measure) by a norm that depends on only a constant number of coordinates.
-
-The talk will be self-contained and will require no prior background on Gaussian processes. Based on joint work with Anindya De, Ryan O'Donnell, and Rocco Servedio that will appear in STOC 2026: [https://arxiv.org/abs/2411.14664](https://arxiv.org/abs/2411.14664). 
+Abstract TBA
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-TBD
+Bio TBA
 
 </details>
 
 <hr>
 
-##### Adversarial Robustness on Insertion Deletion Streams
+##### TBD
 
-[David Woodruff](https://www.cs.cmu.edu/~dwoodruf/) (CMU) -- **Special Time:** *Wednesday, April 15 @ 3pm*
-<details markdown="1">
-<summary>Abstract</summary>
-
-We study adversarially robust algorithms for insertion-deletion (turnstile) streams, where future updates may depend on past algorithm outputs. While robust algorithms exist for insertion-only streams with only a polylogarithmic overhead in memory over non-robust algorithms, it was widely conjectured that turnstile streams of length polynomial in the universe size $n$ require space linear in $$n$$. We refute this conjecture, showing that robustness can be achieved using space which is significantly sublinear in $$n$$. Our framework combines multiple linear sketches in a novel estimator-corrector-learner framework, yielding the first insertion-deletion algorithms that approximate: (1) the second moment $$F_2$$ up to a $$1+\varepsilon$$ factor in polylogarithmic space, (2) any function $$F$$ with an $$\mathcal{O}(1)$$-approximate triangle inequality up to a $$2^{\mathcal{O}(C)}$$ factor in $$\tilde{\mathcal{O}}(n^{1/C}) \cdot S(n)$$ bits of space, where $$S$$ is the space required to approximate $$F$$ non-robustly; this includes a broad class of functions such as the $$L_1$$-norm, the support size $$F_0$$, and non-normed losses such as the $$M$$-estimators, and (3) $$L_2$$ heavy hitters. For the $$F_2$$ moment, our algorithm is optimal up to $$\textrm{poly}((\log n)/\varepsilon)$$ factors. Given the recent results of Gribelyuk et al. (STOC, 2025), this shows an exponential separation between linear sketches and non-linear sketches for achieving adversarial robustness in turnstile streams.
-
-Based on joint work with Elena Gribelyuk, Honghao Lin, Huacheng Yu, and Samson Zhou
-
-</details>
-
-<hr>
-
-#####  Living With Dishonesty -- Collusion Deterrence in Secret-Sharing Style Primitives
-
-[Tiantian Gong](https://www.ttiangong.com/) (Yale) -- *Tuesday, April 21 @ 4pm*
-<details markdown="1>
-<summary>Abstract</summary>
-  
-Suppose a client samples a degree-3 polynomial at random and samples 4 distinct points on the polynomial to distribute to 4 parties. Can we stop the 4 share-holding parties from reconstructing or learning the polynomial? This question is meaningful when the 4 points are for recovery purposes, i.e., reconstruction among share-holding parties is illegal, or when the 4 parties are expected to evaluate a secure function on the shared points and reconstruct only the final output, i.e., reconstruction is conditional. Further, what if the polynomial is of degree 2 or 1? Can we stop a strict subset of parties from reconstructing the polynomial?
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Tiantian Gong is a Postdoctoral Associate at Technion – Israel Institute of Technology and Yale University, and she received her PhD in Computer Science from Purdue University,. Her research interests are in secure distributed computing, with a focus on secure multi-party computation and consensus protocols. Her research has appeared in Eurocrypt, IEEE S&P, ACM CCS, USENIX Security, and NDSS, and she has received the Lady Davis Fellowship.
-
-</details>
-
-<hr>
-
-##### What do databases, factorization, semirings and linear optimization have to do with one another?
-
-
-[Neha Makhija](https://people.cs.umass.edu/~nehamakhija/) (UMass Amherst) -- *Tuesday, April 28 @ 4pm*
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 21 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Given a boolean formula (or circuit), how can we find the smallest correct representation for it? Given a "data provenance" object, which captures the relationship between the input and output of a query, how do we succinctly represent it? While the general Minimum Equivalent Expression problem is $$\Sigma^2_p$$-complete, we identify that Minimum Equivalent Provenance Expression problem is NP-complete for provenance formula representations, and identify some non-trivial PTIME cases as well. A complete dichotomy for this problem remains elusive - and several complexity questions involving other variants of this problem (involving different provenance representations grounded in different semirings), are open as well.
-
+Abstract TBA
 
 </details>
 <details markdown="1">
 <summary>Bio</summary>
 
-Neha Makhija is an Assistant Professor at the Manning College of Information and Computer Sciences (CICS) at the University of Massachusetts, Amherst. Her core research goal is in designing data management algorithms that leverage innate structural properties present in data, achieving the best of both theory and practice. She studies this question in the domain of explainable data management, provenance, and knowledge representation. Neha earned her PhD in Computer Science from Northeastern University in 2025, where her dissertation was awarded the Khoury Research Award.
-
+Bio TBA
 
 </details>
 
 <hr>
 
-##### Plug-and-Play for Dynamic k-center
 
-[Mordecai Golin](https://home.cse.ust.hk/~golin/ ) (UMass Amherst) -- *Tuesday, May 5 @ 4pm*
+##### TBD
 
-<details markdown="1" open="1">
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 28 @ noon*
+<details markdown="1">
 <summary>Abstract</summary>
   
-For point set P, the (NP-hard) k-center problem is to find an associated center set C of k points minimizing the maximum distance from each point in P to its closest center point.  There are well known 2-approximation algorithms for general metrics and $$(1 + \epsilon)$$ approximation schemes for the Euclidean version, for solving k-center.  Many of these approximation algorithms use furthest neighbor queries as subroutines. Given a second point set C’, a furthest neighbor query finds a point p in P that is a furthest neighbor from C’.
-
-The dynamic version of the k-center problem maintains P over insertions and deletions of points, permitting efficient solution of the approximate k-center problem for the current P. This has been extensively studied. By contrast, the related problem of maintaining P to efficiently solve approximate furthest neighbor queries does not seem to have known solutions.
-
-We show that, for points in bounded doubling dimension, the approximate furthest neighbor problem can be efficiently solved using navigating nets. Plugging this as a subroutine into known static k-center approximation algorithms yields approximation schemes for dynamic k-center. Unlike some of the older algorithms, this new approach does not require knowing k or $$\epsilon$$ in advance. This new approach also yields what seems to be the first non-randomized algorithm for dynamic Euclidean k-center.
-
-This is joint work with Jinxiang Gan
+Abstract TBA
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
-Mordecai Golin is a senior teaching faculty member at UMass Amherst. Until recently he was Professor of Computer Science at HKUST where he is now Professor Emeritus. After receiving his doctorate from Princeton University in 1990, Prof Golin worked as a researcher in the Projet Algorithmes of the Institut National de Recherche en Informatique et en Automatique (INRIA) in Rocquencourt, France before arriving at HKUST in 1993. Since then, he has also been a visiting researcher at the University of Waterloo, the MADALGO Center for Massive Data Algorithms, the Max-Planck-Institut fur Informatik, INRIA-Sophia, AT&T Labs-Research, and DIMACS. He served as the HKUST Associate Vice-President for Postgraduate Studies from 2011-2014. In addition, he was the 2008 recipient of the HKUST Michael G. Gale Award for Distinguished Teaching.
+Bio TBA
+
+</details>
+
+<hr>
+
+##### TBD
+
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, November 4 @ noon*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Abstract TBA
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Bio TBA
+
+</details>
+
+<hr>
+
+##### TBD
+
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, November 11 @ noon*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Abstract TBA
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Bio TBA
+
+</details>
+
+<hr>
+
+##### TBD
+
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, November 18 @ noon*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Abstract TBA
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Bio TBA
+
+</details>
+
+<hr>
+
+##### No Meeting -- Thanksgiving Break
+*Wednesday, November 25 @ noon*
+
+<hr>
+
+##### TBD
+
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, December 2 @ noon*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Abstract TBA
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Bio TBA
+
+</details>
+
+<hr>
+
+##### TBD
+
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, December 9 @ noon*
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Abstract TBA
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Bio TBA
 
 </details>
 
@@ -294,7 +251,7 @@ Mordecai Golin is a senior teaching faculty member at UMass Amherst. Until recen
 
 <!-- ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Tuesday, October 24 @ noon*
+[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 24 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -311,6 +268,8 @@ Bio TBA
 <hr> -->
 
 #### Past Seminars Archive
+
+[Spring 2026](https://theory.cs.umass.edu/seminar-s26)
 
 [Fall 2025](https://theory.cs.umass.edu/seminar-f25)
 
