@@ -22,7 +22,7 @@ Welcome to the Fall 2026 series of the **University of Massachusetts Computer Sc
 ##### Distance-Preserving Encryption for Natural-Language Embedding Vectors
 
 [Charanjit S. Jutla](https://simons.berkeley.edu/people/charanjit-jutla) (IBM T. J. Watson Research Center) --  *Wednesday, September 16 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 We study symmetric encryption of high-dimensional embedding vectors that preserves enough
@@ -36,7 +36,7 @@ technical contribution is evidence that this problem resists the dominant algori
 pruning-and-backtracking.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
 Charanjit Jutla received his PhD in Computer Science from the University of Texas at Austin in 1990. Since then he has been a Research Staff Member at the IBM T. J. Watson Research Center. His research focuses in the fields of Cryptography, Coding Theory and Complexity Theory. Among his various contributions to cryptography, he invented the first single-pass Authenticated Encryption Scheme. He is the author of several papers and patents in the field of cryptography. He has been on the program committee of various international cryptography conferences.
