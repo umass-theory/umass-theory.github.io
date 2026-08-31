@@ -1,6 +1,6 @@
 ---
 layout: theory-day
-title: 2026 New England Theory Day
+title: 2025 New England Theory Day
 ---
 
 <style>
@@ -24,24 +24,24 @@ The inaugural **New England Theory Day** event aims to bring together theoretici
 
 The event is hosted by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/){: class="manualBody"}, and funded by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/){: class="manualBody"}.
 
-* **Date**: Friday, October 2nd, 2026
+* **Date**: Friday, October 17th, 2025
 * **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Science. 
-  * Computer Science Laboratories (CSL) Building, Room E144, 130 Governors Dr, Amherst, MA.
+  * Lederle Graduate Research Center (LGRC Lowrise), 740 North Pleasant Street, Amherst, MA.
 
-Any questions about the event can be directed to Hung Le (hungle at cs dot umass dot edu) and Mingda Qiao (mqiao at cs dot umass dot edu).
+Any questions about the event can be directed to Cameron Musco (cmusco at cs dot umass dot edu).
 
 
 #### Registration
 
-Registration is required, but free. Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSeUuS4pWwzJTIHF3cErQ8YgBKyX2bzVEOSjNHVKWMcZIbWAbQ/viewform){: class="manualBody"} by **Thursday 09/24**.
+Registration is required, but free. Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSekWt8YZW7afDNdB5Dn0FbdxfNA02x7DFdNOIbWMjH_FZ-nAw/viewform){: class="manualBody"} by **Thursday 10/9** .
 
 #### Travel, Parking, and Lodging
 
 Parking passes will be provided to all registered participants that intend to drive to the event. Please indicate on the registration form if you will need a pass for your car.
 
-Other transportation options include Peter Pan or Greyhound buslines (both with  stops on campus), or Amtrak (station in Northampton, approximately a 15 minute drive from campus). See [this page](https://www.umass.edu/transportation/alternative-transportation/regional-transportation){: class="manualBody"} for more details.
+Other transportation options include Peter Pan or Greyhound buslines (both with  stops on campus), or Amtrak (station in Northampton, approximately a 15 minute drive from campus). See [this page](https://www.umass.edu/transportation/regional-transportation){: class="manualBody"} for more details.
 
-If you plan to stay overnight before or after the event, some recommended lodging options are [Hotel UMass](http://www.hotelumass.com/){: class="manualBody"} (on campus), [Inn on Boltwood](https://www.innonboltwood.com/){: class="manualBody"} (downtown Amherst, accessible via bus or walking  to campus), or [Courtyard by Marriott Hadley Amherst](https://www.marriott.com/en-us/hotels/bdlhd-courtyard-hadley-amherst/overview/){: class="manualBody"} (approximately 10 minutes driving from campus).
+If you plan to stay overnight before or after the event, some recommended lodging options are [Hotel UMass](http://www.hotelumass.com/){: class="manualBody"} (on campus), [Inn on Boltwood](https://www.innonboltwood.com/){: class="manualBody"} (downtown Amherst, accessible via bus or walking  to campus), or [Courtyard by Marriott Hadley](http://www.marriott.com/hotels/travel/bdlhd-courtyard-amherst-hadley/){: class="manualBody"} (approximately 10 minutes driving from campus).
 
 #### Schedule (Tentative)
 
@@ -77,56 +77,49 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     <tr>
       <td>9:00am -- 10:00am</td>
       <td>Coffee, Breakfast, and Welcome</td>
-      <td>CSL E144</td>
+      <td>LGRC A112</td>
     </tr>
     <tr>
       <td>10:00am -- 10:50am</td>
-      <!--
       <td>Nisheeth Vishnoi (Yale). <i>A Mathematical Theory of Human-AI Work and Beyond</i></td>
-      -->
-      <td>Invited Talk 1: TBA</td>
-      <td>CSL E144</td>
+      <td>LGRC A112</td>
     </tr>
     <tr>
       <td>11:00am -- 11:50pm</td>
-      <td>Invited Talk 2: TBA</td>
-      <td>CSL E144</td>
+      <td>Sitan Chen (Harvard). <i>Diffusion Models for Text?</i></td>
+      <td>LGRC A112</td>
     </tr>
     <tr>
       <td>12:00pm -- 12:30pm</td>
       <td>Student Lightning Talks</td>
-      <td>CSL E144</td>
+      <td>LGRC A112</td>
     </tr>
     <tr>
       <td>12:30pm -- 2:30pm</td>
       <td>Lunch and Poster Session</td>
-      <td>CSL E144 and CSL Atrium</td>
+      <td>LGRC A112 and LGRC Attrium</td>
     </tr>
     <tr>
       <td>2:30pm -- 3:20pm</td>
-      <td>Invited Talk 3: TBA</td>
-      <td>CSL E144</td>
+      <td>Mark Bun (Boston University). <i>Interactive Proofs For Distribution Testing With Conditional Oracles</i></td>
+      <td>LGRC A112</td>
     </tr>
     <tr>
       <td>3:30pm -- 4:20pm</td>
-      <td>Invited Talk 4: TBA</td>
-      <td>CSL E144</td>
+      <td>Jamie Tucker-Foltz (Yale). <i>Random Redistricting via Random Walks</i></td>
+      <td>LGRC A112</td>
     </tr>
     <tr>
       <td>4:30pm -- 5:00pm</td>
       <td>Wrap-up + Coffee, tea, and snacks</td>
-      <td>CSL E144</td>
+      <td>LGRC A112</td>
     </tr>
     <tr>
       <td>6:00pm -- 7:30pm</td>
       <td>Informal Meetup at Treehouse Brewery</td>
-      <td>Tree House Brewing Company, South Deerfield, MA</td>
+      <td>Treehouse Brewing, South Deerfield, MA</td>
     </tr>
   </tbody>
 </table>
-
-#### Previous Edition:
-
-[2025 New England Theory Day](/theory-day-2025)
 
 <br>
