@@ -21,7 +21,7 @@ Welcome to the Fall 2026 series of the **University of Massachusetts Computer Sc
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, September 16 @ noon*
+[Cameron Musco](https://people.cs.umass.edu/~cmusco/) (UMass Amherst) --  *Wednesday, September 16 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -83,7 +83,7 @@ Bio TBA
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 7 @ noon*
+[Vignesh Viswanathan](https://people.cs.umass.edu/~vviswanathan/) (UMass Amherst) --  *Wednesday, October 7 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
@@ -101,7 +101,7 @@ Bio TBA
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 14 @ noon*
+[Mohammadreza Daneshvaramoli](https://moreda-a.github.io) (UMass Amherst) --  *Wednesday, October 14 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
