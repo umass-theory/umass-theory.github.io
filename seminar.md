@@ -19,19 +19,21 @@ Welcome to the Fall 2026 series of the **University of Massachusetts Computer Sc
 
 <hr>
 
-##### TBD
+##### Operator Learning Through the Lens of Linear Algebra
 
 [Cameron Musco](https://people.cs.umass.edu/~cmusco/) (UMass Amherst) --  *Wednesday, September 16 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+Traditional machine learning methods seek to learn functions that map vector-valued input data to scalar-valued outputs or labels. Increasingly, however, applications in scientific machine learning (SciML) and other areas require models that map vector-valued data to vector-valued data. Such operator learning methods have been critical to recent breakthroughs in computational science, including on AI-driven methods for weather prediction, PDE solving, and more.
+
+In this talk, I will discuss a research program that seeks to understand the sample complexity of operator learning, which is a critical bottleneck in many applications. We focus in particular on the problem of learning linear operators -- i.e., matrices. Even this restricted setting leads to many interesting theoretical questions. I will highlight recent work that tackles some of these questions by leveraging tools from randomized numerical linear algebra (RandNLA). I will also discuss our efforts to develop a general learning theory for linear operators.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-Bio TBA
+Cameron Musco is an Associate Professor in UMass Amherst's Manning College of Information and Computer Sciences, where he is a member of the Theory Group.  He studies algorithms, working at the intersection of theoretical computer science, numerical linear algebra, and machine learning. His group's research is supported in part by an NSF CAREER Award and a Google Research Scholar Award.  Before UMass, he completed his Ph.D. in the Theory of Computation Group at MIT, advised by Nancy Lynch, and before MIT, he studied Computer Science and Applied Math at Yale.
 
 </details>
 
@@ -190,9 +192,9 @@ Bio TBA
 
 <hr>
 
-##### TBD
+##### A Polynomial Coreset for Furthest Neighbor in Planar Metrics
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, November 18 @ noon*
+[Hector Tierno](https://groups.cs.umass.edu/theory/) (UMass Amherst) --  *Wednesday, November 18 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
