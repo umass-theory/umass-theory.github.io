@@ -20,7 +20,7 @@ a.manualBody:hover {
 
 #### General Information
 
-The inaugural **New England Theory Day** event aims to bring together theoreticians from around New England, for a full day of talks, a poster session for junior researchers, and social events. Anyone with an interest in theoretical computer science is welcome to attend.
+The **New England Theory Day** event aims to bring together theoreticians from around New England, for a full day of talks, a poster session for junior researchers, and social events. Anyone with an interest in theoretical computer science is welcome to attend.
 
 The event is hosted by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/){: class="manualBody"}, and funded by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/){: class="manualBody"}.
 
@@ -125,7 +125,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
   </tbody>
 </table>
 
-#### Previous Edition:
+#### Previous Edition
 
 [2025 New England Theory Day](/theory-day-2025)
 
