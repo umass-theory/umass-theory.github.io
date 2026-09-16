@@ -65,19 +65,13 @@ Charanjit Jutla received his PhD in Computer Science from the University of Texa
 
 <hr>
 
-##### TBD
+##### When do Infinite-Width Neural Networks explain Finite-Width Networks
 
 [Margalit Glasgow](https://margalitglasgow.github.io/) (MIT) --  *Wednesday, September 30 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
+A longstanding question in deep learning theory asks why gradient descent (GD) finds good solutions in non-convex neural-network optimization landscapes. One compelling theory is that overparameterization makes the optimization landscape benign, leading GD to find global optima. These global convergence guarantees have even been proven rigorously in some settings for infinite-width neural networks. In this talk, I'll address the question of when such infinite-width convergence guarantees can be transferred to finite-width 2-layer networks. I'll show that whenever the convergence rate of the infinite-width network is faster than 1/t^2, comparable guarantees can be attained in finite-width networks. A key takeaway of our result is that whenever the convergence rate of the infinite-width, population-loss dynamics is faster than 1/t^2 , we can attain a loss of ϵ with only poly(d/ϵ) neurons, training samples, and GD steps.
 
 </details>
 
