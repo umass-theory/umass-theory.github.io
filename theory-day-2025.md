@@ -25,7 +25,7 @@ The inaugural **New England Theory Day** event aims to bring together theoretici
 The event is hosted by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/){: class="manualBody"}, and funded by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/){: class="manualBody"}.
 
 * **Date**: Friday, October 17th, 2025
-* **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Science. 
+* **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Sciences. 
   * Lederle Graduate Research Center (LGRC Lowrise), 740 North Pleasant Street, Amherst, MA.
 
 Any questions about the event can be directed to Cameron Musco (cmusco at cs dot umass dot edu).
@@ -85,7 +85,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
       <td>LGRC A112</td>
     </tr>
     <tr>
-      <td>11:00am -- 11:50pm</td>
+      <td>11:00am -- 11:50am</td>
       <td>Sitan Chen (Harvard). <i>Diffusion Models for Text?</i></td>
       <td>LGRC A112</td>
     </tr>

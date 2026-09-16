@@ -25,7 +25,7 @@ The **New England Theory Day** event aims to bring together theoreticians from a
 The event is hosted by the [UMass Amherst Theory Group](https://theory.cs.umass.edu/){: class="manualBody"}, and funded by the [Manning College of Information and Computer Sciences](https://www.cics.umass.edu/){: class="manualBody"}.
 
 * **Date**: Friday, October 2nd, 2026
-* **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Science. 
+* **Location**: University of Massachusetts Amherst, Manning College of Information and Computer Sciences.
   * Computer Science Laboratories (CSL) Building, Room E144, 130 Governors Dr, Amherst, MA.
 
 Any questions about the event can be directed to Hung Le (hungle at cs dot umass dot edu) and Mingda Qiao (mqiao at cs dot umass dot edu).
@@ -60,6 +60,10 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     padding: 10px;
     border-bottom: 1px solid #ddd;
   }
+  th:first-child,
+  td:first-child {
+    white-space: nowrap;
+  }
   tbody tr:nth-child(even) {
     background-color: #f9f9f9;
   }
@@ -75,55 +79,74 @@ If you plan to stay overnight before or after the event, some recommended lodgin
   </thead>
   <tbody>
     <tr>
-      <td>9:00am -- 10:00am</td>
+      <td>9:00am–10:00am</td>
       <td>Coffee, Breakfast, and Welcome</td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>10:00am -- 10:50am</td>
-      <!--
-      <td>Nisheeth Vishnoi (Yale). <i>A Mathematical Theory of Human-AI Work and Beyond</i></td>
-      -->
-      <td>Invited Talk 1: TBA</td>
+      <td>10:00am–10:50am</td>
+      <td>Talk by Ronitt Rubinfeld (MIT)</td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>11:00am -- 11:50pm</td>
-      <td>Invited Talk 2: TBA</td>
+      <td>11:00am–11:50am</td>
+      <td>Talk by Mahsa Derakhshan (Northeastern)</td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>12:00pm -- 12:30pm</td>
+      <td>12:00pm–12:30pm</td>
       <td>Student Lightning Talks</td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>12:30pm -- 2:30pm</td>
+      <td>12:30pm–2:30pm</td>
       <td>Lunch and Poster Session</td>
       <td>CSL E144 and CSL Atrium</td>
     </tr>
     <tr>
-      <td>2:30pm -- 3:20pm</td>
-      <td>Invited Talk 3: TBA</td>
+      <td>2:30pm–3:20pm</td>
+      <td>Talk by Deeparnab Chakrabarty (Dartmouth)</td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>3:30pm -- 4:20pm</td>
-      <td>Invited Talk 4: TBA</td>
+      <td>3:30pm–4:20pm</td>
+      <td>Talk by Peihan Miao (Brown): <i>Recent Advances in Private Set Intersection</i></td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>4:30pm -- 5:00pm</td>
+      <td>4:30pm–5:00pm</td>
       <td>Wrap-up + Coffee, tea, and snacks</td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>6:00pm -- 7:30pm</td>
-      <td>Informal Meetup at Treehouse Brewery</td>
+      <td>6:00pm–7:30pm</td>
+      <td>Informal Meetup</td>
       <td>Tree House Brewing Company, South Deerfield, MA</td>
     </tr>
   </tbody>
 </table>
+
+#### Talk Details
+
+<hr>
+
+##### Recent Advances in Private Set Intersection
+
+[Peihan Miao](https://sites.google.com/view/peihanmiao/home) (Brown University)
+<details markdown="1">
+<summary>Abstract</summary>
+  
+Private set intersection (PSI) enables two parties, each holding a private set of elements, to compute the intersection of their sets without revealing anything beyond the intersection. As a special case of secure multi-party computation, PSI has found many applications and shown early success in practice. In this talk, I will first give an overview of the limitations of standard PSI protocols in terms of functionality, security, and scalability. Next, I will discuss recent advances in developing new models and techniques to address these challenges.
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Peihan Miao is the John E. Savage Assistant Professor in the Department of Computer Science at Brown University. Her research interests lie in cryptography, theory, and security, with a focus on secure multi-party computation. She received her PhD from the University of California, Berkeley. She is a recipient of the NSF CAREER Award, Meta Privacy Enhancing Technologies Award, Google Research Scholar Award, and Amazon Research Award.
+
+</details>
+
+<hr>
 
 #### Previous Edition
 
