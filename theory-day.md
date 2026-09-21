@@ -39,9 +39,9 @@ Registration is required, but free. Please register [here](https://docs.google.c
 
 Parking passes will be provided to all registered participants that intend to drive to the event. Please indicate on the registration form if you will need a pass for your car.
 
-Other transportation options include Peter Pan or Greyhound buslines (both with  stops on campus), or Amtrak (station in Northampton, approximately a 15 minute drive from campus). See [this page](https://www.umass.edu/transportation/alternative-transportation/regional-transportation){: class="manualBody"} for more details.
+Other transportation options include Peter Pan or Greyhound buslines (both with stops on campus), or Amtrak (station in Northampton, approximately a 15 minute drive from campus). See [this page](https://www.umass.edu/transportation/alternative-transportation/regional-transportation){: class="manualBody"} for more details.
 
-If you plan to stay overnight before or after the event, some recommended lodging options are [Hotel UMass](http://www.hotelumass.com/){: class="manualBody"} (on campus), [Inn on Boltwood](https://www.innonboltwood.com/){: class="manualBody"} (downtown Amherst, accessible via bus or walking  to campus), or [Courtyard by Marriott Hadley Amherst](https://www.marriott.com/en-us/hotels/bdlhd-courtyard-hadley-amherst/overview/){: class="manualBody"} (approximately 10 minutes driving from campus).
+If you plan to stay overnight before or after the event, some recommended lodging options are [Hotel UMass](http://www.hotelumass.com/){: class="manualBody"} (on campus), [Inn on Boltwood](https://www.innonboltwood.com/){: class="manualBody"} (downtown Amherst, accessible via bus or walking to campus), or [Courtyard by Marriott Hadley Amherst](https://www.marriott.com/en-us/hotels/bdlhd-courtyard-hadley-amherst/overview/){: class="manualBody"} (approximately 10 minutes driving from campus).
 
 #### Schedule (Tentative)
 
@@ -85,7 +85,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>10:00am–10:50am</td>
-      <td>Talk by Ronitt Rubinfeld (MIT)</td>
+      <td>Ronitt Rubinfeld (MIT): <i>Graph k-Coloring in Average Sublinear Time</i></td>
       <td>CSL E144</td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>3:30pm–4:20pm</td>
-      <td>Talk by Peihan Miao (Brown): <i>Recent Advances in Private Set Intersection</i></td>
+      <td>Peihan Miao (Brown): <i>Recent Advances in Private Set Intersection</i></td>
       <td>CSL E144</td>
     </tr>
     <tr>
@@ -130,12 +130,34 @@ If you plan to stay overnight before or after the event, some recommended lodgin
 
 <hr>
 
+##### Graph k-Coloring in Average Sublinear Time
+
+[Ronitt Rubinfeld](https://people.csail.mit.edu/ronitt/) (Massachusetts Institute of Technology)
+<details markdown="1">
+<summary>Abstract</summary>
+
+Graph k-coloring is one of the classic NP-complete problems. Previous work has studied its average-case complexity, defined as the average runtime over all k-colorable graphs on n vertices, required to compute a k-coloring. A highly influential result of Dyer and Frieze from 1989 gave an algorithm with O(n^2) average runtime for constant k. This quadratic runtime appeared natural (and possibly even optimal) since almost all k-colorable graphs have Theta(n^2) edges. Reading the entire adjacency matrix takes Theta(n^2) time, so any improvement must avoid inspecting the whole input. This was later improved by Kucera in 1995 to average runtime O(n^2/k) for every k < n^c where c \in (0, 1/2). Nevertheless, in the most interesting case of k = O(1), the best-known bound remained quadratic in n. The true average complexity of the k-coloring problem has remained elusive for the last three decades.
+
+We break the longstanding quadratic barrier. Our main result shows that the exact average-case complexity of this fundamental problem is Theta(nk) for every 2 < k < n^{c'} and c' \in (0, 1/36). For k = O(1), this reveals the average sublinear nature of k-colorability: the average-case complexity is linear in n, and thus *sublinear* in the size of the input. The matching lower bound applies to every algorithm that correctly k-colors every k-colorable input.
+
+Our proofs draw on ideas from sublinear and local algorithms and also yield a local computation algorithm (LCA) for k-coloring with average-case probe complexity poly(k). A key ingredient is an efficiently checkable certificate of unique colorability for small random cores, based on degree and codegree conditions. This certificate allows the algorithm to propagate colors correctly without inspecting the entire graph.
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Ronitt Rubinfeld is an Edwin Sibley Webster Professor at MIT’s Electrical Engineering and Computer Science department, where she has been on the faculty since 2004. She graduated from the University of Michigan with a degree in Computer Engineering, and from the University of California, Berkeley with a Ph.D. in Computer Science in 1990. After postdoctoral positions at Princeton University and the Hebrew University in Jerusalem, she held faculty positions at Cornell University and Tel Aviv University, and has been a member of the research staff at NEC Research Institute. Her work has received the Symposium on Theory of Computing 30 years Test of Time award. Ronitt Rubinfeld was an ONR Young Investigator, a Sloan Fellow, a Guggenheim fellow and an invited speaker at the International Congress of Mathematicians in 2006. She is a fellow of the Association for Computing Machinery, a fellow of the American Academy of Arts and Sciences and a member of the National Academy of Sciences.
+
+</details>
+
+<hr>
+
 ##### Recent Advances in Private Set Intersection
 
 [Peihan Miao](https://sites.google.com/view/peihanmiao/home) (Brown University)
 <details markdown="1">
 <summary>Abstract</summary>
-  
+
 Private set intersection (PSI) enables two parties, each holding a private set of elements, to compute the intersection of their sets without revealing anything beyond the intersection. As a special case of secure multi-party computation, PSI has found many applications and shown early success in practice. In this talk, I will first give an overview of the limitations of standard PSI protocols in terms of functionality, security, and scalability. Next, I will discuss recent advances in developing new models and techniques to address these challenges.
 
 </details>
