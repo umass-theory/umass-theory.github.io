@@ -211,7 +211,7 @@ Bio TBA
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, December 2 @ noon*
+[Konstantin Zabarnyi](https://zabarnyi.cswp.cs.technion.ac.il) (Yale) --  *Wednesday, December 2 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
