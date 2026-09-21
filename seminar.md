@@ -41,7 +41,7 @@ Cameron Musco is an Associate Professor in UMass Amherst's Manning College of In
 
 ##### Distance-Preserving Encryption for Natural-Language Embedding Vectors
 
-[Charanjit S. Jutla](https://simons.berkeley.edu/people/charanjit-jutla) (IBM T. J. Watson Research Center) --  *Wednesday, September 23 @ noon*
+[Charanjit S. Jutla](https://simons.berkeley.edu/people/charanjit-jutla) (IBM T. J. Watson Research Center) --  *Wednesday, September 23 @ **12:30pm, LGRC A215 (special time & place)***
 <details markdown="1" open="1">
 <summary>Abstract</summary>
   
