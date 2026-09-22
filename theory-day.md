@@ -105,7 +105,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>2:30pm–3:20pm</td>
-      <td>Talk by Deeparnab Chakrabarty (Dartmouth)</td>
+      <td>Deeparnab Chakrabarty (Dartmouth): <i>Graph (and Hypergraph) Algorithms in the CUT Query Lens</i></td>
       <td>CSL E144</td>
     </tr>
     <tr>
@@ -147,6 +147,28 @@ Our proofs draw on ideas from sublinear and local algorithms and also yield a lo
 <summary>Bio</summary>
 
 Ronitt Rubinfeld is an Edwin Sibley Webster Professor at MIT’s Electrical Engineering and Computer Science department, where she has been on the faculty since 2004. She graduated from the University of Michigan with a degree in Computer Engineering, and from the University of California, Berkeley with a Ph.D. in Computer Science in 1990. After postdoctoral positions at Princeton University and the Hebrew University in Jerusalem, she held faculty positions at Cornell University and Tel Aviv University, and has been a member of the research staff at NEC Research Institute. Her work has received the Symposium on Theory of Computing 30 years Test of Time award. Ronitt Rubinfeld was an ONR Young Investigator, a Sloan Fellow, a Guggenheim fellow and an invited speaker at the International Congress of Mathematicians in 2006. She is a fellow of the Association for Computing Machinery, a fellow of the American Academy of Arts and Sciences and a member of the National Academy of Sciences.
+
+</details>
+
+<hr>
+
+##### Graph (and Hypergraph) Algorithms in the CUT Query Lens
+
+[Deeparnab Chakrabarty](https://deeparnab.cs.dartmouth.edu/) (Dartmouth College)
+<details markdown="1">
+<summary>Abstract</summary>
+
+In the "query access model" of algorithm design, we have access to the input data only via restricted interfaces. This study is motivated, at times, due to restrictions in certain applications; perhaps more relevant to this audience, it provides a lens to focus on the powers and limitations of algorithmic ideas. In the past few years, there has been some focused interest on the question of understanding connectivity of graphs when we have access to it only via "CUT queries": in this access model we know the vertices of a graph, but not its edges; at unit cost we can query a subset of vertices and obtain the cut *size*. The cut induced by the subset, recall, is the edges with exactly one endpoint in the subset. 
+
+In this talk, I will expand on the abstract above, and try to chart out the state of the art. I will explain the broad techniques, and also some technical challenges where we are stuck.
+
+I will mostly be talking about other people's work; if I do talk about works where I have contributed, then they will be those with my recently graduated student Hang Liao whose thesis was on this topic.
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Deeparnab Chakrabarty is an associate professor of computer science at Dartmouth College where he has taught since 2017. Before that, he was a researcher at Microsoft Research Bangalore. His research interests are broadly in algorithms, with a special interest in optimization and sublinear algorithms.
 
 </details>
 
