@@ -33,7 +33,7 @@ Any questions about the event can be directed to Hung Le (hungle at cs dot umass
 
 #### Registration
 
-Registration is required, but free. Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdhf9IvXQYiO64uUDIVquJZoyK0mL0MGW_JKVBftYpOfejWhQ/viewform){: class="manualBody"} by **Thursday 09/24**.
+Registration is now closed. Thank you to everyone who registered! We look forward to seeing you at UMass Amherst on October 2!
 
 #### Travel, Parking, and Lodging
 
