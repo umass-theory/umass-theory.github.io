@@ -90,7 +90,7 @@ If you plan to stay overnight before or after the event, some recommended lodgin
     </tr>
     <tr>
       <td>11:00am–11:50am</td>
-      <td>Talk by Mahsa Derakhshan (Northeastern)</td>
+      <td>Mahsa Derakhshan (Northeastern): <i>Randomized Greedy Matching on General Graphs</i></td>
       <td>CSL E144</td>
     </tr>
     <tr>
@@ -147,6 +147,24 @@ Our proofs draw on ideas from sublinear and local algorithms and also yield a lo
 <summary>Bio</summary>
 
 Ronitt Rubinfeld is an Edwin Sibley Webster Professor at MIT’s Electrical Engineering and Computer Science department, where she has been on the faculty since 2004. She graduated from the University of Michigan with a degree in Computer Engineering, and from the University of California, Berkeley with a Ph.D. in Computer Science in 1990. After postdoctoral positions at Princeton University and the Hebrew University in Jerusalem, she held faculty positions at Cornell University and Tel Aviv University, and has been a member of the research staff at NEC Research Institute. Her work has received the Symposium on Theory of Computing 30 years Test of Time award. Ronitt Rubinfeld was an ONR Young Investigator, a Sloan Fellow, a Guggenheim fellow and an invited speaker at the International Congress of Mathematicians in 2006. She is a fellow of the Association for Computing Machinery, a fellow of the American Academy of Arts and Sciences and a member of the National Academy of Sciences.
+
+</details>
+
+<hr>
+
+##### Randomized Greedy Matching on General Graphs
+
+[Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/) (Northeastern University)
+<details markdown="1">
+<summary>Abstract</summary>
+
+Randomized greedy algorithms are among the simplest and most effective methods for approximating maximum matchings, yet their performance on general graphs remains much less well understood than in the bipartite setting. In this talk, I will present recent progress on vertex-iterative randomized greedy matching algorithms for general graphs, focusing on Ranking and FRanking. I will describe new structural ideas and a unified analysis framework that yield improved approximation guarantees for these algorithms, including a 0.56 approximation ratio for Ranking and a 0.539 approximation ratio for FRanking. I will also discuss how the absence of short odd cycles leads to significantly stronger guarantees. More broadly, these results imply improved bounds for related models, including oblivious and fully online matching. The talk is based on joint work with Mohammad Roghani, Mohammad Saneian, and Tao Yu (SODA 2026), and on joint work with Tao Yu (STOC 2026).
+
+</details>
+<details markdown="1">
+<summary>Bio</summary>
+
+Mahsa Derakhshan is an assistant professor in the Khoury College of Computer Sciences at Northeastern University. Her research focuses on designing algorithms under uncertainty, including uncertainty arising from stochastic inputs, limited information, and strategic behavior, with particular interests in matching problems, online algorithms, and market design. She received her Ph.D. in computer science from the University of Maryland in 2021 and held postdoctoral positions at Princeton University and UC Berkeley before joining Northeastern.
 
 </details>
 
