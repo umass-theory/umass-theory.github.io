@@ -45,7 +45,7 @@ makhija:
     display_name: "Neha Makhija"
     role: faculty
     webpage: "https://people.cs.umass.edu/~nehamakhija/"
-    image: "https://www.cics.umass.edu/sites/g/files/ijdqth246/files/styles/1_1_2xl/public/2025-08/nehamakhija.png?h=1bfa52c2&itok=QzpZ7NEw"
+    image: "https://people.cs.umass.edu/~nehamakhija/img/me.jpg"
     bio: "database theory, knowledge representation and reasoning, logic programming"
 
 mcgregor:
@@ -134,7 +134,7 @@ amirmahdi:
 mohammadreza:
     display_name: "Mohammadreza Daneshvaramoli"
     webpage: "https://moreda-a.github.io/"
-    image: "http://solar.cs.umass.edu/img/people/mohammadrezad.jpeg"
+    image: "https://moreda-a.github.io/me.jpg"
     role: grad
 
 purna:
@@ -169,7 +169,7 @@ an:
 adaml:
     display_name: "Adam Lechowicz"
     webpage: "https://adamlechowicz.github.io/"
-    image: "https://adamlechowicz.github.io/assets/img/bio_photo.jpeg"
+    image: "https://adamlechowicz.github.io/assets/img/bio2_photo.jpeg"
     role: grad
 
 justin:
@@ -188,7 +188,7 @@ cuong:
 vignesh:
     display_name: "Vignesh Viswanathan"
     webpage: "https://people.cs.umass.edu/~vviswanathan/"
-    image: "https://people.cs.umass.edu/~vviswanathan/images/Vignesh.jpeg"
+    image: "https://people.cs.umass.edu/~vviswanathan/images/Vignesh_new.jpeg"
     role: grad
 
 vinayak:
