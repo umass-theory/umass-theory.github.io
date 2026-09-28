@@ -77,37 +77,34 @@ A longstanding question in deep learning theory asks why gradient descent (GD) f
 
 <hr>
 
-##### TBD
+##### Towards tight approximation algorithms for maximizing Nash Welfare
 
 [Vignesh Viswanathan](https://people.cs.umass.edu/~vviswanathan/) (UMass Amherst) --  *Wednesday, October 7 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+My talk will be about the problem of dividing a set of indivisible items among agents with differing preferences over these items. The goal of this problem is to compute an allocation that maximizes some objective usually related to fairness and/or efficiency. I will focus on the objective of Nash welfare, which is widely regarded as an objective that (almost) perfectly balances fairness and efficiency.
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
+Despite its popularity, the approximability of max Nash welfare allocations still remains an open question with there being a gap between the best approximation algorithm and the best inapproximability result. I will discuss the following two results making progress on this open question from both directions:
 
-Bio TBA
+(1) I will present an $$(e^{1/e} - c)$$-approximation algorithm for maximizing Nash welfare for some small constant $$c$$.
+(2) I will show that the max Nash welfare is inapproximable by a factor of 1.076 unless the unique games conjecture is false.
 
 </details>
 
 <hr>
 
-##### TBD
+##### Understanding Graph-Based Nearest-Neighbor Search: Limits and Possibilities
 
 [Mohammadreza Daneshvaramoli](https://moreda-a.github.io) (UMass Amherst) --  *Wednesday, October 14 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+A simple way to search a large collection of vectors is to connect them in a graph and follow edges toward points closer to the query. Methods based on this idea work remarkably well in practice, but when can we prove that they are fast? In this talk, I will discuss two recent projects approaching this question from different directions.
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
+First, I will show that a broad class of greedy graph-based search methods can require a linear number of distance computations in the worst case, even if we only want an approximate nearest neighbor. However, adding extra vertices, called Steiner points, changes the picture: we can use them to simulate locality-sensitive hashing and obtain sublinear query time.
 
-Bio TBA
+The second project starts with a geometric question: given a set of points, can we choose two of them so that splitting the dataset according to which one is closer gives two reasonably balanced parts? We show that this is always possible in Euclidean space, with balance depending polynomially on the dimension. The key is a connection to self-approaching sequences—sequences whose points become progressively closer to every other point. I will explain this connection and how it leads to navigable graphs with routing time polynomial in the dimension and logarithmic in the dataset size, using a variant of greedy routing.
 
 </details>
 
