@@ -94,12 +94,12 @@ If you plan to stay overnight before or after the event, some recommended lodgin
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>12:00pm–12:30pm</td>
+      <td>12:00pm–12:40pm</td>
       <td>Student Lightning Talks</td>
       <td>CSL E144</td>
     </tr>
     <tr>
-      <td>12:30pm–2:30pm</td>
+      <td>12:40pm–2:30pm</td>
       <td>Lunch and Poster Session</td>
       <td>CSL E144 and CSL Atrium</td>
     </tr>
