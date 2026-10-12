@@ -30,7 +30,7 @@ Traditional machine learning methods seek to learn functions that map vector-val
 In this talk, I will discuss a research program that seeks to understand the sample complexity of operator learning, which is a critical bottleneck in many applications. We focus in particular on the problem of learning linear operators -- i.e., matrices. Even this restricted setting leads to many interesting theoretical questions. I will highlight recent work that tackles some of these questions by leveraging tools from randomized numerical linear algebra (RandNLA). I will also discuss our efforts to develop a general learning theory for linear operators.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Cameron Musco is an Associate Professor in UMass Amherst's Manning College of Information and Computer Sciences, where he is a member of the Theory Group.  He studies algorithms, working at the intersection of theoretical computer science, numerical linear algebra, and machine learning. His group's research is supported in part by an NSF CAREER Award and a Google Research Scholar Award.  Before UMass, he completed his Ph.D. in the Theory of Computation Group at MIT, advised by Nancy Lynch, and before MIT, he studied Computer Science and Applied Math at Yale.
@@ -56,7 +56,7 @@ technical contribution is evidence that this problem resists the dominant algori
 pruning-and-backtracking.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Charanjit Jutla received his PhD in Computer Science from the University of Texas at Austin in 1990. Since then he has been a Research Staff Member at the IBM T. J. Watson Research Center. His research focuses in the fields of Cryptography, Coding Theory and Complexity Theory. Among his various contributions to cryptography, he invented the first single-pass Authenticated Encryption Scheme. He is the author of several papers and patents in the field of cryptography. He has been on the program committee of various international cryptography conferences.
@@ -68,7 +68,7 @@ Charanjit Jutla received his PhD in Computer Science from the University of Texa
 ##### When do Infinite-Width Neural Networks explain Finite-Width Networks
 
 [Margalit Glasgow](https://margalitglasgow.github.io/) (MIT) --  *Wednesday, September 30 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 A longstanding question in deep learning theory asks why gradient descent (GD) finds good solutions in non-convex neural-network optimization landscapes. One compelling theory is that overparameterization makes the optimization landscape benign, leading GD to find global optima. These global convergence guarantees have even been proven rigorously in some settings for infinite-width neural networks. In this talk, I'll address the question of when such infinite-width convergence guarantees can be transferred to finite-width 2-layer networks. I'll show that whenever the convergence rate of the infinite-width network is faster than 1/t^2, comparable guarantees can be attained in finite-width networks. A key takeaway of our result is that whenever the convergence rate of the infinite-width, population-loss dynamics is faster than 1/t^2 , we can attain a loss of ϵ with only poly(d/ϵ) neurons, training samples, and GD steps.
@@ -80,7 +80,7 @@ A longstanding question in deep learning theory asks why gradient descent (GD) f
 ##### Towards tight approximation algorithms for maximizing Nash Welfare
 
 [Vignesh Viswanathan](https://people.cs.umass.edu/~vviswanathan/) (UMass Amherst) --  *Wednesday, October 7 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 My talk will be about the problem of dividing a set of indivisible items among agents with differing preferences over these items. The goal of this problem is to compute an allocation that maximizes some objective usually related to fairness and/or efficiency. I will focus on the objective of Nash welfare, which is widely regarded as an objective that (almost) perfectly balances fairness and efficiency.
@@ -110,19 +110,13 @@ The second project starts with a geometric question: given a set of points, can 
 
 <hr>
 
-##### TBD
+##### Graph Stream Matchings: Some Results, Surveyed & Simplified
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 21 @ noon*
-<details markdown="1">
+[Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) (UMass Amherst) --  *Wednesday, October 21 @ noon*
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
+You observe a stream of edges being inserted and deleted in a graph. You have limited memory. What can you compute about the graph? Surprisingly, quite a lot. In this talk, we will focus on recent work on the classic graph problem of computing large matchings. We'll consider the problem for arbitrary graphs and for graphs of bounded arboricity.
 
 </details>
 
@@ -226,7 +220,7 @@ Bio TBA
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, December 9 @ noon*
+[Phillip Weinberg](https://www.linkedin.com/in/phillip-weinberg-a8a55262/) (QuEra Computing) --  *Wednesday, December 9 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
