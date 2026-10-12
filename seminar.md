@@ -161,7 +161,7 @@ Bio TBA
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, November 11 @ noon*
+[Vinayak](https://groups.cs.umass.edu/theory/) (UMass Amherst) --  *Wednesday, November 11 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
