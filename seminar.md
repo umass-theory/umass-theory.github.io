@@ -22,7 +22,7 @@ Welcome to the Fall 2026 series of the **University of Massachusetts Computer Sc
 ##### Operator Learning Through the Lens of Linear Algebra
 
 [Cameron Musco](https://people.cs.umass.edu/~cmusco/) (UMass Amherst) --  *Wednesday, September 16 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 Traditional machine learning methods seek to learn functions that map vector-valued input data to scalar-valued outputs or labels. Increasingly, however, applications in scientific machine learning (SciML) and other areas require models that map vector-valued data to vector-valued data. Such operator learning methods have been critical to recent breakthroughs in computational science, including on AI-driven methods for weather prediction, PDE solving, and more.
@@ -42,7 +42,7 @@ Cameron Musco is an Associate Professor in UMass Amherst's Manning College of In
 ##### Distance-Preserving Encryption for Natural-Language Embedding Vectors
 
 [Charanjit S. Jutla](https://simons.berkeley.edu/people/charanjit-jutla) (IBM T. J. Watson Research Center) --  *Wednesday, September 23 @ **12:30pm, LGRC A215 (special time & place)***
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 We study symmetric encryption of high-dimensional embedding vectors that preserves enough
