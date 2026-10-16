@@ -143,7 +143,7 @@ Bio TBA
 
 ##### TBD
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, November 4 @ noon*
+[Yair Zick](https://www.cics.umass.edu/about/directory/yair-zick) (UMass Amherst)  --  *Wednesday, November 4 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
