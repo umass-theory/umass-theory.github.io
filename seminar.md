@@ -123,9 +123,9 @@ You observe a stream of edges being inserted and deleted in a graph. You have li
 <hr>
 
 
-##### TBD
+##### Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology
 
-[TBA](https://groups.cs.umass.edu/theory/) (TBA) --  *Wednesday, October 28 @ noon*
+[Tuomas Laakkonen](https://tuomas56.github.io/) (MIT) --  *Wednesday, October 28 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
