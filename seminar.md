@@ -159,19 +159,17 @@ Bio TBA
 
 <hr>
 
-##### TBD
+##### Peeling Half the Onion: Embedding $k$-Outerplanar Graphs into $L_1$ and Trees
 
 [Vinayak](https://groups.cs.umass.edu/theory/) (UMass Amherst) --  *Wednesday, November 11 @ noon*
 <details markdown="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+How well can the shortest path distances of a graph be represented by distances in the $L_1$ metric? This geometric question is closely connected to multicommodity flows: a low-distortion embedding bounds the gap between sparsest cut and maximum concurrent flow. A longstanding conjecture (with a proof recently proposed by OpenAI) states that every planar graph metric admits an $L_1$ embedding with constant distortion.
 
-</details>
-<details markdown="1">
-<summary>Bio</summary>
+In this talk, I will first introduce the $L_1$-embedding framework and talk about the landscape surrounding this conjecture. I will then discuss our recent work on $k$-outerplanar graphs: planar graphs that can be exhausted by $k$ rounds of deleting vertices on the outer face of their planar embedding. We show that their shortest path metrics embed into $L_1$, and more strongly into distribution over trees, with distortion polynomial in $k$, improving the previous exponential dependence. I will discuss our new ``onion-peeling" approach, which removes half the layers at each recursive step, and explain how random partitions and Steiner point removal allow us to combine embeddings across layers while controlling distortion.
 
-Bio TBA
+This is based on joint work with Hsien-Chih Chang, Jonathan Conroy, William Eliot, and Hung Le.
 
 </details>
 
