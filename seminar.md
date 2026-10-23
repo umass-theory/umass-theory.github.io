@@ -126,16 +126,18 @@ You observe a stream of edges being inserted and deleted in a graph. You have li
 ##### Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology
 
 [Tuomas Laakkonen](https://tuomas56.github.io/) (MIT) --  *Wednesday, October 28 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+To achieve large-scale fault-tolerant quantum computation, it may be easier to combine many small sets of qubits than to construct a single large set. For example via quantum error correction with block codes, or distributed quantum processors utilizing shared entanglement. In these regimes, the time or error budget of the overall quantum computation may be dominated by non-local operations. Hence, given a quantum circuit, it is worthwhile to minimize the number of these operations.
+
+This is likely a hard problem in general, but for an important subset of quantum circuits, Clifford circuits, we show how to compute an asymptotically optimal solution in polynomial time. The method is based on generalizing Gaussian elimination to block matrices and can handle architectures with many partitions, where the connectivity between partitions is arbitrarily restricted. This can be extended to a heuristic algorithm for arbitrary circuits which integrates cleanly with existing approaches for optimizing other metrics, such as T-count.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-Bio TBA
+Tuomas Laakkonen is a PhD student at MIT, with research interests including fault-tolerant quantum circuit optimization and quantum algorithms for differential equations. Previously, they worked at Quantinuum, on quantum algorithms for approximating topological invariants, and completed an MSc at the University of Oxford, studying the connection between tensor networks and counting complexity. 
 
 </details>
 
