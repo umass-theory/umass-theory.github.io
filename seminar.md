@@ -97,7 +97,7 @@ Despite its popularity, the approximability of max Nash welfare allocations stil
 ##### Understanding Graph-Based Nearest-Neighbor Search: Limits and Possibilities
 
 [Mohammadreza Daneshvaramoli](https://moreda-a.github.io) (UMass Amherst) --  *Wednesday, October 14 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 A simple way to search a large collection of vectors is to connect them in a graph and follow edges toward points closer to the query. Methods based on this idea work remarkably well in practice, but when can we prove that they are fast? In this talk, I will discuss two recent projects approaching this question from different directions.
@@ -113,7 +113,7 @@ The second project starts with a geometric question: given a set of points, can 
 ##### Graph Stream Matchings: Some Results, Surveyed & Simplified
 
 [Andrew McGregor](https://people.cs.umass.edu/~mcgregor/) (UMass Amherst) --  *Wednesday, October 21 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 You observe a stream of edges being inserted and deleted in a graph. You have limited memory. What can you compute about the graph? Surprisingly, quite a lot. In this talk, we will focus on recent work on the classic graph problem of computing large matchings. We'll consider the problem for arbitrary graphs and for graphs of bounded arboricity.
@@ -126,7 +126,7 @@ You observe a stream of edges being inserted and deleted in a graph. You have li
 ##### Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology
 
 [Tuomas Laakkonen](https://tuomas56.github.io/) (MIT) --  *Wednesday, October 28 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 To achieve large-scale fault-tolerant quantum computation, it may be easier to combine many small sets of qubits than to construct a single large set. For example via quantum error correction with block codes, or distributed quantum processors utilizing shared entanglement. In these regimes, the time or error budget of the overall quantum computation may be dominated by non-local operations. Hence, given a quantum circuit, it is worthwhile to minimize the number of these operations.
@@ -134,7 +134,7 @@ To achieve large-scale fault-tolerant quantum computation, it may be easier to c
 This is likely a hard problem in general, but for an important subset of quantum circuits, Clifford circuits, we show how to compute an asymptotically optimal solution in polynomial time. The method is based on generalizing Gaussian elimination to block matrices and can handle architectures with many partitions, where the connectivity between partitions is arbitrarily restricted. This can be extended to a heuristic algorithm for arbitrary circuits which integrates cleanly with existing approaches for optimizing other metrics, such as T-count.
 
 </details>
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Bio</summary>
 
 Tuomas Laakkonen is a PhD student at MIT, with research interests including fault-tolerant quantum circuit optimization and quantum algorithms for differential equations. Previously, they worked at Quantinuum, on quantum algorithms for approximating topological invariants, and completed an MSc at the University of Oxford, studying the connection between tensor networks and counting complexity. 
@@ -143,19 +143,16 @@ Tuomas Laakkonen is a PhD student at MIT, with research interests including faul
 
 <hr>
 
-##### TBD
+##### Fair Allocation with Dichotomous Preferences over Item Complements
 
 [Yair Zick](https://www.cics.umass.edu/about/directory/yair-zick) (UMass Amherst)  --  *Wednesday, November 4 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
-
-</details>
-<details markdown="1">
-<summary>Bio</summary>
-
-Bio TBA
+We study the problem of fair allocation when agents have dichotomous preferences over groups of, rather than individual, items. 
+These preferences naturally extend existing models, and have a natural interpretation in settings such as course allocation.
+First, we show that this seemingly minor extension results in computational intractability barriers: computing a utilitarian or Nash-optimal allocation with item complements is NP-hard. However, we present poly-time algorithms that compute 1/2-max-USW allocations and approximately optimal Nash welfare. While PO+EF-1 allocations may not exist in the synergistic preference setting, it is possible to compute 1/3-approximately max-USW EF-X allocations in polynomial time; furthermore, these allocations offer each agent i a utility of at least $(MMS_i - 2)/(3 + 1/n)$, where MMS_i is agent i's maximin share guarantee.
+While the standard dichotomous binary submodular setting admits simple sequential techniques for computing fair and efficient allocations, our results for the complements setting require more complex tools from combinatorial optimization.
 
 </details>
 
@@ -164,7 +161,7 @@ Bio TBA
 ##### Peeling Half the Onion: Embedding $k$-Outerplanar Graphs into $L_1$ and Trees
 
 [Vinayak](https://groups.cs.umass.edu/theory/) (UMass Amherst) --  *Wednesday, November 11 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 How well can the shortest path distances of a graph be represented by distances in the $L_1$ metric? This geometric question is closely connected to multicommodity flows: a low-distortion embedding bounds the gap between sparsest cut and maximum concurrent flow. A longstanding conjecture (with a proof recently proposed by OpenAI) states that every planar graph metric admits an $L_1$ embedding with constant distortion.
@@ -180,7 +177,7 @@ This is based on joint work with Hsien-Chih Chang, Jonathan Conroy, William Elio
 ##### A Polynomial Coreset for Furthest Neighbor in Planar Metrics
 
 [Hector Tierno](https://groups.cs.umass.edu/theory/) (UMass Amherst) --  *Wednesday, November 18 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 Abstract TBA
@@ -203,7 +200,7 @@ Bio TBA
 ##### TBD
 
 [Konstantin Zabarnyi](https://zabarnyi.cswp.cs.technion.ac.il) (Yale) --  *Wednesday, December 2 @ noon*
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Abstract</summary>
   
 Abstract TBA
