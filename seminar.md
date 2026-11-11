@@ -146,7 +146,7 @@ Tuomas Laakkonen is a PhD student at MIT, with research interests including faul
 ##### Fair Allocation with Dichotomous Preferences over Item Complements
 
 [Yair Zick](https://www.cics.umass.edu/about/directory/yair-zick) (UMass Amherst)  --  *Wednesday, November 4 @ noon*
-<details markdown="1" open="1">
+<details markdown="1">
 <summary>Abstract</summary>
   
 We study the problem of fair allocation when agents have dichotomous preferences over groups of, rather than individual, items. 
@@ -158,9 +158,9 @@ While the standard dichotomous binary submodular setting admits simple sequentia
 
 <hr>
 
-##### Peeling Half the Onion: Embedding $k$-Outerplanar Graphs into $L_1$ and Trees
+<!-- ##### Peeling Half the Onion: Embedding $k$-Outerplanar Graphs into $L_1$ and Trees
 
-[Vinayak](https://groups.cs.umass.edu/theory/) (UMass Amherst) --  *Wednesday, November 11 @ noon*
+[Vinayak](https://groups.cs.umass.edu/theory/) (UMass Amherst) --  *(special time!) Thursday, November 12 @ 3pm, CSL E239*
 <details markdown="1" open="1">
 <summary>Abstract</summary>
   
@@ -172,7 +172,7 @@ This is based on joint work with Hsien-Chih Chang, Jonathan Conroy, William Elio
 
 </details>
 
-<hr>
+<hr> -->
 
 ##### A Polynomial Coreset for Furthest Neighbor in Planar Metrics
 
