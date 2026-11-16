@@ -180,13 +180,14 @@ This is based on joint work with Hsien-Chih Chang, Jonathan Conroy, William Elio
 <details markdown="1" open="1">
 <summary>Abstract</summary>
   
-Abstract TBA
+We study the worst-case minimum size of an \eps-coreset for approximate furthest neighbors (equiv. 'strong' 1-center) in planar metrics. To do so, we show that the maximum size of the coreset is bounded by a function of the maximum number of pairs (the index) of a structure called an \eps-comatching. The \eps-comatching index is related to \eps-scattering dimension, introduced by Abbasi et al. in 2023 as a sibling notion to doubling dimension.
+In particular, a result of Pilipczuk and Bourneuf bounds the \eps-scatter dimension by 2^poly(1/\eps) in planar metrics, which implies a matching 2^poly(1/\eps) bound on the size of \eps-coreset for approximate furthest neighbors. The \eps-scattering dimension has an exponential 2^poly(1/\eps) lower bound in planar metrics, in contrast, we show that the \eps-comatching index is bounded by a polynomial, yielding a poly size \eps-coreset.
 
 </details>
-<details markdown="1">
+<details markdown="1" open="1">
 <summary>Bio</summary>
 
-Bio TBA
+Hector Tierno is a graduate student at the College of Information and Computer Sciences, UMass Amherst. Prior to that, he obtained a B.Sc (joint mathematics and computer science) from Harvey Mudd College in 2023. His research interests include planar graphs, digraphs, and algorithms.
 
 </details>
 
